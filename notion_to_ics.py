@@ -6,7 +6,7 @@ from icalendar import Calendar, Event, vText
 import uuid
 
 NOTION_TOKEN = os.environ["NOTION_TOKEN"]
-DATABASE_ID = "2c7e1e4a-8a90-81d8-bcdd-000bad6c15b6"
+DATABASE_ID = "2c7e1e4a8a9081d8bcdd000bad6c15b6"
 
 headers = {
     "Authorization": f"Bearer {NOTION_TOKEN}",
