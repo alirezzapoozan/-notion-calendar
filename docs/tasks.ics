@@ -8,805 +8,986 @@ REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
 X-WR-TIMEZONE:Asia/Tehran
 BEGIN:VEVENT
-SUMMARY:📌 تی ماکس
-DTSTART;TZID="UTC+03:30":20260810T100000
-DTEND;TZID="UTC+03:30":20260810T101500
-DTSTAMP:20260920T061750Z
-UID:3a5e1e4a-8a90-80de-b5ee-c674835ce528
+SUMMARY:📌 امن‌کردن سیستم از طریق رمزنگاری: 
+ رمزکردن اطلاعات با ابزار gpg
+DTSTART;TZID="UTC+03:30":20261005T183000
+DTEND;TZID="UTC+03:30":20261005T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8105-a5d6-f0a47802610c
 CATEGORIES:Linux
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a5e1e4a8a9080deb5eec674835c
- e528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: عیب‌یابی مقدمات
- ی شبکه
-DTSTART;TZID="UTC+03:30":20260826T184000
-DTEND;TZID="UTC+03:30":20260826T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8102-9f47-ee7e753443f3
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081029f47ee7e7534
- 43f3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: اقدامات مدیریتی 
- مربوط به هاست
-DTSTART;TZID="UTC+03:30":20260828T184000
-DTEND;TZID="UTC+03:30":20260828T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8102-a386-ffbe1b8635ec
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908102a386ffbe1b86
- 35ec
+DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۱۳ مهر ۱۴۰۵. ف
+ صل ۱۱. ویدیو + درسنامه. پیش‌نیاز: درس قبلی
+ .\n\n🔗 https://app.notion.com/p/gpg-3e1e1e4a8a908105a5d6f0a47802610c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: اقدامات مدیریتی 
  مربوط به کاربران
-DTSTART;TZID="UTC+03:30":20260828T125000
-DTEND;TZID="UTC+03:30":20260828T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-810b-a7ab-c19994c40815
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90810ba7abc19994c4
- 0815
+DTSTART;TZID="UTC+03:30":20261004T180000
+DTEND;TZID="UTC+03:30":20261004T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8129-ab29-ca6d8d11f914
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. یکشنبه ۱۲ مهر ۱۴۰۵. ت
+ مرین ۵۰۰ امتیازی؛ تخمین حدود ۵۰ دقیقه. پی
+ ش‌نیاز: دو درس قبلی. ترمینال کوئرا باز با
+ شد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908129ab29ca6d8d11f914
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اقدامات مدیریتی مربوط به کاربران:
   بررسی پورت‌های باز و اسکن شبکه
-DTSTART;TZID="UTC+03:30":20260828T100000
-DTEND;TZID="UTC+03:30":20260828T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8111-b880-c1d9f0ba28b4
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908111b880c1d9f0ba
- 28b4
+DTSTART;TZID="UTC+03:30":20261004T173000
+DTEND;TZID="UTC+03:30":20261004T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-813d-95e7-cdc12255fc1a
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۱۲ مهر ۱۴۰۵. ف
+ صل ۱۱. ویدیو + درسنامه. پیش‌نیاز: درس قبلی
+ .\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90813d95e7cdc12255fc1a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: پیکربندی DNS سمت ک
- اربر
-DTSTART;TZID="UTC+03:30":20260827T125000
-DTEND;TZID="UTC+03:30":20260827T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8114-8081-e6726113f47d
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/DNS-3a1e1e4a8a9081148081e672
- 6113f47d
+SUMMARY:📌 اهداف فصل ۱۱: امنیت
+DTSTART;TZID="UTC+03:30":20261004T165500
+DTEND;TZID="UTC+03:30":20261004T170000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8152-837e-cc92b3dab420
+CATEGORIES:Linux
+DESCRIPTION:⏱ کمتر از ۱ پومودورو (حدود ۵ دقیقه)
+ . یکشنبه ۱۲ مهر ۱۴۰۵. درس معرفی اهداف فصل 
+ ۱۱.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908152837ecc92b3dab420
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 تنظیمات پایدار شبکه: تنظیمات اسم 
- هاست (Hostname)، DNS و ...
-DTSTART;TZID="UTC+03:30":20260825T211500
-DTEND;TZID="UTC+03:30":20260825T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8117-a1cc-c367dfbe9683
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/Hostname-DNS-3a1e1e4a8a90811
- 7a1ccc367dfbe9683
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 مدیریت ایمیل از طریق Mail Transfer Agents
-DTSTART;TZID="UTC+03:30":20260823T211500
-DTEND;TZID="UTC+03:30":20260823T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-811a-988d-c939a06dbbbc
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/Mail-Transfer-Agents-3a1e1e4
- a8a90811a988dc939a06dbbbc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 سرویس DNS در سمت کلاینت
-DTSTART;TZID="UTC+03:30":20260827T100000
-DTEND;TZID="UTC+03:30":20260827T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8123-983f-d48055a82466
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/DNS-3a1e1e4a8a908123983fd480
- 55a82466
+SUMMARY:📌 اِلپیک‌اُلمپیک: اقدامات مدیریتی 
+ مربوط به هاست
+DTSTART;TZID="UTC+03:30":20261005T170000
+DTEND;TZID="UTC+03:30":20261005T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-815a-922a-e7772ae58d91
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. دوشنبه ۱۳ مهر ۱۴۰۵. ت
+ مرین ۲۶۰ امتیازی؛ تخمین حدود ۴۰ دقیقه. پی
+ ش‌نیاز: درس مدیریت ورود و سوپر سرورها. تر
+ مینال کوئرا باز باشد.\n\n🔗 https://app.notion.com/p/3e
+ 1e1e4a8a90815a922ae7772ae58d91
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 امن‌کردن سیستم از طریق رمزنگاری: 
  درک خوب از تونل‌های SSH
-DTSTART;TZID="UTC+03:30":20260829T125000
-DTEND;TZID="UTC+03:30":20260829T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8126-81d7-fa70f59ebe18
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/SSH-3a1e1e4a8a90812681d7fa70
- f59ebe18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 امن‌کردن سیستم از طریق رمزنگاری: 
- رمزکردن اطلاعات با ابزار gpg
-DTSTART;TZID="UTC+03:30":20260829T154500
-DTEND;TZID="UTC+03:30":20260829T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-812c-a7a4-f47543aa62e7
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/gpg-3a1e1e4a8a90812ca7a4f475
- 43aa62e7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 مقدمات شبکه: پروتکل‌های ارتباطی،
-  ICMP، UDP، TCP و پورت‌ها و IPv6
-DTSTART;TZID="UTC+03:30":20260825T125000
-DTEND;TZID="UTC+03:30":20260825T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-813a-b1ff-e12ffc701990
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/ICMP-UDP-TCP-IPv6-3a1e1e4a8a
- 90813ab1ffe12ffc701990
+DTSTART;TZID="UTC+03:30":20261005T180000
+DTEND;TZID="UTC+03:30":20261005T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-815b-80e3-e84b17100a85
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۱۳ مهر ۱۴۰۵. ف
+ صل ۱۱. ویدیو + درسنامه. پیش‌نیاز: درس جفت
+ ‌کلید و SSH.\n\n🔗 https://app.notion.com/p/SSH-3e1e1e4a8a90815b8
+ 0e3e84b17100a85
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 امن‌کردن سیستم از طریق رمزنگاری: 
  مفهوم جفت‌کلید و کاربرد در SSH
-DTSTART;TZID="UTC+03:30":20260829T100000
-DTEND;TZID="UTC+03:30":20260829T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-813b-8b1f-c6166fad3cb9
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/SSH-3a1e1e4a8a90813b8b1fc616
- 6fad3cb9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: امن‌کردن سیستم 
- از طریق رمزنگاری
-DTSTART;TZID="UTC+03:30":20260829T184000
-DTEND;TZID="UTC+03:30":20260829T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-814b-bb8f-c3667a391c05
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90814bbb8fc3667a39
- 1c05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اقدامات مدیریتی مربوط به هاست: مد
- یریت ورود، سوپر سرورها و مدیریت سرویس
-DTSTART;TZID="UTC+03:30":20260828T154500
-DTEND;TZID="UTC+03:30":20260828T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8156-93d2-f168c8909564
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90815693d2f168c890
- 9564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اهداف فصل
-DTSTART;TZID="UTC+03:30":20260827T154500
-DTEND;TZID="UTC+03:30":20260827T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-815c-996c-cc8cb445ef37
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90815c996ccc8cb445
- ef37
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 مقدمات شبکه: آشنایی با TCP/IP و مفاهی
- م اولیه
-DTSTART;TZID="UTC+03:30":20260824T211500
-DTEND;TZID="UTC+03:30":20260824T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8160-a821-c2b78624a274
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/TCP-IP-3a1e1e4a8a908160a821c
- 2b78624a274
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: لاگ‌های سیستم
-DTSTART;TZID="UTC+03:30":20260823T184000
-DTEND;TZID="UTC+03:30":20260823T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8164-bcc4-fc312765bcc5
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908164bcc4fc312765
- bcc5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: مدیریت پرینترها 
- و سیستم چاپ
-DTSTART;TZID="UTC+03:30":20260824T154500
-DTEND;TZID="UTC+03:30":20260824T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8170-806e-da930b379220
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908170806eda930b37
- 9220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اهداف فصل
-DTSTART;TZID="UTC+03:30":20260824T184000
-DTEND;TZID="UTC+03:30":20260824T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8173-a6d2-cfafe4cce5d7
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908173a6d2cfafe4cc
- e5d7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 لاگ‌های سیستم: بررسی و مدیریت لاگ
- ‌ها با journalctl از systemd
-DTSTART;TZID="UTC+03:30":20260823T154500
-DTEND;TZID="UTC+03:30":20260823T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8181-823a-cac5043a7cb8
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/journalctl-systemd-3a1e1e4a8
- a908181823acac5043a7cb8
+DTSTART;TZID="UTC+03:30":20261004T194500
+DTEND;TZID="UTC+03:30":20261004T201000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-815c-8d25-ff5ccfb27e1e
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۱۲ مهر ۱۴۰۵. ف
+ صل ۱۱. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/S
+ SH-3e1e1e4a8a90815c8d25ff5ccfb27e1e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اقدامات مدیریتی مربوط به کاربران:
   sudo، su، پسورد و محدودیت‌ها
-DTSTART;TZID="UTC+03:30":20260827T184000
-DTEND;TZID="UTC+03:30":20260827T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81ae-818e-faf675630b44
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/sudo-su-3a1e1e4a8a9081ae818e
- faf675630b44
+DTSTART;TZID="UTC+03:30":20261004T170000
+DTEND;TZID="UTC+03:30":20261004T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-816d-97f3-e66bafdd8d8f
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۱۲ مهر ۱۴۰۵. ف
+ صل ۱۱ (مجموع ۶ ویدیوی فصل حدود ۱۳۰ دقیقه، 
+ یعنی میانگین حدود ۲۲ دقیقه؛ طول واقعی از 
+ سایت) + درسنامه. اگر ویدیو با سرعت ۱.۲۵ بین
+ ی جا می‌شود.\n\n🔗 https://app.notion.com/p/sudo-su-3e1e1e4a8a
+ 90816d97f3e66bafdd8d8f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 مدیریت پرینترها و سیستم چاپ از طر
- یق سرویس CUPS و دیگر ابزارها
-DTSTART;TZID="UTC+03:30":20260824T125000
-DTEND;TZID="UTC+03:30":20260824T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81b8-b9a9-c79f18f2ae0c
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/CUPS-3a1e1e4a8a9081b8b9a9c79
- f18f2ae0c
+SUMMARY:📌 اقدامات مدیریتی مربوط به هاست: مد
+ یریت ورود، سوپر سرورها و مدیریت سرویس
+DTSTART;TZID="UTC+03:30":20261004T191500
+DTEND;TZID="UTC+03:30":20261004T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-817e-acb8-e1d6db732edc
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۱۲ مهر ۱۴۰۵. ف
+ صل ۱۱. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/3
+ e1e1e4a8a90817eacb8e1d6db732edc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: مبانی عامل‌های 
- انتقال پیام
-DTSTART;TZID="UTC+03:30":20260824T100000
-DTEND;TZID="UTC+03:30":20260824T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81cd-b9db-c0b4a86d54f6
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081cdb9dbc0b4a86d
- 54f6
+SUMMARY:📌 اِلپیک‌اُلمپیک: امن‌کردن سیستم 
+ از طریق رمزنگاری
+DTSTART;TZID="UTC+03:30":20261005T191500
+DTEND;TZID="UTC+03:30":20261005T201000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81c8-85ad-dc92b0d66a0b
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. دوشنبه ۱۳ مهر ۱۴۰۵. ت
+ مرین ۳۰۰ امتیازی؛ آخرین کار دوره، تخمین 
+ حدود ۴۰ دقیقه. پیش‌نیاز: سه درس رمزنگاری.
+  روزهای ۱۴ و ۱۵ مهر ذخیره‌ی عقب‌افتادگی 
+ است؛ مهلت دوره ۱۵ مهر.\n\n🔗 https://app.notion.com/p/3
+ e1e1e4a8a9081c885addc92b0d66a0b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 تنظیمات پایدار شبکه: مقدمات، دستو
- رات و فایل‌های تنظیمات شبکه
-DTSTART;TZID="UTC+03:30":20260825T184000
-DTEND;TZID="UTC+03:30":20260825T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81ce-a347-e71dcbf41a48
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081cea347e71dcbf4
- 1a48
+SUMMARY:📌 اِلپیک‌اُلمپیک: پیکربندی DNS سمت ک
+ اربر
+DTSTART;TZID="UTC+03:30":20261003T191500
+DTEND;TZID="UTC+03:30":20261003T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8122-9cae-c0b9a0fb8d5e
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. شنبه ۱۱ مهر ۱۴۰۵. تمر
+ ین ۲۰۰ امتیازی؛ آخرین کار فصل ۱۰، تخمین ح
+ دود ۲۵ دقیقه. پیش‌نیاز: درس DNS سمت کلاینت.
+ \n\n🔗 https://app.notion.com/p/DNS-3e1e1e4a8a9081229caec0b9a0fb8d5e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 مقدمات شبکه: ساب‌نت، ساب‌نتینگ و
+  تبدیل دسیمال به باینری و برعکس
+DTSTART;TZID="UTC+03:30":20260930T180000
+DTEND;TZID="UTC+03:30":20260930T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8147-9530-dbd4f4e0f206
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۸ مهر ۱۴۰۵. 
+ فصل ۱۰. ویدیو + درسنامه (حساب‌وکتاب دستی 
+ در کاغذ لازم است). پیش‌نیاز: درس قبلی.\n\n
+ 🔗 https://app.notion.com/p/3e1e1e4a8a9081479530dbd4f4e0f206
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: مقدمات شبکه
-DTSTART;TZID="UTC+03:30":20260825T154500
-DTEND;TZID="UTC+03:30":20260825T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81d7-9abe-f79a1b78be51
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081d79abef79a1b78
- be51
+DTSTART;TZID="UTC+03:30":20260930T191500
+DTEND;TZID="UTC+03:30":20260930T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-814c-b468-fb1706a1191a
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۸ مهر ۱۴۰۵. 
+ تمرین ۲۰۰ امتیازی؛ تخمین حدود ۲۵ دقیقه. پ
+ یش‌نیاز: سه درس مقدمات شبکه. ترمینال کوئ
+ را باز باشد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90814cb46
+ 8fb1706a1191a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: مدیریت زمان سیست
- م
-DTSTART;TZID="UTC+03:30":20260822T211500
-DTEND;TZID="UTC+03:30":20260822T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81dd-bde9-c135d9ab36cf
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081ddbde9c135d9ab
- 36cf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 لاگ‌های سیستم: مفاهیم، کرنل رینگ 
- بافر، دستور dmesg و logrotate
-DTSTART;TZID="UTC+03:30":20260823T100000
-DTEND;TZID="UTC+03:30":20260823T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81e2-91be-d227f719b0a5
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/dmesg-logrotate-3a1e1e4a8a90
- 81e291bed227f719b0a5
+SUMMARY:📌 اِلپیک‌اُلمپیک: عیب‌یابی مقدمات
+ ی شبکه
+DTSTART;TZID="UTC+03:30":20261003T173000
+DTEND;TZID="UTC+03:30":20261003T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-817a-9b93-de720ec39458
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. شنبه ۱۱ مهر ۱۴۰۵. تمر
+ ین ۴۰۰ امتیازی؛ تخمین حدود ۴۵ دقیقه. پیش
+ ‌نیاز: دو درس عیب‌یابی شبکه. ترمینال کوئ
+ را باز باشد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90817a9b9
+ 3de720ec39458
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 عیب‌یابی مقدماتی شبکه: آیپی، مسی
  ریابی و پینگ
-DTSTART;TZID="UTC+03:30":20260826T125000
-DTEND;TZID="UTC+03:30":20260826T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81e5-b232-db971bc917a7
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081e5b232db971bc9
- 17a7
+DTSTART;TZID="UTC+03:30":20261001T191500
+DTEND;TZID="UTC+03:30":20261001T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8183-a225-c9bb12d9d7de
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۹ مهر ۱۴۰۵. ف
+ صل ۱۰. ویدیو + درسنامه. فردا جمعه تعطیل اس
+ ت.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908183a225c9bb12d9d7de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 تنظیمات پایدار شبکه: مقدمات، دستو
+ رات و فایل‌های تنظیمات شبکه
+DTSTART;TZID="UTC+03:30":20261001T170000
+DTEND;TZID="UTC+03:30":20261001T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-818b-8121-dded69e66583
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۹ مهر ۱۴۰۵. ف
+ صل ۱۰. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/3
+ e1e1e4a8a90818b8121dded69e66583
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 مقدمات شبکه: آشنایی با TCP/IP و مفاهی
+ م اولیه
+DTSTART;TZID="UTC+03:30":20260930T173000
+DTEND;TZID="UTC+03:30":20260930T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8197-a1a6-c107ef4435c8
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۸ مهر ۱۴۰۵. 
+ فصل ۱۰ (مجموع ۸ ویدیوی فصل حدود ۱۴۰ دقیقه
+ ، طول واقعی از سایت) + درسنامه.\n\n🔗 https://app.
+ notion.com/p/TCP-IP-3e1e1e4a8a908197a1a6c107ef4435c8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 سرویس DNS در سمت کلاینت
+DTSTART;TZID="UTC+03:30":20261003T183000
+DTEND;TZID="UTC+03:30":20261003T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81a1-91cf-e95de3f63e0a
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. شنبه ۱۱ مهر ۱۴۰۵. فصل
+  ۱۰. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/DNS-3
+ e1e1e4a8a9081a191cfe95de3f63e0a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 عیب‌یابی مقدماتی شبکه: بررسی، ای
  جاد و تست اتصالات
-DTSTART;TZID="UTC+03:30":20260826T154500
-DTEND;TZID="UTC+03:30":20260826T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81ee-a48d-d831f76f4205
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081eea48dd831f76f
- 4205
+DTSTART;TZID="UTC+03:30":20261003T170000
+DTEND;TZID="UTC+03:30":20261003T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81ab-9888-f7a053030bfc
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. شنبه ۱۱ مهر ۱۴۰۵. فصل
+  ۱۰. ویدیو + درسنامه. پیش‌نیاز: درس قبلی.\n
+ \n🔗 https://app.notion.com/p/3e1e1e4a8a9081ab9888f7a053030bfc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: تنظیمات پایدار ش
  بکه
-DTSTART;TZID="UTC+03:30":20260826T100000
-DTEND;TZID="UTC+03:30":20260826T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81f2-b0d0-ee8d4f67f28c
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081f2b0d0ee8d4f67
- f28c
+DTSTART;TZID="UTC+03:30":20261001T180000
+DTEND;TZID="UTC+03:30":20261001T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81ce-b8b7-f5937c5f3074
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. پنجشنبه ۹ مهر ۱۴۰۵. ت
+ مرین ۳۰۰ امتیازی؛ تخمین حدود ۴۰ دقیقه. پی
+ ش‌نیاز: دو درس تنظیمات پایدار. ترمینال ک
+ وئرا باز باشد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081c
+ eb8b7f5937c5f3074
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 مقدمات شبکه: ساب‌نت، ساب‌نتیگ و 
- تبدیل دسیمال به باینری و برعکس
-DTSTART;TZID="UTC+03:30":20260825T100000
-DTEND;TZID="UTC+03:30":20260825T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81f4-864b-f0e59a142391
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081f4864bf0e59a14
- 2391
+SUMMARY:📌 تنظیمات پایدار شبکه: تنظیمات اسم 
+ هاست (Hostname)، DNS و ...
+DTSTART;TZID="UTC+03:30":20261001T173000
+DTEND;TZID="UTC+03:30":20261001T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81f0-bffa-d97f7a68c6d8
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۹ مهر ۱۴۰۵. ف
+ صل ۱۰. ویدیو + درسنامه. پیش‌نیاز: درس قبلی
+ .\n\n🔗 https://app.notion.com/p/Hostname-DNS-3e1e1e4a8a9081f0bffad97f7a
+ 68c6d8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اهداف فصل ۱۰: مبانی شبکه
+DTSTART;TZID="UTC+03:30":20260930T165500
+DTEND;TZID="UTC+03:30":20260930T170000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81f5-a384-f340875de75d
+CATEGORIES:Linux
+DESCRIPTION:⏱ کمتر از ۱ پومودورو (حدود ۵ دقیقه)
+ . چهارشنبه ۸ مهر ۱۴۰۵. درس معرفی اهداف فصل
+  ۱۰.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081f5a384f340875de75d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 مقدمات شبکه: پروتکل‌های ارتباطی،
+  ICMP، UDP، TCP و پورت‌ها و IPv6
+DTSTART;TZID="UTC+03:30":20260930T183000
+DTEND;TZID="UTC+03:30":20260930T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81f7-8394-c36e60dc5822
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۸ مهر ۱۴۰۵. 
+ فصل ۱۰. ویدیو + درسنامه. پیش‌نیاز: درس قبل
+ ی.\n\n🔗 https://app.notion.com/p/ICMP-UDP-TCP-IPv6-3e1e1e4a8a9081f7839
+ 4c36e60dc5822
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 لاگ‌های سیستم: تنظیم و استفاده از
   rsyslog برای مدیریت لاگ‌ها
-DTSTART;TZID="UTC+03:30":20260823T125000
-DTEND;TZID="UTC+03:30":20260823T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81f4-a8d7-f3d5f2d65358
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/rsyslog-3a1e1e4a8a9081f4a8d7
- f3d5f2d65358
+DTSTART;TZID="UTC+03:30":20260928T183000
+DTEND;TZID="UTC+03:30":20260928T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-812e-aa11-cb0c72780f33
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۶ مهر ۱۴۰۵. فص
+ ل ۹. ویدیو + درسنامه. پیش‌نیاز: درس قبلی.\n
+ \n🔗 https://app.notion.com/p/rsyslog-3e1e1e4a8a90812eaa11cb0c72780f33
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 مدیریت کاربران و گروه‌ها: حذف، تغ
- ییر، اضافه و تغییر پسورد
-DTSTART;TZID="UTC+03:30":20260820T211500
-DTEND;TZID="UTC+03:30":20260820T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8103-b2ac-f2498c2e957d
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908103b2acf2498c2e
- 957d
+SUMMARY:📌 اِلپیک‌اُلمپیک: مدیریت زمان سیست
+ م
+DTSTART;TZID="UTC+03:30":20260928T170000
+DTEND;TZID="UTC+03:30":20260928T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8160-ac95-d85443af804b
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. دوشنبه ۶ مهر ۱۴۰۵. تم
+ رین ۳۲۰ امتیازی؛ تخمین حدود ۴۰ دقیقه. پیش
+ ‌نیاز: دو درس مدیریت زمان. ترمینال کوئرا 
+ باز باشد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908160ac95d854
+ 43af804b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 محلی‌سازی و جهانی‌سازی در لینوک
- س/تغییر تایم‌زون، تنظیمات منطقه‌ای
-DTSTART;TZID="UTC+03:30":20260821T211500
-DTEND;TZID="UTC+03:30":20260821T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8105-b59e-dc74c39943d4
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908105b59edc74c399
- 43d4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اهداف فصل
-DTSTART;TZID="UTC+03:30":20260820T184000
-DTEND;TZID="UTC+03:30":20260820T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-810b-8976-f5ce4b7d52ee
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90810b8976f5ce4b7d
- 52ee
+SUMMARY:📌 لاگ‌های سیستم: مفاهیم، کرنل رینگ 
+ بافر، دستور dmesg و logrotate
+DTSTART;TZID="UTC+03:30":20260928T180000
+DTEND;TZID="UTC+03:30":20260928T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-817a-a87d-e76ad81626e5
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۶ مهر ۱۴۰۵. فص
+ ل ۹. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/dmesg
+ -logrotate-3e1e1e4a8a90817aa87de76ad81626e5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 مدیریت زمان سیستم: درک زمان سخت‌ا
  فزاری و نرم‌افزاری و تایم‌زون‌ها
-DTSTART;TZID="UTC+03:30":20260822T154500
-DTEND;TZID="UTC+03:30":20260822T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-810b-8de3-e5111b2701d2
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90810b8de3e5111b27
- 01d2
+DTSTART;TZID="UTC+03:30":20260927T183000
+DTEND;TZID="UTC+03:30":20260927T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-817c-96a3-ec8f3e43b488
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۵ مهر ۱۴۰۵. فص
+ ل ۹ (مجموع ۷ ویدیوی فصل حدود ۱۳۱ دقیقه، طو
+ ل واقعی از سایت) + درسنامه.\n\n🔗 https://app.notion.
+ com/p/3e1e1e4a8a90817c96a3ec8f3e43b488
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 اهداف فصل
-DTSTART;TZID="UTC+03:30":20260814T211500
-DTEND;TZID="UTC+03:30":20260814T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-810b-a1cf-d1df04d296e4
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90810ba1cfd1df04d2
- 96e4
+SUMMARY:📌 اِلپیک‌اُلمپیک: مدیریت پرینترها 
+ و سیستم چاپ
+DTSTART;TZID="UTC+03:30":20260930T170000
+DTEND;TZID="UTC+03:30":20260930T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8180-a4a6-fd52dc8d1cc9
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۸ مهر ۱۴۰۵. 
+ تمرین ۲۰۰ امتیازی؛ آخرین کار فصل ۹، تخمی
+ ن حدود ۲۵ دقیقه. پیش‌نیاز: درس CUPS.\n\n🔗 https
+ ://app.notion.com/p/3e1e1e4a8a908180a4a6fd52dc8d1cc9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 حفظ سلامت فایل‌سیستم: بررسی وضعی
- ت و تعمیر فایل‌سیستم‌ها
-DTSTART;TZID="UTC+03:30":20260815T211500
-DTEND;TZID="UTC+03:30":20260815T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8111-b9f7-d75e2dec11c0
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908111b9f7d75e2dec
- 11c0
+SUMMARY:📌 اهداف فصل ۹: سرویس‌های ضروری سیست
+ م
+DTSTART;TZID="UTC+03:30":20260927T182500
+DTEND;TZID="UTC+03:30":20260927T183000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8182-bbd2-f8b71ba7fa92
+CATEGORIES:Linux
+DESCRIPTION:⏱ کمتر از ۱ پومودورو (حدود ۵ دقیقه
+ ، در استراحت بین پومودوروها). یکشنبه ۵ مه
+ ر ۱۴۰۵. درس معرفی اهداف فصل ۹.\n\n🔗 https://app.n
+ otion.com/p/3e1e1e4a8a908182bbd2f8b71ba7fa92
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 درک لایه گرافیکی در لینوکس و نصب و
-  تنظیمات X11
-DTSTART;TZID="UTC+03:30":20260820T100000
-DTEND;TZID="UTC+03:30":20260820T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8114-a552-e2e49e1a2f0a
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/X11-3a1e1e4a8a908114a552e2e4
- 9e1a2f0a
+SUMMARY:📌 اِلپیک‌اُلمپیک: لاگ‌های سیستم
+DTSTART;TZID="UTC+03:30":20260929T170000
+DTEND;TZID="UTC+03:30":20260929T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8194-a977-fac8f66a280f
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. سه‌شنبه ۷ مهر ۱۴۰۵. 
+ تمرین ۴۰۰ امتیازی؛ تخمین حدود ۴۵ دقیقه. پ
+ یش‌نیاز: سه درس لاگ‌ها. ترمینال کوئرا با
+ ز باشد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908194a977fac8f66a
+ 280f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 مانت و آن‌مانت‌کردن فایل‌سیستم
- ‌ها در دنیای لینوکس/یونیکس
-DTSTART;TZID="UTC+03:30":20260816T154500
-DTEND;TZID="UTC+03:30":20260816T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8115-b9f7-ff5c2ccff3c6
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908115b9f7ff5c2ccf
- f3c6
+SUMMARY:📌 لاگ‌های سیستم: بررسی و مدیریت لاگ
+ ‌ها با journalctl از systemd
+DTSTART;TZID="UTC+03:30":20260928T191500
+DTEND;TZID="UTC+03:30":20260928T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8197-b1a8-d4270b39b9c5
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۶ مهر ۱۴۰۵. فص
+ ل ۹. ویدیو + درسنامه. پیش‌نیاز: درس قبلی.\n
+ \n🔗 https://app.notion.com/p/journalctl-systemd-3e1e1e4a8a908197b1a8d42
+ 70b39b9c5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 مانت‌کردن با استفاده از UUID و fstab
-DTSTART;TZID="UTC+03:30":20260816T184000
-DTEND;TZID="UTC+03:30":20260816T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8116-8238-fad9436e3486
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/UUID-fstab-3a1e1e4a8a9081168
- 238fad9436e3486
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 مدیریت کاربران و گروه‌ها: فایل‌ه
- ای مرتبط با این اطلاعات
-DTSTART;TZID="UTC+03:30":20260821T100000
-DTEND;TZID="UTC+03:30":20260821T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8118-9e21-e04f3d930534
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081189e21e04f3d93
- 0534
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اهداف فصل
-DTSTART;TZID="UTC+03:30":20260818T154500
-DTEND;TZID="UTC+03:30":20260818T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8122-8a6e-ce0acea68330
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081228a6ece0acea6
- 8330
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 شواهد یخ‌زده
-DTSTART;TZID="UTC+03:30":20260816T211500
-DTEND;TZID="UTC+03:30":20260816T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8123-aa6d-eeb5eb789008
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908123aa6deeb5eb78
- 9008
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 یوزر، گروه و دسترسی‌ها در دنیای ل
- ینوکس
-DTSTART;TZID="UTC+03:30":20260817T125000
-DTEND;TZID="UTC+03:30":20260817T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8144-a85d-d64896b3d497
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908144a85dd64896b3
- d497
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 ساختار سلسله‌مراتبی فایل‌سیستم 
- یونیکس و لینوکس و پیدا‌کردن فایل‌ها
-DTSTART;TZID="UTC+03:30":20260818T100000
-DTEND;TZID="UTC+03:30":20260818T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8149-b894-f2e60aadb4fb
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908149b894f2e60aad
- b4fb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: پروسه‌ها در لین
- وکس
-DTSTART;TZID="UTC+03:30":20260814T100000
-DTEND;TZID="UTC+03:30":20260814T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-814a-b910-fe72f367de48
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90814ab910fe72f367
- de48
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: مانت و آن‌مانت‌
- کردن فایل‌سیستم‌ها
-DTSTART;TZID="UTC+03:30":20260817T100000
-DTEND;TZID="UTC+03:30":20260817T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-814e-98be-db4a2f73ca1c
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90814e98bedb4a2f73
- ca1c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 هارد و سافت لینک‌ها در لینوکس: مف
- هوم، استفاده و کاربرد
-DTSTART;TZID="UTC+03:30":20260817T211500
-DTEND;TZID="UTC+03:30":20260817T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8150-b888-f35f1040d3df
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908150b888f35f1040
- d3df
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: یوزر، گروه و دست
- رسی‌ها
-DTSTART;TZID="UTC+03:30":20260817T184000
-DTEND;TZID="UTC+03:30":20260817T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8152-b244-c6386dcbaa79
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908152b244c6386dcb
- aa79
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 حفظ سلامت فایل‌سیستم: بررسی فضای 
- خالی و میزان مصرف دیسک
-DTSTART;TZID="UTC+03:30":20260815T184000
-DTEND;TZID="UTC+03:30":20260815T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-815c-a6fe-c05fd39c7c27
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90815ca6fec05fd39c
- 7c27
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 برنامه‌ریزی و زمان‌بندی کارها ا
- ز طریق کرون، at و تایمرهای systemd
-DTSTART;TZID="UTC+03:30":20260821T154500
-DTEND;TZID="UTC+03:30":20260821T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8162-85a0-f0bd0b94cbd7
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/at-systemd-3a1e1e4a8a9081628
- 5a0f0bd0b94cbd7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 شکارچی پروسه‌ها
-DTSTART;TZID="UTC+03:30":20260813T184000
-DTEND;TZID="UTC+03:30":20260813T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8164-9dc5-dd4b5eeaeaa5
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081649dc5dd4b5eea
- eaa5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 پروسه‌ها در لینوکس: مالتی‌پلکسر
- ‌های ترمینال
-DTSTART;TZID="UTC+03:30":20260813T125000
-DTEND;TZID="UTC+03:30":20260813T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8166-b3ac-c4051f965ff2
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908166b3acc4051f96
- 5ff2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 پارتیشن‌بندی با gdisk، fdisk و parted: بخ
- ش دوم
-DTSTART;TZID="UTC+03:30":20260815T125000
-DTEND;TZID="UTC+03:30":20260815T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8167-8a21-c466e2b2aac1
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/gdisk-fdisk-parted-3a1e1e4a8
- a9081678a21c466e2b2aac1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: مدیریت کاربران و
-  گروه‌ها
-DTSTART;TZID="UTC+03:30":20260821T125000
-DTEND;TZID="UTC+03:30":20260821T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-816a-9ccd-ff56dcdd5231
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90816a9ccdff56dcdd
- 5231
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: محلی‌سازی و جها
- نی‌سازی در لینوکس
-DTSTART;TZID="UTC+03:30":20260822T100000
-DTEND;TZID="UTC+03:30":20260822T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-817a-ae36-d6c121a288ca
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90817aae36d6c121a2
- 88ca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 پارتیشن‌بندی با gdisk، fdisk و parted: بخ
- ش اول
-DTSTART;TZID="UTC+03:30":20260815T100000
-DTEND;TZID="UTC+03:30":20260815T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8180-9710-ecc2923cecdb
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/gdisk-fdisk-parted-3a1e1e4a8
- a9081809710ecc2923cecdb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: خودکارسازی وظای
- ف مدیریتی با زمان‌بندی کارها
-DTSTART;TZID="UTC+03:30":20260821T184000
-DTEND;TZID="UTC+03:30":20260821T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8182-883f-ef426d64271d
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908182883fef426d64
- 271d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 مقدمات اسکریپت‌نویسی شِل: شِبَنگ
- ، متغیر‌های اسکریپت و اجرا
-DTSTART;TZID="UTC+03:30":20260819T125000
-DTEND;TZID="UTC+03:30":20260819T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-818f-94ed-cd8d2c95bdfc
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90818f94edcd8d2c95
- bdfc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: پارتیشن‌بندی با
-  gdisk، fdisk و parted
-DTSTART;TZID="UTC+03:30":20260815T154500
-DTEND;TZID="UTC+03:30":20260815T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8190-accc-c61e1c6ffce2
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/gdisk-fdisk-parted-3a1e1e4a8
- a908190acccc61e1c6ffce2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: سفارشی‌سازی و ا
- ستفاده از محیط شِل
-DTSTART;TZID="UTC+03:30":20260819T100000
-DTEND;TZID="UTC+03:30":20260819T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8191-a512-e103411cff63
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908191a512e103411c
- ff63
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: مقدمات اسکریپت‌
- نویسی شِل
-DTSTART;TZID="UTC+03:30":20260819T184000
-DTEND;TZID="UTC+03:30":20260819T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8192-9002-e87747c7642c
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081929002e87747c7
- 642c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 متغیرهای محیطی شِل
-DTSTART;TZID="UTC+03:30":20260818T184000
-DTEND;TZID="UTC+03:30":20260818T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8196-8eb9-c7fd986621fc
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081968eb9c7fd9866
- 21fc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 بررسی و مدیریت اولویت پروسه‌ها د
- ر لینوکس
-DTSTART;TZID="UTC+03:30":20260813T154500
-DTEND;TZID="UTC+03:30":20260813T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-8197-adc1-e639620f35f9
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a908197adc1e639620f
- 35f9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: رجکس، جست‌وجو د
- ر فایل‌ها و ادیتورهای لینوکسی
-DTSTART;TZID="UTC+03:30":20260814T184000
-DTEND;TZID="UTC+03:30":20260814T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-819a-851b-f0332230e7fb
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a90819a851bf0332230
- e7fb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 دسترسی‌پذیری در دنیای گنو/لینوکس
-DTSTART;TZID="UTC+03:30":20260820T154500
-DTEND;TZID="UTC+03:30":20260820T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81a0-8311-e8f26852f7a4
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081a08311e8f26852
- f7a4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 پروسه‌ها در لینوکس: نظارت پروسه‌
- ها
-DTSTART;TZID="UTC+03:30":20260813T100000
-DTEND;TZID="UTC+03:30":20260813T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81a4-a5c9-f7677ae45a25
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081a4a5c9f7677ae4
- 5a25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 حالت‌های مختلف شِل: لاگین شِل، تع
- املی و غیرتعاملی
-DTSTART;TZID="UTC+03:30":20260818T211500
-DTEND;TZID="UTC+03:30":20260818T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81ae-8a24-c264befb2488
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081ae8a24c264befb
- 2488
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اهداف فصل
-DTSTART;TZID="UTC+03:30":20260819T211500
-DTEND;TZID="UTC+03:30":20260819T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81b5-be06-ef3de5f82c1f
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081b5be06ef3de5f8
- 2c1f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: حفظ سلامت فایل‌
- سیستم
-DTSTART;TZID="UTC+03:30":20260816T125000
-DTEND;TZID="UTC+03:30":20260816T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81cc-a1fa-e1226dd532e9
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081cca1fae1226dd5
- 32e9
+SUMMARY:📌 اِلپیک‌اُلمپیک: مبانی عامل‌های 
+ انتقال پیام
+DTSTART;TZID="UTC+03:30":20260929T183000
+DTEND;TZID="UTC+03:30":20260929T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-819a-8abb-fc3e14e29d09
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. سه‌شنبه ۷ مهر ۱۴۰۵. 
+ تمرین ۳۴۰ امتیازی؛ تخمین حدود ۴۰ دقیقه (ب
+ ازه شامل استراحت بلند بین پومودورو چهارم
+  و پنجم است). پیش‌نیاز: درس قبلی.\n\n🔗 https://
+ app.notion.com/p/3e1e1e4a8a90819a8abbfc3e14e29d09
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 مدیریت زمان سیستم: سرویس‌های تنظ
  یم زمان براساس NTP
-DTSTART;TZID="UTC+03:30":20260822T184000
-DTEND;TZID="UTC+03:30":20260822T185500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81d0-829b-e5edfc73a1c7
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/NTP-3a1e1e4a8a9081d0829be5ed
- fc73a1c7
+DTSTART;TZID="UTC+03:30":20260927T191500
+DTEND;TZID="UTC+03:30":20260927T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81a1-8f08-c35ce957ac4b
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۵ مهر ۱۴۰۵. فص
+ ل ۹. ویدیو + درسنامه. پیش‌نیاز: درس قبلی.\n
+ \n🔗 https://app.notion.com/p/NTP-3e1e1e4a8a9081a18f08c35ce957ac4b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 اِلپیک‌اُلمپیک: هارد و سافت لینک
- ، فایل‌سیستم و پیداکردن فایل‌ها
-DTSTART;TZID="UTC+03:30":20260818T125000
-DTEND;TZID="UTC+03:30":20260818T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81d6-9794-e94d7ed71a68
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081d69794e94d7ed7
- 1a68
+SUMMARY:📌 مدیریت پرینترها و سیستم چاپ از طر
+ یق سرویس CUPS و دیگر ابزارها
+DTSTART;TZID="UTC+03:30":20260929T194500
+DTEND;TZID="UTC+03:30":20260929T201000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81d7-b0ea-c8d972266cfb
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. سه‌شنبه ۷ مهر ۱۴۰۵. 
+ فصل ۹. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/C
+ UPS-3e1e1e4a8a9081d7b0eac8d972266cfb
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 مدیریت اتاق فرمان سرور
-DTSTART;TZID="UTC+03:30":20260813T211500
-DTEND;TZID="UTC+03:30":20260813T214500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81d8-a6c8-ead6ac4a5a19
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081d8a6c8ead6ac4a
- 5a19
+SUMMARY:📌 مدیریت ایمیل از طریق Mail Transfer Agents
+DTSTART;TZID="UTC+03:30":20260929T180000
+DTEND;TZID="UTC+03:30":20260929T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81f3-879e-c8db976cdba2
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. سه‌شنبه ۷ مهر ۱۴۰۵. 
+ فصل ۹. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/M
+ ail-Transfer-Agents-3e1e1e4a8a9081f3879ec8db976cdba2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 تنظیم دسترسی و مالکیت فایل‌ها و ب
- یت‌های اکسس و umask
-DTSTART;TZID="UTC+03:30":20260817T154500
-DTEND;TZID="UTC+03:30":20260817T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81e5-9cd1-e94b1d1efa31
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/umask-3a1e1e4a8a9081e59cd1e9
- 4b1d1efa31
+SUMMARY:📌 مدیریت کاربران و گروه‌ها: فایل‌ه
+ ای مرتبط با این اطلاعات
+DTSTART;TZID="UTC+03:30":20260924T191500
+DTEND;TZID="UTC+03:30":20260924T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8113-9966-d5c70b2f3fde
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۲ مهر ۱۴۰۵. ف
+ صل ۸. ویدیو + درسنامه. پیش‌نیاز: درس قبلی. 
+ فردا جمعه تعطیل است.\n\n🔗 https://app.notion.com/p/3e1e
+ 1e4a8a9081139966d5c70b2f3fde
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📌 اهداف فصل
-DTSTART;TZID="UTC+03:30":20260822T125000
-DTEND;TZID="UTC+03:30":20260822T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81e7-9749-e562c631d878
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081e79749e562c631
- d878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 ویرایش فایل‌ها با ادیتورهای لینو
- کسی
-DTSTART;TZID="UTC+03:30":20260814T154500
-DTEND;TZID="UTC+03:30":20260814T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81e9-be4c-d1c8d7322b2d
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081e9be4cd1c8d732
- 2b2d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 فراموشیِ مریخی
-DTSTART;TZID="UTC+03:30":20260816T100000
-DTEND;TZID="UTC+03:30":20260816T101500
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81ee-9987-d1cf6ce038a1
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081ee9987d1cf6ce0
- 38a1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 رجکس‌ها و جست‌وجو در فایل‌ها با 
- دستور grep
-DTSTART;TZID="UTC+03:30":20260814T125000
-DTEND;TZID="UTC+03:30":20260814T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81ef-abe2-ca5f2a749f73
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/grep-3a1e1e4a8a9081efabe2ca5
- f2a749f73
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📌 مقدمات اسکریپت‌نویسی شِل: شرط‌ه
- ا، حلقه‌ها و خروجی برنامه‌ها
-DTSTART;TZID="UTC+03:30":20260819T154500
-DTEND;TZID="UTC+03:30":20260819T160000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81f8-b7f0-d614e4d8018a
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081f8b7f0d614e4d8
- 018a
+SUMMARY:📌 دسترسی‌پذیری در دنیای گنو/لینوکس
+DTSTART;TZID="UTC+03:30":20260924T180000
+DTEND;TZID="UTC+03:30":20260924T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-812f-8a8d-c59695488543
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۲ مهر ۱۴۰۵. آ
+ خرین درس فصل ۷. ویدیو + درسنامه.\n\n🔗 https://ap
+ p.notion.com/p/3e1e1e4a8a90812f8a8dc59695488543
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 محیط‌های گرافیکی در لینوکس و شیو
  ه اتصال راه‌دور
-DTSTART;TZID="UTC+03:30":20260820T125000
-DTEND;TZID="UTC+03:30":20260820T131000
-DTSTAMP:20260920T061750Z
-UID:3a1e1e4a-8a90-81f9-ad57-f3ab785a690a
-DESCRIPTION:\n\n🔗 https://app.notion.com/p/3a1e1e4a8a9081f9ad57f3ab785a
- 690a
+DTSTART;TZID="UTC+03:30":20260924T173000
+DTEND;TZID="UTC+03:30":20260924T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8135-a524-f1c188b3be3b
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۲ مهر ۱۴۰۵. ف
+ صل ۷. ویدیو + درسنامه. پیش‌نیاز: درس قبلی.
+ \n\n🔗 https://app.notion.com/p/3e1e1e4a8a908135a524f1c188b3be3b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 برنامه‌ریزی و زمان‌بندی کارها ا
+ ز طریق کرون، at و تایمرهای systemd
+DTSTART;TZID="UTC+03:30":20260926T180000
+DTEND;TZID="UTC+03:30":20260926T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8139-9fa4-e8907504e92c
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. شنبه ۴ مهر ۱۴۰۵. فصل 
+ ۸. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/at-syste
+ md-3e1e1e4a8a9081399fa4e8907504e92c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اهداف فصل ۷: رابط‌های کاربری و دس
+ کتاپ‌ها
+DTSTART;TZID="UTC+03:30":20260924T165500
+DTEND;TZID="UTC+03:30":20260924T170000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8151-87b3-da7c84d8502c
+CATEGORIES:Linux
+DESCRIPTION:⏱ کمتر از ۱ پومودورو (حدود ۵ دقیقه)
+ . پنجشنبه ۲ مهر ۱۴۰۵. درس معرفی اهداف فصل 
+ ۷.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90815187b3da7c84d8502c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اِلپیک‌اُلمپیک: محلی‌سازی و جها
+ نی‌سازی در لینوکس
+DTSTART;TZID="UTC+03:30":20260927T173000
+DTEND;TZID="UTC+03:30":20260927T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-815d-9159-f5d7ad9a813d
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. یکشنبه ۵ مهر ۱۴۰۵. تم
+ رین ۳۴۰ امتیازی؛ آخرین کار فصل ۸، تخمین ح
+ دود ۴۰ دقیقه. پیش‌نیاز: درس قبلی.\n\n🔗 https:
+ //app.notion.com/p/3e1e1e4a8a90815d9159f5d7ad9a813d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 مدیریت کاربران و گروه‌ها: حذف، تغ
+ ییر، اضافه و تغییر پسورد
+DTSTART;TZID="UTC+03:30":20260924T183000
+DTEND;TZID="UTC+03:30":20260924T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-818f-b26d-e51298ddbf7e
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۲ مهر ۱۴۰۵. ف
+ صل ۸ (مجموع ۴ ویدیوی فصل حدود ۶۸ دقیقه، طو
+ ل واقعی از سایت) + درسنامه.\n\n🔗 https://app.notion.
+ com/p/3e1e1e4a8a90818fb26de51298ddbf7e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 محلی‌سازی و جهانی‌سازی در لینوک
+ س / تغییر تایم‌زون، تنظیمات منطقه‌ای
+DTSTART;TZID="UTC+03:30":20260927T170000
+DTEND;TZID="UTC+03:30":20260927T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8191-849d-c1e2e04825c4
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۵ مهر ۱۴۰۵. فص
+ ل ۸. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/3e1e1
+ e4a8a908191849dc1e2e04825c4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اِلپیک‌اُلمپیک: مدیریت کاربران و
+  گروه‌ها
+DTSTART;TZID="UTC+03:30":20260926T170000
+DTEND;TZID="UTC+03:30":20260926T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81b7-bd07-e42e5eeaf82e
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. شنبه ۴ مهر ۱۴۰۵. تمری
+ ن ۴۲۰ امتیازی؛ تخمین حدود ۴۵ دقیقه. پیش‌
+ نیاز: دو درس مدیریت کاربران. ترمینال کوئر
+ ا باز باشد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081b7bd07e
+ 42e5eeaf82e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اِلپیک‌اُلمپیک: خودکارسازی وظای
+ ف مدیریتی با زمان‌بندی کارها
+DTSTART;TZID="UTC+03:30":20260926T183000
+DTEND;TZID="UTC+03:30":20260926T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81bd-9cec-e30dd29f0186
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. شنبه ۴ مهر ۱۴۰۵. تمری
+ ن ۴۰۰ امتیازی؛ تخمین حدود ۴۵ دقیقه (بازه 
+ شامل استراحت بلند بین پومودورو چهارم و پ
+ نجم است). پیش‌نیاز: درس قبلی.\n\n🔗 https://app.no
+ tion.com/p/3e1e1e4a8a9081bd9cece30dd29f0186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اهداف فصل ۸: کارهای مدیریتی سیستم
+DTSTART;TZID="UTC+03:30":20260924T182500
+DTEND;TZID="UTC+03:30":20260924T183000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81d1-b9b4-f29ed6b2dcbf
+CATEGORIES:Linux
+DESCRIPTION:⏱ کمتر از ۱ پومودورو (حدود ۵ دقیقه
+ ، در استراحت بین پومودوروها). پنجشنبه ۲ م
+ هر ۱۴۰۵. درس معرفی اهداف فصل ۸.\n\n🔗 https://app
+ .notion.com/p/3e1e1e4a8a9081d1b9b4f29ed6b2dcbf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 درک لایه گرافیکی در لینوکس و نصب و
+  تنظیمات X11
+DTSTART;TZID="UTC+03:30":20260924T170000
+DTEND;TZID="UTC+03:30":20260924T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81f9-9bad-f160854c63dd
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۲ مهر ۱۴۰۵. ف
+ صل ۷ (مجموع ۳ ویدیوی فصل حدود ۴۴ دقیقه، طو
+ ل واقعی از سایت) + درسنامه.\n\n🔗 https://app.notion.
+ com/p/X11-3e1e1e4a8a9081f99badf160854c63dd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 مقدمات اسکریپت‌نویسی شِل: شرط‌ه
+ ا، حلقه‌ها و خروجی برنامه‌ها
+DTSTART;TZID="UTC+03:30":20260923T173000
+DTEND;TZID="UTC+03:30":20260923T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8107-8698-ca2f4ae15f88
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۱ مهر ۱۴۰۵. 
+ فصل ۶. ویدیو + درسنامه. پیش‌نیاز: درس قبلی
+ .\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081078698ca2f4ae15f88
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 متغیرهای محیطی شِل
+DTSTART;TZID="UTC+03:30":20260922T170000
+DTEND;TZID="UTC+03:30":20260922T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8115-9be3-cae8601baa66
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. سه‌شنبه ۳۱ شهریور ۱
+ ۴۰۵. فصل ۶ (مجموع ۴ ویدیوی فصل حدود ۷۸ دقی
+ قه، طول واقعی از سایت) + درسنامه.\n\n🔗 https://
+ app.notion.com/p/3e1e1e4a8a9081159be3cae8601baa66
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اِلپیک‌اُلمپیک: مقدمات اسکریپت‌
+ نویسی شِل
+DTSTART;TZID="UTC+03:30":20260923T180000
+DTEND;TZID="UTC+03:30":20260923T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8155-a174-f3807769b2f3
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. چهارشنبه ۱ مهر ۱۴۰۵. 
+ تمرین ۵۰۰ امتیازی؛ سنگین‌ترین تمرین این
+  فصل، تخمین حدود ۵۰ دقیقه. پیش‌نیاز: دو د
+ رس اسکریپت‌نویسی.\n\n🔗 https://app.notion.com/p/3e1e1e4
+ a8a908155a174f3807769b2f3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 مقدمات اسکریپت‌نویسی شِل: شِبَنگ
+ ، متغیر‌های اسکریپت و اجرا
+DTSTART;TZID="UTC+03:30":20260923T170000
+DTEND;TZID="UTC+03:30":20260923T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8157-86f2-e456a2b591d7
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۱ مهر ۱۴۰۵. 
+ فصل ۶. ویدیو + درسنامه.\n\n🔗 https://app.notion.com/p/3
+ e1e1e4a8a90815786f2e456a2b591d7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اِلپیک‌اُلمپیک: سفارشی‌سازی و ا
+ ستفاده از محیط شِل
+DTSTART;TZID="UTC+03:30":20260922T180000
+DTEND;TZID="UTC+03:30":20260922T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81a2-b074-c9512d589cf9
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. سه‌شنبه ۳۱ شهریور ۱
+ ۴۰۵. تمرین ۴۰۰ امتیازی؛ تخمین حدود ۴۵ دقی
+ قه. پیش‌نیاز: دو درس قبلی. ترمینال کوئرا 
+ باز باشد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081a2b074c951
+ 2d589cf9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اهداف فصل ۶: شِل‌ها و اسکریپت‌نو
+ یسی شِل
+DTSTART;TZID="UTC+03:30":20260922T165500
+DTEND;TZID="UTC+03:30":20260922T170000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81b9-8f60-daf9ca0fca8c
+CATEGORIES:Linux
+DESCRIPTION:⏱ کمتر از ۱ پومودورو (حدود ۵ دقیقه)
+ . سه‌شنبه ۳۱ شهریور ۱۴۰۵. درس معرفی اهداف
+  فصل ۶؛ قبل از اولین پومودورو روز بخوان.\n
+ \n🔗 https://app.notion.com/p/3e1e1e4a8a9081b98f60daf9ca0fca8c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 حالت‌های مختلف شِل: لاگین شِل، تع
+ املی و غیرتعاملی
+DTSTART;TZID="UTC+03:30":20260922T173000
+DTEND;TZID="UTC+03:30":20260922T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81f0-afa4-f30e74597c4e
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. سه‌شنبه ۳۱ شهریور ۱
+ ۴۰۵. فصل ۶. ویدیو + درسنامه. پیش‌نیاز: درس 
+ قبلی.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081f0afa4f30e74597c4
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 ساختار سلسله‌مراتبی فایل‌سیستم 
+ یونیکس و لینوکس و پیدا‌کردن فایل‌ها
+DTSTART;TZID="UTC+03:30":20260921T173000
+DTEND;TZID="UTC+03:30":20260921T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-810a-bde1-c25641fa7edd
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۳۰ شهریور ۱۴۰
+ ۵. فصل ۵. ویدیو حدود ۱۴ دقیقه (طول واقعی از
+  سایت) + درسنامه.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90
+ 810abde1c25641fa7edd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 شناخت و پیکربندی سخت‌افزارها: بخ
+ ش دوم
+DTSTART;TZID="UTC+03:30":20260920T170000
+DTEND;TZID="UTC+03:30":20260920T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8150-8ec2-dda43b5e82f3
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۲۹ شهریور ۱۴۰
+ ۵. درس خوانده‌نشده‌ی فصل ۲ (معماری سیستم
+ ). ویدیو حدود ۱۹ دقیقه (طول واقعی از سایت) +
+  درسنامه.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081508ec2dda4
+ 3b5e82f3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 یوزر، گروه و دسترسی‌ها در دنیای ل
+ ینوکس
+DTSTART;TZID="UTC+03:30":20260920T173000
+DTEND;TZID="UTC+03:30":20260920T175500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8150-92b8-fb4b05af188a
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۲۹ شهریور ۱۴۰
+ ۵. فصل ۵ (دستگاه‌ها و فایل‌سیستم لینوکس).
+  ویدیو حدود ۱۳ دقیقه (طول واقعی از سایت) + 
+ درسنامه.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90815092b8fb4b0
+ 5af188a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 تنظیم دسترسی و مالکیت فایل‌ها و ب
+ یت‌های اکسس و umask
+DTSTART;TZID="UTC+03:30":20260920T180000
+DTEND;TZID="UTC+03:30":20260920T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8198-aae2-c9fd671c974a
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۲۹ شهریور ۱۴۰
+ ۵. فصل ۵. ویدیو حدود ۱۹ دقیقه (طول واقعی از
+  سایت) + درسنامه. پیش‌نیاز: درس قبلی.\n\n🔗 h
+ ttps://app.notion.com/p/umask-3e1e1e4a8a908198aae2c9fd671c974a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 هارد و سافت لینک‌ها در لینوکس: مف
+ هوم، استفاده و کاربرد
+DTSTART;TZID="UTC+03:30":20260921T170000
+DTEND;TZID="UTC+03:30":20260921T172500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81a6-9c0a-d0b9d87b47ba
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۳۰ شهریور ۱۴۰
+ ۵. فصل ۵. ویدیو حدود ۱۲ دقیقه (طول واقعی از
+  سایت) + درسنامه.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90
+ 81a69c0ad0b9d87b47ba
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اِلپیک‌اُلمپیک: هارد و سافت لینک
+ ، فایل‌سیستم و پیداکردن فایل‌ها
+DTSTART;TZID="UTC+03:30":20260921T180000
+DTEND;TZID="UTC+03:30":20260921T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81d9-ada9-c638627f6fa6
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۲ پومودورو. دوشنبه ۳۰ شهریور ۱۴۰
+ ۵. تمرین ۲۴۰ امتیازی؛ آخرین کار فصل ۵. تخم
+ ین حدود ۴۵ دقیقه. پیش‌نیاز: دو درس قبلی.\n
+ \n🔗 https://app.notion.com/p/3e1e1e4a8a9081d9ada9c638627f6fa6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 اِلپیک‌اُلمپیک: یوزر، گروه و دست
+ رسی‌ها
+DTSTART;TZID="UTC+03:30":20260920T183000
+DTEND;TZID="UTC+03:30":20260920T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81e9-9f8f-c55755868410
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۲۹ شهریور ۱۴۰
+ ۵. تمرین ۱۴۰ امتیازی فصل ۵؛ تخمین حدود ۳۰ 
+ دقیقه. پیش‌نیاز: دو درس قبلی. ترمینال کوئ
+ را باز باشد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081e99f8
+ fc55755868410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۷ — فصل ۹ (بخش اول): مدی
+ ریت زمان سیستم
+DTSTART;TZID="UTC+03:30":20260927T170000
+DTEND;TZID="UTC+03:30":20260927T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8103-bb4d-d15a59df5d41
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۴ پومودورو. یکشنبه ۵ مهر ۱۴۰۵ (۲۷
+  سپتامبر). شروع فصل ۹ «سرویس‌های ضروری سی
+ ستم» (مجموع ویدیوهای کل فصل حدود ۱۳۱ دقیق
+ ه طبق طول واقعی سایت، ۷ ویدیو). تمرین ۳۲۰ 
+ امتیازی تخمین ~۴۰ دقیقه.\n\n🔗 https://app.notion.com
+ /p/3e1e1e4a8a908103bb4dd15a59df5d41
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۲ — فصل ۵ (بخش دوم): لین
+ ک‌ها و فایل‌سیستم
+DTSTART;TZID="UTC+03:30":20260921T170000
+DTEND;TZID="UTC+03:30":20260921T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8111-abbb-f0d13b2e53d5
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۳ پومودورو. دوشنبه ۳۰ شهریور ۱۴۰
+ ۵ (۲۱ سپتامبر). پایان فصل ۵: دو درس (ویدیوه
+ ا حدود ۲۶ دقیقه طبق طول واقعی سایت) + تمری
+ ن ۲۴۰ امتیازی (تخمین ~۴۵ دقیقه).\n\n🔗 https://ap
+ p.notion.com/p/3e1e1e4a8a908111abbbf0d13b2e53d5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۱۴ — فصل ۱۱ (بخش دوم): ر
+ مزنگاری و SSH
+DTSTART;TZID="UTC+03:30":20261005T170000
+DTEND;TZID="UTC+03:30":20261005T201000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-814b-86ec-e38fa2a0c890
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۶ پومودورو. دوشنبه ۱۳ مهر ۱۴۰۵ (۵
+  اکتبر). پایان دوره: سه درس رمزنگاری (جفت‌
+ کلید و SSH، تونل‌ها، gpg) + دو تمرین ۲۶۰ و ۳۰
+ ۰ امتیازی. روزهای ۱۴ و ۱۵ مهر ذخیره‌ی عقب
+ ‌افتادگی است؛ مهلت دوره ۱۵ مهر.\n\n🔗 https://
+ app.notion.com/p/SSH-3e1e1e4a8a90814b86ece38fa2a0c890
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۴ — فصل ۶ (بخش دوم): اسک
+ ریپت‌نویسی شل
+DTSTART;TZID="UTC+03:30":20260923T170000
+DTEND;TZID="UTC+03:30":20260923T182500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-814f-866a-d2273e0b4628
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۳ پومودورو. چهارشنبه ۱ مهر ۱۴۰۵ (
+ ۲۳ سپتامبر). پایان فصل ۶: دو درس اسکریپت‌
+ نویسی + تمرین ۵۰۰ امتیازی (سنگین‌ترین تم
+ رین این فصل، تخمین ~۵۰ دقیقه). اگر جا نشد، 
+ ادامه‌اش به روز ۵ برود.\n\n🔗 https://app.notion.com/
+ p/3e1e1e4a8a90814f866ad2273e0b4628
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۱۰ — فصل ۱۰ (بخش اول): م
+ قدمات شبکه
+DTSTART;TZID="UTC+03:30":20260930T170000
+DTEND;TZID="UTC+03:30":20260930T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8167-b417-c9e797cd9742
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۴ پومودورو. چهارشنبه ۸ مهر ۱۴۰۵ (
+ ۳۰ سپتامبر). فصل ۱۰ «مبانی شبکه» (۸ ویدیو؛
+  طول ویدیوهای این فصل و فصل ۱۱ تخمینی است 
+ چون سایت اجازه‌ی اندازه‌گیری نداد، حدو
+ د ۱۷ دقیقه برای هر ویدیو). تمرین ۲۰۰ امتیا
+ زی تخمین ~۲۵ دقیقه.\n\n🔗 https://app.notion.com/p/3e1e1e4
+ a8a908167b417c9e797cd9742
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۹ — فصل ۹ (بخش سوم): ایم
+ یل و چاپ
+DTSTART;TZID="UTC+03:30":20260929T170000
+DTEND;TZID="UTC+03:30":20260929T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8177-8f8b-ccc9d44901a7
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۴ پومودورو. سه‌شنبه ۷ مهر ۱۴۰۵ (
+ ۲۹ سپتامبر). پایان فصل ۹: دو درس (MTA و CUPS) + د
+ و تمرین ۳۴۰ و ۲۰۰ امتیازی (تخمین ~۴۰ و ~۲۵ 
+ دقیقه).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081778f8bccc9d449
+ 01a7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۶ — فصل ۸: کرون، زمان‌
+ بندی و محلی‌سازی
+DTSTART;TZID="UTC+03:30":20260926T170000
+DTEND;TZID="UTC+03:30":20260926T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-817c-a287-d437c5704b25
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۵ پومودورو. شنبه ۴ مهر ۱۴۰۵ (۲۶ س
+ پتامبر). پایان فصل ۸ «کارهای مدیریتی سیست
+ م» (مجموع ویدیوهای کل فصل حدود ۶۸ دقیقه): 
+ سه تمرین ۴۲۰، ۴۰۰ و ۳۴۰ امتیازی (تخمین ~۴۵
+  دقیقه برای هر کدام) + دو درس.\n\n🔗 https://app.not
+ ion.com/p/3e1e1e4a8a90817ca287d437c5704b25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۳ — فصل ۶ (بخش اول): محی
+ ط شل
+DTSTART;TZID="UTC+03:30":20260922T170000
+DTEND;TZID="UTC+03:30":20260922T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-817d-bb2e-c99cbdfa305b
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۴ پومودورو. سه‌شنبه ۳۱ شهریور ۱
+ ۴۰۵ (۲۲ سپتامبر). فصل ۶ «شِل‌ها و اسکریپت
+ ‌نویسی شِل»: مجموع ویدیوهای کل فصل حدود 
+ ۷۸ دقیقه (طول واقعی سایت). تمرین ۴۰۰ امتیا
+ زی تخمین ~۴۵ دقیقه.\n\n🔗 https://app.notion.com/p/3e1e1e4
+ a8a90817dbb2ec99cbdfa305b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۸ — فصل ۹ (بخش دوم): لاگ
+ ‌های سیستم
+DTSTART;TZID="UTC+03:30":20260928T170000
+DTEND;TZID="UTC+03:30":20260928T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-817e-b333-ead0856709e1
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۵ پومودورو. دوشنبه ۶ مهر ۱۴۰۵ (۲۸
+  سپتامبر). سه درس لاگ‌ها (dmesg، rsyslog، journalctl)
+  + تمرین ۴۰۰ امتیازی (تخمین ~۴۵ دقیقه).\n\n🔗
+  https://app.notion.com/p/3e1e1e4a8a90817eb333ead0856709e1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۵ — فصل ۷ (رابط‌های کا
+ ربری) + شروع فصل ۸
+DTSTART;TZID="UTC+03:30":20260924T170000
+DTEND;TZID="UTC+03:30":20260924T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81bf-afc8-f51e1d22378c
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۵ پومودورو. پنجشنبه ۲ مهر ۱۴۰۵ (۲
+ ۴ سپتامبر). فصل ۷ کامل (۳ ویدیو، حدود ۴۴ دق
+ یقه طبق طول واقعی سایت، بدون تمرین) + سه د
+ رس اول فصل ۸. فردا جمعه تعطیل است.\n\n🔗 https:
+ //app.notion.com/p/3e1e1e4a8a9081bfafc8f51e1d22378c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۱۱ — فصل ۱۰ (بخش دوم): ت
+ نظیمات و عیب‌یابی شبکه
+DTSTART;TZID="UTC+03:30":20261001T170000
+DTEND;TZID="UTC+03:30":20261001T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81dd-9535-e78c231094f9
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۵ پومودورو. پنجشنبه ۹ مهر ۱۴۰۵ (۱
+  اکتبر). تنظیمات پایدار شبکه + شروع عیب‌ی
+ ابی. تمرین ۳۰۰ امتیازی تخمین ~۴۰ دقیقه. فر
+ دا جمعه تعطیل است. طول ویدیوها تخمینی است
+ .\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081dd9535e78c231094f9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۱۲ — فصل ۱۰ (بخش سوم): ع
+ یب‌یابی و DNS
+DTSTART;TZID="UTC+03:30":20261003T170000
+DTEND;TZID="UTC+03:30":20261003T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81eb-be14-da0d7eadf540
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۴ پومودورو. شنبه ۱۱ مهر ۱۴۰۵ (۳ ا
+ کتبر). پایان فصل ۱۰: تمرین ۴۰۰ امتیازی (تخ
+ مین ~۴۵ دقیقه) و تمرین ۲۰۰ امتیازی (~۲۵ دقی
+ قه). طول ویدیوها تخمینی است.\n\n🔗 https://app.noti
+ on.com/p/DNS-3e1e1e4a8a9081ebbe14da0d7eadf540
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۱۳ — فصل ۱۱ (بخش اول): م
+ دیریت کاربران و هاست
+DTSTART;TZID="UTC+03:30":20261004T170000
+DTEND;TZID="UTC+03:30":20261004T194000
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-81ef-aa6d-d8b6441892e2
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۵ پومودورو. یکشنبه ۱۲ مهر ۱۴۰۵ (۴
+  اکتبر). شروع فصل ۱۱ «امنیت» (۶ ویدیو، طول 
+ تخمینی). تمرین ۵۰۰ امتیازی تخمین ~۵۰ دقیق
+ ه.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081efaa6dd8b6441892e2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📌 لینوکس روز ۱ — فصل ۵ (بخش اول): کار
+ بر، گروه و دسترسی‌ها
+DTSTART;TZID="UTC+03:30":20260920T170000
+DTEND;TZID="UTC+03:30":20260920T185500
+DTSTAMP:20260920T114245Z
+UID:3e1e1e4a-8a90-8142-a47c-e940ca31fbf0
+CATEGORIES:Linux
+DESCRIPTION:⏱ ۴ پومودورو. یکشنبه ۲۹ شهریور ۱۴۰
+ ۵ (۲۰ سپتامبر). فصل ۵ «دستگاه‌ها و فایل‌س
+ یستم لینوکس» — مجموع ویدیوهای این بخش حد
+ ود ۵۱ دقیقه (طول واقعی از سایت) + یک تمرین 
+ حدود ۳۰ دقیقه. پیش‌نیاز: ترمینال کوئرا ب
+ از باشد. مهلت دوره: ۱۵ مهر.\n\n🔗 https://app.notion.
+ com/p/3e1e1e4a8a908142a47ce940ca31fbf0
 END:VEVENT
 END:VCALENDAR
