@@ -8,159 +8,203 @@ REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
 X-WR-TIMEZONE:Asia/Tehran
 BEGIN:VEVENT
+SUMMARY:👤 مطالعهٔ زبان — دوشنبه ۲ آذر
+DTSTART;TZID="UTC+03:30":20261123T193000
+DTEND;TZID="UTC+03:30":20261123T200000
+DTSTAMP:20261123T090519Z
+UID:421e1e4a-8a90-811a-9eb5-dc21378c6a8a
+CATEGORIES:شخصی
+DESCRIPTION:⏱ ۱ پومودورو. ۱۹:۳۰ تا ۲۰:۰۰ مطالعه
+ ٔ زبان، سبک و بعد از حل تمرین ریاضی ۲. جاب
+ ه‌جایی: از ۱۹:۰۰–۲۰:۰۰ به ۱۹:۳۰–۲۰:۰۰ چو
+ ن حل تمرین ریاضی ۲ تا ۱۹:۳۰ است.\n\n🔗 https://ap
+ p.notion.com/p/421e1e4a8a90811a9eb5dc21378c6a8a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 حل تمرین آمار و احتمال — سه‌شنبه 
+ ۳ آذر
+DTSTART;TZID="UTC+03:30":20261124T100000
+DTEND;TZID="UTC+03:30":20261124T110000
+DTSTAMP:20261123T090519Z
+UID:421e1e4a-8a90-81f8-a0d4-fde80eef5783
+CATEGORIES:University
+DESCRIPTION:⏱ ۲ پومودورو. ۱۰:۰۰ تا ۱۱:۰۰ حل تمر
+ ین آمار (احتمال). پیش‌نیاز: دفتر تمرین و ج
+ زوهٔ آخرین جلسه. جابه‌جایی: از دوشنبه ۲ آ
+ ذر ۱۸:۰۰ به سه‌شنبه ۳ آذر ۱۰:۰۰ چون حل تمر
+ ین ریاضی ۲ تا ۱۹:۳۰ است و بعد از ۲۰:۰۰ کاری
+  نمی‌خواهد.\n\n🔗 https://app.notion.com/p/421e1e4a8a9081f8a0d
+ 4fde80eef5783
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎓 مرور کلاس‌های فردا (ساختمان داده 
  + ریاضی ۲) — یکشنبه ۱۰ آبان
 DTSTART;TZID="UTC+03:30":20261101T103000
 DTEND;TZID="UTC+03:30":20261101T105500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-811e-98d2-c3ffe0883dc9
 CATEGORIES:University
-DESCRIPTION:⏱ ۱ پومودورو. صبح گذاشته شد چون عص
- ر یکشنبه کلاس تا ۱۷:۳۰ و بعدش باشگاه است.\n
- \n🔗 https://app.notion.com/p/40ae1e4a8a90811e98d2c3ffe0883dc9
+DESCRIPTION:⏱ ۱ پومودورو. مرور کلاس‌های فردا (
+ ساختمان داده + ریاضی ۲). ❌ ۲ آذر: کنسل شد (ت
+ اریخش گذشته؛ پاکسازی عقب‌افتاده‌ها).\n\n
+ 🔗 https://app.notion.com/p/40ae1e4a8a90811e98d2c3ffe0883dc9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 مرور حل تمرین امروز (ساختمان داده)
   — چهارشنبه ۱۳ آبان
 DTSTART;TZID="UTC+03:30":20261104T174500
 DTEND;TZID="UTC+03:30":20261104T181000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-813c-8466-fd78d1522a62
 CATEGORIES:University
-DESCRIPTION:⏱ ۱ پومودورو. بعد از باشگاه.\n\n🔗 htt
- ps://app.notion.com/p/40ae1e4a8a90813c8466fd78d1522a62
+DESCRIPTION:⏱ ۱ پومودورو. مرور حل تمرین امروز (
+ ساختمان داده). ❌ ۲ آذر: کنسل شد (تاریخش گذ
+ شته؛ پاکسازی عقب‌افتاده‌ها).\n\n🔗 https://app
+ .notion.com/p/40ae1e4a8a90813c8466fd78d1522a62
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — یکشنبه ۱۰ آبان
 DTSTART;TZID="UTC+03:30":20261101T200000
 DTEND;TZID="UTC+03:30":20261101T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-8159-8536-e902bea4365a
 CATEGORIES:شخصی
-DESCRIPTION:⏱ ۲ پومودورو. ۲۰:۰۰ تا ۲۱:۰۰ مطالعه
- ٔ زبان (بعد از باشگاه و شام).\n\n🔗 https://app.noti
- on.com/p/40ae1e4a8a9081598536e902bea4365a
+DESCRIPTION:⏱ ۲ پومودورو. مطالعهٔ زبان. ❌ ۲ آذ
+ ر: کنسل شد (تاریخش گذشته؛ پاکسازی عقب‌اف
+ تاده‌ها).\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081598536e90
+ 2bea4365a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 مرور کلاس فردا (حل تمرین ساختمان د
  اده) — سه‌شنبه ۱۲ آبان
 DTSTART;TZID="UTC+03:30":20261103T104500
 DTEND;TZID="UTC+03:30":20261103T111000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-8160-a724-c567c9ea1a35
 CATEGORIES:University
-DESCRIPTION:⏱ ۱ پومودورو. صبح، چون عصر کلاس + ب
- اشگاه است.\n\n🔗 https://app.notion.com/p/40ae1e4a8a908160a724c5
- 67c9ea1a35
+DESCRIPTION:⏱ ۱ پومودورو. مرور کلاس فردا (حل تم
+ رین ساختمان داده). ❌ ۲ آذر: کنسل شد (تاریخ
+ ش گذشته؛ پاکسازی عقب‌افتاده‌ها).\n\n🔗 http
+ s://app.notion.com/p/40ae1e4a8a908160a724c567c9ea1a35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — دوشنبه ۱۱ آبان
 DTSTART;TZID="UTC+03:30":20261102T203000
 DTEND;TZID="UTC+03:30":20261102T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-8185-ad33-fdf96f5ac60a
 CATEGORIES:شخصی
-DESCRIPTION:⏱ ۱ پومودورو. کوتاه‌شده چون حل تم
- رین ریاضی ۲ تا ۱۹:۳۰ است و شام بعدش.\n\n🔗 htt
- ps://app.notion.com/p/40ae1e4a8a908185ad33fdf96f5ac60a
+DESCRIPTION:⏱ ۱ پومودورو. مطالعهٔ زبان. ❌ ۲ آذ
+ ر: کنسل شد (تاریخش گذشته؛ پاکسازی عقب‌اف
+ تاده‌ها).\n\n🔗 https://app.notion.com/p/40ae1e4a8a908185ad33fdf
+ 96f5ac60a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شنبه ۹ آبان
 DTSTART;TZID="UTC+03:30":20261031T200000
 DTEND;TZID="UTC+03:30":20261031T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-818b-8539-c12d36f1f6c9
 CATEGORIES:شخصی
-DESCRIPTION:⏱ ۲ پومودورو. ۲۰:۰۰ تا ۲۱:۰۰ مطالعه
- ٔ زبان.\n\n🔗 https://app.notion.com/p/40ae1e4a8a90818b8539c12d36f1
- f6c9
+DESCRIPTION:⏱ ۲ پومودورو. مطالعهٔ زبان. ❌ ۲ آذ
+ ر: کنسل شد (تاریخش گذشته؛ پاکسازی عقب‌اف
+ تاده‌ها).\n\n🔗 https://app.notion.com/p/40ae1e4a8a90818b8539c12
+ d36f1f6c9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 مرور کلاس‌های فردا (دیفرانسیل + ا
  حتمال) — دوشنبه ۱۱ آبان
 DTSTART;TZID="UTC+03:30":20261102T150000
 DTEND;TZID="UTC+03:30":20261102T152500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-818d-9f55-ed2cacfd62aa
 CATEGORIES:University
-DESCRIPTION:⏱ ۱ پومودورو.\n\n🔗 https://app.notion.com/p/40ae
- 1e4a8a90818d9f55ed2cacfd62aa
+DESCRIPTION:⏱ ۱ پومودورو. مرور کلاس‌های فردا (
+ دیفرانسیل + احتمال). ❌ ۲ آذر: کنسل شد (تاری
+ خش گذشته؛ پاکسازی عقب‌افتاده‌ها).\n\n🔗 ht
+ tps://app.notion.com/p/40ae1e4a8a90818d9f55ed2cacfd62aa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 مرور کلاس‌های فردا (دیفرانسیل + ا
  حتمال) — شنبه ۹ آبان
 DTSTART;TZID="UTC+03:30":20261031T170000
 DTEND;TZID="UTC+03:30":20261031T172500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-81bd-87d4-e7e087947e42
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. پیش‌مطالعهٔ سبک کلا
- س‌های یکشنبه.\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081b
- d87d4e7e087947e42
+ س‌های یکشنبه. ❌ ۲ آذر: کنسل شد (تاریخش گذ
+ شته؛ پاکسازی عقب‌افتاده‌ها).\n\n🔗 https://app
+ .notion.com/p/40ae1e4a8a9081bd87d4e7e087947e42
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 مرور کلاس‌های شنبه (ساختمان داده 
  + ریاضی ۲) — پنجشنبه ۱۴ آبان
 DTSTART;TZID="UTC+03:30":20261105T151500
 DTEND;TZID="UTC+03:30":20261105T154000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-81d9-b12a-dc0f07de41ee
 CATEGORIES:University
-DESCRIPTION:⏱ ۱ پومودورو. جمعه تعطیل است، پس م
- رور شنبه پنجشنبه انجام می‌شود.\n\n🔗 https://a
- pp.notion.com/p/40ae1e4a8a9081d9b12adc0f07de41ee
+DESCRIPTION:⏱ ۱ پومودورو. مرور کلاس‌های شنبه (
+ ساختمان داده + ریاضی ۲). ❌ ۲ آذر: کنسل شد (ت
+ اریخش گذشته؛ پاکسازی عقب‌افتاده‌ها).\n\n
+ 🔗 https://app.notion.com/p/40ae1e4a8a9081d9b12adc0f07de41ee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — سه‌شنبه ۱۲ آبان
 DTSTART;TZID="UTC+03:30":20261103T200000
 DTEND;TZID="UTC+03:30":20261103T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-81d9-b345-e5a704123b71
 CATEGORIES:شخصی
-DESCRIPTION:⏱ ۲ پومودورو. ۲۰:۰۰ تا ۲۱:۰۰ مطالعه
- ٔ زبان.\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081d9b345e5a70412
- 3b71
+DESCRIPTION:⏱ ۲ پومودورو. مطالعهٔ زبان. ❌ ۲ آذ
+ ر: کنسل شد (تاریخش گذشته؛ پاکسازی عقب‌اف
+ تاده‌ها).\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081d9b345e5a
+ 704123b71
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 مرور کلاس‌های امروز (ساختمان داد
  ه + ریاضی ۲) — دوشنبه ۱۱ آبان
 DTSTART;TZID="UTC+03:30":20261102T143000
 DTEND;TZID="UTC+03:30":20261102T145500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-81e0-8499-d9c26d7199b8
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور یادداشت‌های کل
- اس صبح.\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081e08499d9c26d71
- 99b8
+ اس صبح. ❌ ۲ آذر: کنسل شد (تاریخش گذشته؛ پا
+ کسازی عقب‌افتاده‌ها).\n\n🔗 https://app.notion.com/p
+ /40ae1e4a8a9081e08499d9c26d7199b8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — چهارشنبه ۱۳ آبان
 DTSTART;TZID="UTC+03:30":20261104T200000
 DTEND;TZID="UTC+03:30":20261104T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-81e0-9292-c00519fed69e
 CATEGORIES:شخصی
-DESCRIPTION:⏱ ۲ پومودورو. ۲۰:۰۰ تا ۲۱:۰۰ مطالعه
- ٔ زبان.\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081e09292c00519fe
- d69e
+DESCRIPTION:⏱ ۲ پومودورو. مطالعهٔ زبان. ❌ ۲ آذ
+ ر: کنسل شد (تاریخش گذشته؛ پاکسازی عقب‌اف
+ تاده‌ها).\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081e09292c00
+ 519fed69e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — پنجشنبه ۱۴ آبان
 DTSTART;TZID="UTC+03:30":20261105T200000
 DTEND;TZID="UTC+03:30":20261105T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:40ae1e4a-8a90-81ee-baa2-efcb817a6412
 CATEGORIES:شخصی
-DESCRIPTION:⏱ ۲ پومودورو. ۲۰:۰۰ تا ۲۱:۰۰ مطالعه
- ٔ زبان.\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081eebaa2efcb817a
- 6412
+DESCRIPTION:⏱ ۲ پومودورو. مطالعهٔ زبان. ❌ ۲ آذ
+ ر: کنسل شد (تاریخش گذشته؛ پاکسازی عقب‌اف
+ تاده‌ها).\n\n🔗 https://app.notion.com/p/40ae1e4a8a9081eebaa2efc
+ b817a6412
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۱۹ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261022T100000
 DTEND;TZID="UTC+03:30":20261022T102500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-8111-b6c2-c4f472543d71
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | تمرین جایگذاری مکرر
@@ -175,7 +219,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۲۵ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261025T093000
 DTEND;TZID="UTC+03:30":20261025T095500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-8118-b995-fb65bcd4b625
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | تصحیح آزمون دوم و اض
@@ -190,7 +234,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۲۰ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261022T103000
 DTEND;TZID="UTC+03:30":20261022T105500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-8140-903c-e97580a2d29f
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | تمرین جایگذاری مکرر
@@ -206,7 +250,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۱۶ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261021T143000
 DTEND;TZID="UTC+03:30":20261021T145500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-8150-8ba4-dcf12321b809
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | تمرین توابع بازگشتی
@@ -223,7 +267,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۲۱ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261023T140000
 DTEND;TZID="UTC+03:30":20261023T142500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-81e5-b4b6-ecd5ba7fddbf
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | مرور جامع: فهرست ۵ م
@@ -239,7 +283,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۲۴ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261025T090000
 DTEND;TZID="UTC+03:30":20261025T092500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-81f8-854b-eacedba9e02e
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | آزمون شبیه‌سازی دو
@@ -255,7 +299,7 @@ SUMMARY:🎓 مرور احتمال — قبل از کلاس یکشنبه (
  ۳ آبان)
 DTSTART;TZID="UTC+03:30":20261024T181500
 DTEND;TZID="UTC+03:30":20261024T184000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-8125-8bc6-fa66edbfa62c
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. شنبه ۲ آبان ۱۴۰۵ — م
@@ -272,7 +316,7 @@ SUMMARY:🎓 مرور ریاضی ۲ — قبل از کلاس دوشنبه
  (۴ آبان)
 DTSTART;TZID="UTC+03:30":20261025T184500
 DTEND;TZID="UTC+03:30":20261025T191000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-814b-8af2-fef21a2b534b
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو (سبک). یکشنبه ۳ آبان ۱
@@ -289,7 +333,7 @@ SUMMARY:🎓 مرور دیفرانسیل — قبل از کلاس یکشن
  به (۳ آبان)
 DTSTART;TZID="UTC+03:30":20261024T174500
 DTEND;TZID="UTC+03:30":20261024T181000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-81c2-b06b-d565a39aa5ca
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. شنبه ۲ آبان ۱۴۰۵ — م
@@ -306,7 +350,7 @@ SUMMARY:🎓 مرور احتمال — قبل از کلاس سه‌شنب
  ه (۵ آبان)
 DTSTART;TZID="UTC+03:30":20261026T150000
 DTEND;TZID="UTC+03:30":20261026T152500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-8187-a0e5-c55e618bac58
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۴ آبان ۱۴۰۵ —
@@ -320,7 +364,7 @@ SUMMARY:🎓 مرور دیفرانسیل — قبل از کلاس سه‌
  شنبه (۵ آبان)
 DTSTART;TZID="UTC+03:30":20261026T143000
 DTEND;TZID="UTC+03:30":20261026T145500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fee1e4a-8a90-81f6-bc70-e1ade9eb1f7a
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۴ آبان ۱۴۰۵ —
@@ -334,7 +378,7 @@ SUMMARY:🎓 مرور نهایی امتحان ساختمان داده —
  ۱ از ۲
 DTSTART;TZID="UTC+03:30":20261025T111500
 DTEND;TZID="UTC+03:30":20261025T114000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3fce1e4a-8a90-8182-a19e-f40439fb06cb
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | یکشنبه ۳ آبان، روز ق
@@ -349,23 +393,10 @@ DESCRIPTION:⏱ ۱ پومودورو | یکشنبه ۳ آبان، روز ق
  2a19ef40439fb06cb
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👤 باشگاه بدنسازی — سه‌شنبه ۱۲ آبان
-DTSTART;TZID="UTC+03:30":20261103T174500
-DTEND;TZID="UTC+03:30":20261103T190000
-DTSTAMP:20261123T010505Z
-UID:3f9e1e4a-8a90-811c-8e85-f9ad30793749
-CATEGORIES:شخصی
-DESCRIPTION:بازه‌ی ثابت (بدون پومودورو). ۱۷:۴۵ 
- تا ۱۹:۰۰ — بعد از کلاس‌ها. 🔁 ۹ آبان: از د
- وشنبه ۱۱ آبان به سه‌شنبه ۱۲ آبان منتقل ش
- د (روزهای جدید باشگاه).\n\n🔗 https://app.notion.com/p/
- 3f9e1e4a8a90811c8e85f9ad30793749
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:👤 باشگاه بدنسازی — جلسه ۱
 DTSTART;TZID="UTC+03:30":20261017T150000
 DTEND;TZID="UTC+03:30":20261017T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f9e1e4a-8a90-814e-8c83-c47e75d25225
 CATEGORIES:شخصی
 DESCRIPTION:⏱ بازه‌ی ثابت ۲.۵ ساعته (بدون پومو
@@ -379,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:👤 باشگاه بدنسازی — پنجشنبه ۱۴ آبان
 DTSTART;TZID="UTC+03:30":20261105T150000
 DTEND;TZID="UTC+03:30":20261105T170000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f9e1e4a-8a90-8156-a49e-c87030d110ba
 CATEGORIES:شخصی
 DESCRIPTION:کنسل شد (۹ آبان): باشگاه دیگر پنجشن
@@ -388,61 +419,10 @@ DESCRIPTION:کنسل شد (۹ آبان): باشگاه دیگر پنجشن
  0ba
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👤 باشگاه بدنسازی — یکشنبه ۱۰ آبان
-DTSTART;TZID="UTC+03:30":20261101T174500
-DTEND;TZID="UTC+03:30":20261101T190000
-DTSTAMP:20261123T010505Z
-UID:3f9e1e4a-8a90-8159-9e23-fe153518556b
-CATEGORIES:شخصی
-DESCRIPTION:بازه‌ی ثابت (بدون پومودورو). ۱۷:۴۵ 
- تا ۱۹:۰۰ — بعد از کلاس‌ها (تا ۱۷:۳۰). 🔁 ۹ 
- آبان: از شنبه ۹ آبان ۱۵:۰۰ به یکشنبه ۱۰ آب
- ان منتقل شد (باشگاه یکشنبه/سه‌شنبه/چهارش
- نبه، بازه‌ی ۱۵ تا ۱۹).\n\n🔗 https://app.notion.com/p/3
- f9e1e4a8a9081599e23fe153518556b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:👤 باشگاه بدنسازی — یکشنبه ۱۷ آبان
-DTSTART;TZID="UTC+03:30":20261108T174500
-DTEND;TZID="UTC+03:30":20261108T190000
-DTSTAMP:20261123T010505Z
-UID:3f9e1e4a-8a90-816d-ba3d-d3a6617fac24
-CATEGORIES:شخصی
-DESCRIPTION:بازه‌ی ثابت (بدون پومودورو). ۱۷:۴۵ 
- تا ۱۹:۰۰. 🔁 ۹ آبان: از شنبه ۱۶ به یکشنبه ۱
- ۷ آبان منتقل شد.\n\n🔗 https://app.notion.com/p/3f9e1e4a8a90
- 816dba3dd3a6617fac24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:👤 باشگاه بدنسازی — چهارشنبه ۱۳ آبا
- ن
-DTSTART;TZID="UTC+03:30":20261104T153000
-DTEND;TZID="UTC+03:30":20261104T173000
-DTSTAMP:20261123T010505Z
-UID:3f9e1e4a-8a90-818a-85d2-c04e01b96fb6
-CATEGORIES:شخصی
-DESCRIPTION:بازه‌ی ثابت ۲ ساعته (بدون پومودور
- و). ۱۵:۳۰ تا ۱۷:۳۰. 🔁 ۹ آبان: از ۱۵:۰۰ به ۱۵:
- ۳۰ شیفت خورد تا LPIC قبلش جا شود.\n\n🔗 https://app
- .notion.com/p/3f9e1e4a8a90818a85d2c04e01b96fb6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:👤 باشگاه بدنسازی — جلسه ۱۲
-DTSTART;TZID="UTC+03:30":20261111T153000
-DTEND;TZID="UTC+03:30":20261111T173000
-DTSTAMP:20261123T010505Z
-UID:3f9e1e4a-8a90-81af-a420-f068434abe54
-CATEGORIES:شخصی
-DESCRIPTION:⏱ بازه‌ی ثابت ۲.۵ ساعته (بدون پومو
- دورو). چهارشنبه ۲۰ آبان ۱۴۰۵ — باشگاه بدن
- سازی ۱۵:۰۰ تا ۱۷:۳۰. جابه‌جا نشود.\n\n🔗 https
- ://app.notion.com/p/3f9e1e4a8a9081afa420f068434abe54
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:👤 باشگاه بدنسازی — پنجشنبه ۷ آبان
 DTSTART;TZID="UTC+03:30":20261029T150000
 DTEND;TZID="UTC+03:30":20261029T170000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f9e1e4a-8a90-81cb-9a5b-fc2a782a54cf
 CATEGORIES:شخصی
 DESCRIPTION:⏱ بازه‌ی ثابت ۲ ساعته. باشگاه بدن
@@ -451,23 +431,11 @@ DESCRIPTION:⏱ بازه‌ی ثابت ۲ ساعته. باشگاه بدن
  app.notion.com/p/3f9e1e4a8a9081cb9a5bfc2a782a54cf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:👤 باشگاه بدنسازی — سه‌شنبه ۱۹ آبان
-DTSTART;TZID="UTC+03:30":20261110T174500
-DTEND;TZID="UTC+03:30":20261110T190000
-DTSTAMP:20261123T010505Z
-UID:3f9e1e4a-8a90-81d1-bc3e-d443af77f719
-CATEGORIES:شخصی
-DESCRIPTION:بازه‌ی ثابت (بدون پومودورو). ۱۷:۴۵ 
- تا ۱۹:۰۰. 🔁 ۹ آبان: از دوشنبه ۱۸ به سه‌شن
- به ۱۹ آبان منتقل شد.\n\n🔗 https://app.notion.com/p/3f9e1
- e4a8a9081d1bc3ed443af77f719
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۲۲ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261024T143000
 DTEND;TZID="UTC+03:30":20261024T145500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f9e1e4a-8a90-811c-9f8c-ef697295858f
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | آزمون شبیه‌سازی‌ش
@@ -493,7 +461,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۲۳ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261024T150000
 DTEND;TZID="UTC+03:30":20261024T152500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f9e1e4a-8a90-813b-90d0-de07b0eb5884
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | تصحیح آزمون پومودور
@@ -520,7 +488,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۱۸ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261022T093000
 DTEND;TZID="UTC+03:30":20261022T095500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f9e1e4a-8a90-816c-ab2c-c4dd4114014a
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | جزوه ص ۱۷۱–۱۸۰ (+ را
@@ -547,7 +515,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۱۷ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261022T090000
 DTEND;TZID="UTC+03:30":20261022T092500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f9e1e4a-8a90-81c9-b44a-d43938d2d010
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | جزوه ص ۱۵۸–۱۷۰: سؤا
@@ -572,7 +540,7 @@ SUMMARY:🎓 مطالعه امتحان ساختمان داده — ۱۵ ا
  ز ۲۵
 DTSTART;TZID="UTC+03:30":20261021T140000
 DTEND;TZID="UTC+03:30":20261021T142500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f7e1e4a-8a90-8169-8004-c0718907d5a2
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | جزوه ص ۱۴۸–۱۵۷: برج 
@@ -600,7 +568,7 @@ SUMMARY:🎓 مرور ساختمان داده — بعد از کلاس د
  وشنبه (۲۷ مهر)
 DTSTART;TZID="UTC+03:30":20261019T140000
 DTEND;TZID="UTC+03:30":20261019T142500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8108-bc07-c55689bedc82
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -614,7 +582,7 @@ SUMMARY:🎓 مرور دیفرانسیل — شب قبل از کلاس ی
  کشنبه
 DTSTART;TZID="UTC+03:30":20261017T180000
 DTEND;TZID="UTC+03:30":20261017T182500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8110-9a90-cef34bf9fd95
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -626,7 +594,7 @@ SUMMARY:🎓 مرور ساختمان داده — شب قبل از کلا
  س دوشنبه (۲۷ مهر)
 DTSTART;TZID="UTC+03:30":20261018T183000
 DTEND;TZID="UTC+03:30":20261018T185500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-811e-a3a5-f7b3e23768a0
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -638,7 +606,7 @@ SUMMARY:🎓 مرور احتمال — بعد از کلاس یکشنبه (
  ۳ آبان)
 DTSTART;TZID="UTC+03:30":20261025T180000
 DTEND;TZID="UTC+03:30":20261025T182500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8121-a695-e3fb690630d1
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -652,7 +620,7 @@ SUMMARY:🎓 مرور ریاضی ۲ — بعد از کلاس شنبه (۲
  آبان)
 DTSTART;TZID="UTC+03:30":20261024T173000
 DTEND;TZID="UTC+03:30":20261024T175500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-812d-816b-c199fa8fc97c
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -666,7 +634,7 @@ SUMMARY:🎓 مرور ساختمان داده — بعد از کلاس ش
  نبه
 DTSTART;TZID="UTC+03:30":20261017T190000
 DTEND;TZID="UTC+03:30":20261017T192500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-812d-8bfa-cc5e43044a58
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -681,7 +649,7 @@ SUMMARY:🎓 مرور نهایی امتحان ساختمان داده —
  ۲ از ۲ (شب قبل از امتحان، ۳ آبان)
 DTSTART;TZID="UTC+03:30":20261025T181500
 DTEND;TZID="UTC+03:30":20261025T184000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8143-9996-d93ad48b2dd1
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو (سبک). فقط خلاصه‌ی یک
@@ -703,7 +671,7 @@ SUMMARY:🎓 مرور ساختمان داده — شب قبل از حل ت
  مرین چهارشنبه (۲۹ مهر)
 DTSTART;TZID="UTC+03:30":20261020T183000
 DTEND;TZID="UTC+03:30":20261020T185500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8144-a456-c353d0074f30
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای حل 
@@ -715,7 +683,7 @@ SUMMARY:🎓 مرور دیفرانسیل + احتمال — بعد از ک
  لاس سه‌شنبه (۲۸ مهر)
 DTSTART;TZID="UTC+03:30":20261020T174500
 DTEND;TZID="UTC+03:30":20261020T181000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8158-beab-cfa3ed96c6b4
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور ترکیبی مطالب کل
@@ -732,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 مرور ریاضی ۲ — بعد از کلاس شنبه
 DTSTART;TZID="UTC+03:30":20261017T173000
 DTEND;TZID="UTC+03:30":20261017T175500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8159-a017-eee0b8c4c2c3
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -744,7 +712,7 @@ SUMMARY:🎓 مرور ساختمان داده + ریاضی ۲ — بعد
  از کلاس شنبه (۲ آبان)
 DTSTART;TZID="UTC+03:30":20261024T184500
 DTEND;TZID="UTC+03:30":20261024T191000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8162-8692-f2baf53602b1
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -762,7 +730,7 @@ SUMMARY:🎓 مرور ساختمان داده — بعد از حل تمر
  ین چهارشنبه (۲۹ مهر)
 DTSTART;TZID="UTC+03:30":20261021T114500
 DTEND;TZID="UTC+03:30":20261021T121000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-816c-8c4d-f6e7a238cde1
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب حل تمرین 
@@ -778,7 +746,7 @@ SUMMARY:🎓 مرور دیفرانسیل + احتمال — قبل از ک
  لاس یکشنبه (۳ آبان)
 DTSTART;TZID="UTC+03:30":20261025T111500
 DTEND;TZID="UTC+03:30":20261025T114000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8174-a462-e75242d73b78
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -795,7 +763,7 @@ SUMMARY:🎓 مرور ریاضی ۲ — شب قبل از کلاس شنبه
   (۲ آبان)
 DTSTART;TZID="UTC+03:30":20261022T180000
 DTEND;TZID="UTC+03:30":20261022T182500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-817f-b859-e05572230ed2
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -808,7 +776,7 @@ SUMMARY:🎓 مرور دیفرانسیل + احتمال — بعد از ک
  لاس یکشنبه (۳ آبان)
 DTSTART;TZID="UTC+03:30":20261025T174500
 DTEND;TZID="UTC+03:30":20261025T181000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8187-8b34-cff9d3f3d2f3
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -825,7 +793,7 @@ SUMMARY:🎓 مرور ریاضی ۲ — بعد از کلاس دوشنبه
  (۲۷ مهر)
 DTSTART;TZID="UTC+03:30":20261019T143000
 DTEND;TZID="UTC+03:30":20261019T145500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-8189-be57-dae6b68281b7
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -839,7 +807,7 @@ SUMMARY:🎓 مرور ریاضی ۲ — شب قبل از کلاس دوشن
  به (۴ آبان)
 DTSTART;TZID="UTC+03:30":20261025T190000
 DTEND;TZID="UTC+03:30":20261025T192500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-819c-9dd9-eccd983d4ea7
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -853,7 +821,7 @@ SUMMARY:🎓 مرور احتمال — بعد از کلاس سه‌شنب
  ه (۲۸ مهر)
 DTSTART;TZID="UTC+03:30":20261020T180000
 DTEND;TZID="UTC+03:30":20261020T182500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81aa-8b6b-d258502f7797
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -865,7 +833,7 @@ SUMMARY:🎓 مرور دیفرانسیل + احتمال — بعد از ک
  لاس یکشنبه (۲۶ مهر)
 DTSTART;TZID="UTC+03:30":20261018T174500
 DTEND;TZID="UTC+03:30":20261018T181000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81ab-b2d2-c9dec0ec6717
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور ترکیبی مطالب کل
@@ -883,7 +851,7 @@ SUMMARY:🎓 مرور احتمال — بعد از کلاس یکشنبه (
  ۲۶ مهر)
 DTSTART;TZID="UTC+03:30":20261018T180000
 DTEND;TZID="UTC+03:30":20261018T182500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81b0-a4a9-dc7c29da875a
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور مطالب کلاس امرو
@@ -895,7 +863,7 @@ SUMMARY:🎓 مرور ریاضی ۲ — شب قبل از کلاس دوشن
  به (۲۷ مهر)
 DTSTART;TZID="UTC+03:30":20261018T190000
 DTEND;TZID="UTC+03:30":20261018T192500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81b5-86b7-cc6dc9985b81
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -907,7 +875,7 @@ SUMMARY:🎓 مرور احتمال — شب قبل از کلاس یکشن
  به (۳ آبان)
 DTSTART;TZID="UTC+03:30":20261024T183000
 DTEND;TZID="UTC+03:30":20261024T185500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81c7-bd7b-f7387cfaa0b5
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -921,7 +889,7 @@ SUMMARY:🎓 مرور احتمال — شب قبل از کلاس سه‌ش
  نبه (۲۸ مهر)
 DTSTART;TZID="UTC+03:30":20261019T210000
 DTEND;TZID="UTC+03:30":20261019T212500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81cc-a3c4-f94fea2f3e2c
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -935,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 مرور ریاضی ۲ — شب قبل از کلاس شنبه
 DTSTART;TZID="UTC+03:30":20261016T193000
 DTEND;TZID="UTC+03:30":20261016T195500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81ce-9464-faec7186d459
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -949,7 +917,7 @@ SUMMARY:🎓 مرور دیفرانسیل — شب قبل از کلاس س
  ه‌شنبه (۲۸ مهر)
 DTSTART;TZID="UTC+03:30":20261019T193000
 DTEND;TZID="UTC+03:30":20261019T195500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81d6-8351-ff3e598a7886
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -964,7 +932,7 @@ SUMMARY:🎓 مرور ساختمان داده + ریاضی ۲ — شب ق
  بل از کلاس شنبه (۲ آبان)
 DTSTART;TZID="UTC+03:30":20261023T170000
 DTEND;TZID="UTC+03:30":20261023T175500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81db-8843-e3fd7f95719b
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو (۱۷:۰۰ ساختمان داده، 
@@ -983,7 +951,7 @@ SUMMARY:🎓 مرور احتمال — شب قبل از کلاس یکشن
  به
 DTSTART;TZID="UTC+03:30":20261017T183000
 DTEND;TZID="UTC+03:30":20261017T185500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f6e1e4a-8a90-81e9-9363-d7ebdd907767
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو. مرور آمادگی برای کلا
@@ -994,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب چهارشنبه ۶ آبان
 DTSTART;TZID="UTC+03:30":20261028T200000
 DTEND;TZID="UTC+03:30":20261028T202500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-8112-bbb1-fd5b22dba2bf
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۱ پومودورو. مطالعهٔ زبان. ❌ ۴ آب
@@ -1006,7 +974,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب سه‌شنبه ۵ آبان
 DTSTART;TZID="UTC+03:30":20261027T200000
 DTEND;TZID="UTC+03:30":20261027T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-811c-9ac2-f0e6c86d9ec9
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. مطالعهٔ زبان. ❌ ۴ آب
@@ -1018,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب یکشنبه ۳ آبان
 DTSTART;TZID="UTC+03:30":20261025T200000
 DTEND;TZID="UTC+03:30":20261025T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-812e-9ee2-f0efac2769f4
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
@@ -1029,7 +997,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب جمعه ۱ آبان
 DTSTART;TZID="UTC+03:30":20261023T200000
 DTEND;TZID="UTC+03:30":20261023T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-8140-b9c2-ff5ddd93a093
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
@@ -1040,7 +1008,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب پنجشنبه ۷ آبان
 DTSTART;TZID="UTC+03:30":20261029T200000
 DTEND;TZID="UTC+03:30":20261029T202500
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-8161-a553-d556c975a6a0
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۱ پومودورو. مطالعهٔ زبان. ❌ ۴ آب
@@ -1052,7 +1020,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب شنبه ۲ آبان
 DTSTART;TZID="UTC+03:30":20261024T200000
 DTEND;TZID="UTC+03:30":20261024T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-816c-9962-d99caa5191e8
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
@@ -1063,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب دوشنبه ۴ آبان
 DTSTART;TZID="UTC+03:30":20261026T201500
 DTEND;TZID="UTC+03:30":20261026T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-818e-9680-df2285c87010
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. مطالعهٔ زبان. ❌ ۴ آب
@@ -1075,7 +1043,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب سه‌شنبه ۲۸ مهر
 DTSTART;TZID="UTC+03:30":20261020T200000
 DTEND;TZID="UTC+03:30":20261020T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-819f-9314-c6baa49d3d75
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
@@ -1088,7 +1056,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب شنبه ۲۵ مهر
 DTSTART;TZID="UTC+03:30":20261017T200000
 DTEND;TZID="UTC+03:30":20261017T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-81a0-8b07-f6bd66e319fa
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
@@ -1102,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب چهارشنبه ۲۹ مهر
 DTSTART;TZID="UTC+03:30":20261021T200000
 DTEND;TZID="UTC+03:30":20261021T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-81b3-a3a6-da738be16f5b
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
@@ -1113,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب پنجشنبه ۳۰ مهر
 DTSTART;TZID="UTC+03:30":20261022T200000
 DTEND;TZID="UTC+03:30":20261022T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-81d0-a616-dbca13acf55a
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
@@ -1124,7 +1092,7 @@ BEGIN:VEVENT
 SUMMARY:👤 مطالعهٔ زبان — شب یکشنبه ۲۶ مهر
 DTSTART;TZID="UTC+03:30":20261018T200000
 DTEND;TZID="UTC+03:30":20261018T210000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3f5e1e4a-8a90-81f2-bc3f-f9d4b53691af
 CATEGORIES:شخصی
 DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
@@ -1135,371 +1103,320 @@ DESCRIPTION:⏱ ۲ پومودورو. ساعت ۲۰:۰۰ تا ۲۱:۰۰ —
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۵
-DTSTART;TZID="UTC+03:30":20261121T174500
-DTEND;TZID="UTC+03:30":20261121T181000
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261210T093000
+DTEND;TZID="UTC+03:30":20261210T095500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8102-9172-d7b6c1dab74f
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۵ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۹ مهر ۱۹:۴۵ به ۶ آبان ۱۴:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۱۳ آبان ۰۹:۰۰ به ۳۰ آبان ۱۷:۴۵ منتقل شد 
- (حفظ ترتیب؛ شنبه بعد از کلاس‌ها).\n\n🔗 https:
- //app.notion.com/p/3e1e1e4a8a9081029172d7b6c1dab74f
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۳۰ آبان ۱۷:۴۵ به ۱۹ آذر ۰۹:۳۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ پنجشنبه دو جل
+ سه).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081029172d7b6c1dab74f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۷
-DTSTART;TZID="UTC+03:30":20261124T090000
-DTEND;TZID="UTC+03:30":20261124T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261213T090000
+DTEND;TZID="UTC+03:30":20261213T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8105-b332-e76184600730
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۷ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲ آبان ۱۹:۴۵ به ۹ آبان ۱۴:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۱۶ آبان ۰۹:۰۰ به ۳ آذر ۰۹:۰۰ منتقل شد (ح
- فظ ترتیب بعد از جلسه‌های ۱۸ تا ۲۴).\n\n🔗 htt
- ps://app.notion.com/p/3e1e1e4a8a908105b332e76184600730
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۳ آذر ۰۹:۰۰ به ۲۲ آذر ۰۹:۰۰ منتقل شد (
+ حفظ ترتیب بعد از جلسه‌های ۱۸ تا ۳۶؛ ریتم 
+ سبک).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908105b332e76184600730
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۱
-DTSTART;TZID="UTC+03:30":20261117T090000
-DTEND;TZID="UTC+03:30":20261117T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261207T141500
+DTEND;TZID="UTC+03:30":20261207T144000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-811a-8a08-d97afa69c830
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۱ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۵ مهر ۱۹:۴۵ به ۲ آبان ۱۴:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۹ آبان ۰۹:۰۰ (قبل از کلاس ۰۹:۳۰) به ۲۶ آب
- ان ۰۹:۰۰ منتقل شد (حفظ ترتیب بعد از جلسه‌
- های ۱۸ تا ۲۴).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90811a8
- a08d97afa69c830
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۶ آبان ۰۹:۰۰ به ۱۶ آذر ۱۴:۱۵ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ دوشنبه فقط هم
+ ین یک کار).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90811a8a08d9
+ 7afa69c830
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۲
-DTSTART;TZID="UTC+03:30":20261118T130000
-DTEND;TZID="UTC+03:30":20261118T132500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261208T090000
+DTEND;TZID="UTC+03:30":20261208T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-811e-b840-e8b692718c74
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۲ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۶ مهر ۱۹:۴۵ به ۳ آبان ۰۹:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۱۰ آبان ۰۹:۰۰ به ۲۷ آبان ۱۳:۰۰ منتقل شد 
- (حفظ ترتیب بعد از جلسه‌های ۱۸ تا ۲۴).\n\n🔗 
- https://app.notion.com/p/3e1e1e4a8a90811eb840e8b692718c74
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۷ آبان ۱۳:۰۰ به ۱۷ آذر ۰۹:۰۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ ریتم سبک، روز
+ ی یک جلسه به ترتیب).\n\n🔗 https://app.notion.com/p/3e1e1e
+ 4a8a90811eb840e8b692718c74
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۲
-DTSTART;TZID="UTC+03:30":20261105T093000
-DTEND;TZID="UTC+03:30":20261105T095500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261128T141500
+DTEND;TZID="UTC+03:30":20261128T144000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-812a-83b6-cad4cb68737b
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۲ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۱۴ مهر ۱۸:۴۵ به ۲۱ مهر ۱۱:۰۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از «به تعویق افتاده» (بدون تاریخ) به ۱۴ آب
- ان ۰۹:۳۰ منتقل شد (بعد از میان‌ترم دیفران
- سیل؛ پنجشنبه دو جلسه).\n\n🔗 https://app.notion.com/p/3
- e1e1e4a8a90812a83b6cad4cb68737b
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱۴ آبان ۰۹:۳۰ به ۷ آذر ۱۴:۱۵ منتقل شد 
+ (پاکسازی عقب‌افتاده‌ها؛ بعد از کلاس‌ها
+  و ناهار).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90812a83b6cad4
+ cb68737b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۸
-DTSTART;TZID="UTC+03:30":20261125T130000
-DTEND;TZID="UTC+03:30":20261125T132500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261214T141500
+DTEND;TZID="UTC+03:30":20261214T144000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8132-8a32-d6b4228eabda
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۸ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۳ آبان ۱۹:۴۵ به ۱۰ آبان ۰۹:۳۰ منتقل 
- شد (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر
- : از ۱۷ آبان ۰۹:۰۰ به ۴ آذر ۱۳:۰۰ منتقل شد (
- حفظ ترتیب بعد از جلسه‌های ۱۸ تا ۲۴).\n\n🔗 h
- ttps://app.notion.com/p/3e1e1e4a8a9081328a32d6b4228eabda
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۴ آذر ۱۳:۰۰ به ۲۳ آذر ۱۴:۱۵ منتقل شد (
+ حفظ ترتیب بعد از جلسه‌های ۱۸ تا ۳۷؛ ریتم 
+ سبک).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081328a32d6b4228eabda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۳
-DTSTART;TZID="UTC+03:30":20261107T174500
-DTEND;TZID="UTC+03:30":20261107T181000
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261129T090000
+DTEND;TZID="UTC+03:30":20261129T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8142-beb6-fbe8319dc406
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۳ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۱۵ مهر ۱۵:۰۰ به ۲۲ مهر ۱۶:۰۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از «به تعویق افتاده» (بدون تاریخ) به ۱۶ آب
- ان ۱۷:۴۵ منتقل شد (بعد از میان‌ترم دیفران
- سیل؛ شنبه بعد از باشگاه).\n\n🔗 https://app.notion.co
- m/p/3e1e1e4a8a908142beb6fbe8319dc406
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱۶ آبان ۱۷:۴۵ به ۸ آذر ۰۹:۰۰ منتقل شد 
+ (پاکسازی عقب‌افتاده‌ها؛ صبح یکشنبه کلا
+ س ندارد).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908142beb6fbe83
+ 19dc406
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۶
-DTSTART;TZID="UTC+03:30":20261122T090000
-DTEND;TZID="UTC+03:30":20261122T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261212T141500
+DTEND;TZID="UTC+03:30":20261212T144000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8145-818e-df982469b2a1
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۶ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۳۰ مهر ۱۹:۴۵ به ۷ آبان ۰۹:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۱۴ آبان ۰۹:۰۰ به ۱ آذر ۰۹:۰۰ منتقل شد (ح
- فظ ترتیب بعد از جلسه‌های ۱۸ تا ۲۴).\n\n🔗 htt
- ps://app.notion.com/p/3e1e1e4a8a908145818edf982469b2a1
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱ آذر ۰۹:۰۰ به ۲۱ آذر ۱۴:۱۵ منتقل شد (
+ پاکسازی عقب‌افتاده‌ها؛ بعد از کلاس‌ها 
+ و ناهار).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908145818edf982
+ 469b2a1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۳
-DTSTART;TZID="UTC+03:30":20261119T090000
-DTEND;TZID="UTC+03:30":20261119T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261209T140000
+DTEND;TZID="UTC+03:30":20261209T142500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-814a-bc92-f7d4405649e2
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۳ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۷ مهر ۱۹:۴۵ به ۴ آبان ۱۴:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۱۱ آبان ۰۹:۰۰ (قبل از کلاس ۰۹:۳۰) به ۲۸ آ
- بان ۰۹:۰۰ منتقل شد (حفظ ترتیب بعد از جلسه
- ‌های ۱۸ تا ۲۴).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081
- 4abc92f7d4405649e2
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۸ آبان ۰۹:۰۰ به ۱۸ آذر ۱۴:۰۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ بعد از ناهار).
+ \n\n🔗 https://app.notion.com/p/3e1e1e4a8a90814abc92f7d4405649e2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۴
-DTSTART;TZID="UTC+03:30":20261108T090000
-DTEND;TZID="UTC+03:30":20261108T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261130T141500
+DTEND;TZID="UTC+03:30":20261130T144000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8164-b263-e1c52ced2300
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۴ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۱۶ مهر ۱۹:۴۵ به ۲۳ مهر ۱۱:۰۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از «به تعویق افتاده» (بدون تاریخ) به ۱۷ آب
- ان ۰۹:۰۰ منتقل شد (بعد از میان‌ترم دیفران
- سیل؛ حفظ ترتیب).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90
- 8164b263e1c52ced2300
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱۷ آبان ۰۹:۰۰ به ۹ آذر ۱۴:۱۵ منتقل شد 
+ (پاکسازی عقب‌افتاده‌ها؛ دوشنبه فقط همی
+ ن یک کار، بین کلاس ظهر و حل تمرین عصر).\n\n
+ 🔗 https://app.notion.com/p/3e1e1e4a8a908164b263e1c52ced2300
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۰
-DTSTART;TZID="UTC+03:30":20261104T130000
-DTEND;TZID="UTC+03:30":20261104T132500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261126T090000
+DTEND;TZID="UTC+03:30":20261126T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-816b-9204-dfd5b9a3e142
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۰ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۱۲ مهر ۱۷:۳۰ به ۱۹ مهر ۱۰:۴۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از «به تعویق افتاده» (بدون تاریخ) به ۱۳ آب
- ان ۱۳:۰۰ منتقل شد (بعد از میان‌ترم دیفران
- سیل؛ چهارشنبه بعد از حل تمرین و ناهار).\n\n
- 🔗 https://app.notion.com/p/3e1e1e4a8a90816b9204dfd5b9a3e142
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱۳ آبان ۱۳:۰۰ به ۵ آذر ۰۹:۰۰ منتقل شد 
+ (پاکسازی عقب‌افتاده‌ها؛ ریتم سبک، روزی 
+ یک جلسه به ترتیب).\n\n🔗 https://app.notion.com/p/3e1e1e4a8
+ a90816b9204dfd5b9a3e142
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۱۹
-DTSTART;TZID="UTC+03:30":20261103T090000
-DTEND;TZID="UTC+03:30":20261103T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261125T140000
+DTEND;TZID="UTC+03:30":20261125T142500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8170-b89f-e748d97bb486
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۱۹ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۱۱ مهر ۱۷:۰۰ به ۱۸ مهر ۱۵:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از «به تعویق افتاده» (بدون تاریخ) به ۱۲ آب
- ان ۰۹:۰۰ منتقل شد (بعد از میان‌ترم دیفران
- سیل؛ حفظ ترتیب).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90
- 8170b89fe748d97bb486
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱۲ آبان ۰۹:۰۰ به ۴ آذر ۱۴:۰۰ منتقل شد 
+ (پاکسازی عقب‌افتاده‌ها؛ ریتم سبک، روزی 
+ یک جلسه به ترتیب).\n\n🔗 https://app.notion.com/p/3e1e1e4a8
+ a908170b89fe748d97bb486
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۹
-DTSTART;TZID="UTC+03:30":20261114T174500
-DTEND;TZID="UTC+03:30":20261114T181000
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261205T141500
+DTEND;TZID="UTC+03:30":20261205T144000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8175-845c-cf9aac9584b5
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۹ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۲ مهر ۱۹:۴۵ به ۲۹ مهر ۱۶:۰۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۶ آبان ۰۹:۰۰ به ۲۳ آبان ۱۷:۴۵ منتقل شد (
- حفظ ترتیب؛ شنبه بعد از کلاس‌ها).\n\n🔗 https:/
- /app.notion.com/p/3e1e1e4a8a908175845ccf9aac9584b5
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۳ آبان ۱۷:۴۵ به ۱۴ آذر ۱۴:۱۵ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ بعد از کلاس‌
+ ها و ناهار).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908175845c
+ cf9aac9584b5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۹
-DTSTART;TZID="UTC+03:30":20261126T090000
-DTEND;TZID="UTC+03:30":20261126T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261215T090000
+DTEND;TZID="UTC+03:30":20261215T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8178-ac80-fc3250efebcf
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۹ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۴ آبان ۱۹:۴۵ به ۱۱ آبان ۱۴:۳۰ منتقل 
- شد (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر
- : از ۱۸ آبان ۰۹:۰۰ (قبل از کلاس ۰۹:۳۰) به ۵ آ
- ذر ۰۹:۰۰ منتقل شد (حفظ ترتیب بعد از جلسه‌
- های ۱۸ تا ۲۴).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908178a
- c80fc3250efebcf
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۵ آذر ۰۹:۰۰ به ۲۴ آذر ۰۹:۰۰ منتقل شد (
+ حفظ ترتیب بعد از جلسه‌های ۱۸ تا ۳۸؛ ریتم 
+ سبک).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908178ac80fc3250efebcf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۶
-DTSTART;TZID="UTC+03:30":20261111T130000
-DTEND;TZID="UTC+03:30":20261111T132500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261202T140000
+DTEND;TZID="UTC+03:30":20261202T142500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-817c-b4a5-d2906cfbe713
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۶ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۱۹ مهر ۱۹:۴۵ به ۲۶ مهر ۱۰:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۳ آبان ۰۹:۰۰ به ۲۰ آبان ۱۳:۰۰ منتقل شد (
- حفظ ترتیب بعد از جلسه‌های ۱۸ تا ۲۴؛ LPIC و 
- میان‌ترم دیفرانسیل اولویت داشتند).\n\n🔗 h
- ttps://app.notion.com/p/3e1e1e4a8a90817cb4a5d2906cfbe713
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۰ آبان ۱۳:۰۰ به ۱۱ آذر ۱۴:۰۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ بعد از ناهار).
+ \n\n🔗 https://app.notion.com/p/3e1e1e4a8a90817cb4a5d2906cfbe713
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۱۸
-DTSTART;TZID="UTC+03:30":20261101T090000
-DTEND;TZID="UTC+03:30":20261101T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261124T090000
+DTEND;TZID="UTC+03:30":20261124T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-818c-a012-e6a5e0cc7867
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۱۸ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۹ مهر ۱۵:۱۵ به ۱۶ مهر ۱۱:۰۰ منتقل شد 
- (جلسه‌ی عقب‌افتاده؛ روزی یک ویدیو به تر
- تیب جلسه). 🔁 ۲۳ مهر: از ۲۳ مهر ۰۹:۰۰ به ۲۴ 
- مهر ۱۹:۰۰ منتقل شد (انجام نشد؛ امروز فقط م
- طالعه‌ی میان‌ترم). 🔁 ۲۵ مهر: از «به تعوی
- ق افتاده» (بدون تاریخ) به ۱۰ آبان ۰۹:۰۰ من
- تقل شد (بعد از میان‌ترم دیفرانسیل؛ تقریب
- اً روزی یک جلسه، پنجشنبه‌ها دو جلسه، دوش
- نبه و جمعه نه).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90818
- ca012e6a5e0cc7867
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱۰ آبان ۰۹:۰۰ به ۳ آذر ۰۹:۰۰ منتقل شد 
+ (پاکسازی عقب‌افتاده‌ها؛ ریتم سبک، روزی 
+ یک جلسه به ترتیب).\n\n🔗 https://app.notion.com/p/3e1e1e4a8
+ a90818ca012e6a5e0cc7867
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۰
-DTSTART;TZID="UTC+03:30":20261115T090000
-DTEND;TZID="UTC+03:30":20261115T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261206T090000
+DTEND;TZID="UTC+03:30":20261206T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-818f-aa8d-d445068bff3c
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۰ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۳ مهر ۱۹:۴۵ به ۳۰ مهر ۱۰:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۷ آبان ۰۹:۰۰ به ۲۴ آبان ۰۹:۰۰ منتقل شد (
- حفظ ترتیب بعد از جلسه‌های ۱۸ تا ۲۴).\n\n🔗 h
- ttps://app.notion.com/p/3e1e1e4a8a90818faa8dd445068bff3c
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۴ آبان ۰۹:۰۰ به ۱۵ آذر ۰۹:۰۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ صبح یکشنبه کل
+ اس ندارد).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90818faa8dd44
+ 5068bff3c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۵
-DTSTART;TZID="UTC+03:30":20261110T090000
-DTEND;TZID="UTC+03:30":20261110T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261201T090000
+DTEND;TZID="UTC+03:30":20261201T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8190-809a-e6569431e60c
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۵ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۱۸ مهر ۱۹:۴۵ به ۲۵ مهر ۱۵:۴۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۲ آبان ۰۹:۰۰ (قبل از کلاس ۰۹:۳۰) به ۱۹ آب
- ان ۰۹:۰۰ منتقل شد (جلسه‌های ۱۸ تا ۲۴ اول م
- ی‌آیند؛ بعد از LPIC و میان‌ترم دیفرانسیل).
- \n\n🔗 https://app.notion.com/p/3e1e1e4a8a908190809ae6569431e60c
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱۹ آبان ۰۹:۰۰ به ۱۰ آذر ۰۹:۰۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ ریتم سبک، روز
+ ی یک جلسه به ترتیب).\n\n🔗 https://app.notion.com/p/3e1e1e
+ 4a8a908190809ae6569431e60c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۴۰
-DTSTART;TZID="UTC+03:30":20261126T093000
-DTEND;TZID="UTC+03:30":20261126T095500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261216T140000
+DTEND;TZID="UTC+03:30":20261216T142500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81b8-a0f2-e9a8962e2600
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۴۰ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۵ آبان ۱۹:۴۵ به ۱۲ آبان ۰۹:۳۰ منتقل 
- شد (روزی یک ویدیو به ترتیب جلسه؛ آخرین جل
- سه). 🔁 ۲۵ مهر: از ۱۹ آبان ۰۹:۰۰ به ۵ آذر ۰۹:
- ۳۰ منتقل شد (حفظ ترتیب؛ آخرین جلسه).\n\n🔗 ht
- tps://app.notion.com/p/3e1e1e4a8a9081b8a0f2e9a8962e2600
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۵ آذر ۰۹:۳۰ به ۲۵ آذر ۱۴:۰۰ منتقل شد (
+ حفظ ترتیب؛ آخرین جلسه‌ی پلی‌لیست).\n\n🔗 h
+ ttps://app.notion.com/p/3e1e1e4a8a9081b8a0f2e9a8962e2600
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۷
-DTSTART;TZID="UTC+03:30":20261112T090000
-DTEND;TZID="UTC+03:30":20261112T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261203T090000
+DTEND;TZID="UTC+03:30":20261203T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81be-bde2-eab3ad080328
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۷ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۰ مهر ۱۹:۴۵ به ۲۷ مهر ۱۶:۰۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۴ آبان ۰۹:۰۰ به ۲۱ آبان ۰۹:۰۰ منتقل شد (
- حفظ ترتیب بعد از جلسه‌های ۱۸ تا ۲۴؛ LPIC و 
- میان‌ترم دیفرانسیل اولویت داشتند).\n\n🔗 h
- ttps://app.notion.com/p/3e1e1e4a8a9081bebde2eab3ad080328
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۱ آبان ۰۹:۰۰ به ۱۲ آذر ۰۹:۰۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ پنجشنبه دو جل
+ سه).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081bebde2eab3ad080328
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۱
-DTSTART;TZID="UTC+03:30":20261105T090000
-DTEND;TZID="UTC+03:30":20261105T092500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261126T093000
+DTEND;TZID="UTC+03:30":20261126T095500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81bf-acad-dd2ca0781dd4
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۱ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۱۳ مهر ۱۹:۳۰ به ۲۰ مهر ۱۶:۰۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از «به تعویق افتاده» (بدون تاریخ) به ۱۴ آب
- ان ۰۹:۰۰ منتقل شد (بعد از میان‌ترم دیفران
- سیل؛ حفظ ترتیب).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90
- 81bfacaddd2ca0781dd4
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۱۴ آبان ۰۹:۰۰ به ۵ آذر ۰۹:۳۰ منتقل شد 
+ (پاکسازی عقب‌افتاده‌ها؛ پنجشنبه دو جلس
+ ه).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081bfacaddd2ca0781dd4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۳۴
-DTSTART;TZID="UTC+03:30":20261119T093000
-DTEND;TZID="UTC+03:30":20261119T095500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261210T090000
+DTEND;TZID="UTC+03:30":20261210T092500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81f3-9076-d4696b99ee92
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۳۴ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۸ مهر ۱۹:۴۵ به ۵ آبان ۰۹:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۱۲ آبان ۰۹:۰۰ به ۲۸ آبان ۰۹:۳۰ منتقل شد 
- (حفظ ترتیب؛ پنجشنبه دو جلسه).\n\n🔗 https://app.no
- tion.com/p/3e1e1e4a8a9081f39076d4696b99ee92
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۸ آبان ۰۹:۳۰ به ۱۹ آذر ۰۹:۰۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ پنجشنبه دو جل
+ سه).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081f39076d4696b99ee92
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 انتگرال ریاضی ۱ — جلسه ۲۸
-DTSTART;TZID="UTC+03:30":20261112T093000
-DTEND;TZID="UTC+03:30":20261112T095500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261203T093000
+DTEND;TZID="UTC+03:30":20261203T095500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81f5-96bc-da210684eca9
 CATEGORIES:University
 DESCRIPTION:⏱ ۱ پومودورو | ویدیو جلسه ۲۸ از ۴۰ 
- پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۱۱ م
- هر: از ۲۱ مهر ۱۹:۴۵ به ۲۸ مهر ۱۰:۳۰ منتقل ش
- د (روزی یک ویدیو به ترتیب جلسه). 🔁 ۲۵ مهر: 
- از ۵ آبان ۰۹:۰۰ به ۲۱ آبان ۰۹:۳۰ منتقل شد (
- حفظ ترتیب؛ پنجشنبه دو جلسه).\n\n🔗 https://app.not
- ion.com/p/3e1e1e4a8a9081f596bcda210684eca9
+ پلی‌لیست زوارقی | یادداشت بردار | 🔁 ۲ آذ
+ ر: از ۲۱ آبان ۰۹:۳۰ به ۱۲ آذر ۰۹:۳۰ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ پنجشنبه دو جل
+ سه).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081f596bcda210684eca9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261215T133000
 DTEND;TZID="UTC+03:30":20261215T143000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8100-b8d1-c0d12554861b
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
@@ -1510,7 +1427,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270105T133000
 DTEND;TZID="UTC+03:30":20270105T143000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8101-9987-f5697351fc36
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
@@ -1521,7 +1438,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261222T133000
 DTEND;TZID="UTC+03:30":20261222T143000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8106-8e75-d63bba24f44c
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
@@ -1532,7 +1449,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - یکشنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261213T133000
 DTEND;TZID="UTC+03:30":20261213T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-810a-ab0d-f2a60561c61e
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
@@ -1543,7 +1460,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261229T133000
 DTEND;TZID="UTC+03:30":20261229T143000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8112-bc9f-e1d8f589e940
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
@@ -1554,7 +1471,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - شنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270102T120000
 DTEND;TZID="UTC+03:30":20270102T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8115-89b9-c66b8dd2badf
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -1564,7 +1481,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261215T143000
 DTEND;TZID="UTC+03:30":20261215T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8117-916e-e9cdd08b65c0
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
@@ -1575,7 +1492,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - دوشنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261228T120000
 DTEND;TZID="UTC+03:30":20261228T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-811a-9a99-c9143e7156a5
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -1585,7 +1502,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270104T173000
 DTEND;TZID="UTC+03:30":20270104T193000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-812f-bdf9-fc9d40384bcf
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
@@ -1596,7 +1513,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - شنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261219T120000
 DTEND;TZID="UTC+03:30":20261219T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-813a-8d7e-fa7d0dfc9e76
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -1606,7 +1523,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261214T173000
 DTEND;TZID="UTC+03:30":20261214T193000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-813a-afa9-fa4c3c2d20be
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
@@ -1617,7 +1534,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - شنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261219T093000
 DTEND;TZID="UTC+03:30":20261219T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-813e-90f0-e2cda938288a
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -1627,7 +1544,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - سه‌شنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270105T153000
 DTEND;TZID="UTC+03:30":20270105T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8142-bd9f-e17d7e23ebfe
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -1637,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - یکشنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270103T153000
 DTEND;TZID="UTC+03:30":20270103T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-814b-9595-f1661f5dacfb
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -1648,7 +1565,7 @@ SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۱
  ۶
 DTSTART;TZID="UTC+03:30":20270106T093000
 DTEND;TZID="UTC+03:30":20270106T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8157-a4c2-c382793d2c18
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
@@ -1659,7 +1576,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261221T173000
 DTEND;TZID="UTC+03:30":20261221T193000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-815f-8ef6-db8c89e78e47
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
@@ -1670,7 +1587,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - شنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270102T093000
 DTEND;TZID="UTC+03:30":20270102T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-816d-a608-d80e876d83a4
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -1680,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261228T173000
 DTEND;TZID="UTC+03:30":20261228T193000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-817f-8403-dfc10b253a38
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
@@ -1691,7 +1608,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - دوشنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270104T120000
 DTEND;TZID="UTC+03:30":20270104T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8180-9728-c82cc2b5a9f7
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -1701,7 +1618,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - سه‌شنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261215T153000
 DTEND;TZID="UTC+03:30":20261215T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8181-ab9b-e84612d1e5c8
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -1711,7 +1628,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - شنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261226T093000
 DTEND;TZID="UTC+03:30":20261226T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-818f-9868-ed1a93a9afd7
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -1721,7 +1638,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - سه‌شنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261229T153000
 DTEND;TZID="UTC+03:30":20261229T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8194-8595-c6ff51c9fbb5
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -1731,7 +1648,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - شنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261226T120000
 DTEND;TZID="UTC+03:30":20261226T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-819e-9b16-c474b5e3fdc1
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -1742,7 +1659,7 @@ SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۱
  ۳
 DTSTART;TZID="UTC+03:30":20261216T093000
 DTEND;TZID="UTC+03:30":20261216T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81a4-a03d-d77201511d5f
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
@@ -1753,7 +1670,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - یکشنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261227T133000
 DTEND;TZID="UTC+03:30":20261227T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81a6-9b7c-c7b1d16afa24
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
@@ -1764,7 +1681,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - دوشنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261221T120000
 DTEND;TZID="UTC+03:30":20261221T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81a7-8a44-f0d77d269e1a
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -1774,7 +1691,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270105T143000
 DTEND;TZID="UTC+03:30":20270105T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81aa-b141-ef5411d5b1c8
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
@@ -1786,7 +1703,7 @@ SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۱
  ۵
 DTSTART;TZID="UTC+03:30":20261230T093000
 DTEND;TZID="UTC+03:30":20261230T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81ab-97ea-e82baef93d7c
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
@@ -1797,7 +1714,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - یکشنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261227T153000
 DTEND;TZID="UTC+03:30":20261227T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81ae-97be-d4f3e93ac172
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -1807,7 +1724,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - سه‌شنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261222T153000
 DTEND;TZID="UTC+03:30":20261222T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81b2-a4ee-d16eb3a18197
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -1818,7 +1735,7 @@ SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۱
  ۴
 DTSTART;TZID="UTC+03:30":20261223T093000
 DTEND;TZID="UTC+03:30":20261223T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81b3-b061-efab954029ae
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
@@ -1829,7 +1746,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - دوشنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261214T093000
 DTEND;TZID="UTC+03:30":20261214T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81b8-86c9-fe2d5e3d4cea
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -1839,7 +1756,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261222T143000
 DTEND;TZID="UTC+03:30":20261222T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c0-ada4-ec82b3e148c0
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
@@ -1850,7 +1767,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - شنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261212T093000
 DTEND;TZID="UTC+03:30":20261212T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c1-a01a-fd94198e3434
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -1860,7 +1777,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - دوشنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261214T120000
 DTEND;TZID="UTC+03:30":20261214T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c2-a2d1-ccdddc8cbdcd
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -1870,7 +1787,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - دوشنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270104T093000
 DTEND;TZID="UTC+03:30":20270104T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c6-b563-f75ddd54ccaf
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -1880,7 +1797,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - یکشنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261220T153000
 DTEND;TZID="UTC+03:30":20261220T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c8-89d5-ec8f765ce05d
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -1890,7 +1807,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - یکشنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261220T133000
 DTEND;TZID="UTC+03:30":20261220T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81d9-a1f1-f8cf365381f5
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
@@ -1901,7 +1818,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - یکشنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261213T153000
 DTEND;TZID="UTC+03:30":20261213T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81dd-95c9-e7295b192f64
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -1911,7 +1828,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - یکشنبه ۱۶
 DTSTART;TZID="UTC+03:30":20270103T133000
 DTEND;TZID="UTC+03:30":20270103T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81e1-8971-d8e7b2d4ce66
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
@@ -1922,7 +1839,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - شنبه ۱۳
 DTSTART;TZID="UTC+03:30":20261212T120000
 DTEND;TZID="UTC+03:30":20261212T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81f3-b40b-d73343288311
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -1932,7 +1849,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - دوشنبه ۱۴
 DTSTART;TZID="UTC+03:30":20261221T093000
 DTEND;TZID="UTC+03:30":20261221T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81f5-a933-ff622c44a1b5
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -1942,7 +1859,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - دوشنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261228T093000
 DTEND;TZID="UTC+03:30":20261228T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81fe-9676-d6ac9a96cc61
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -1952,7 +1869,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۱۵
 DTSTART;TZID="UTC+03:30":20261229T143000
 DTEND;TZID="UTC+03:30":20261229T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81ff-a88d-f3e6f44aeab2
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
@@ -1960,32 +1877,10 @@ DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
  f3e6f44aeab2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۹
-DTSTART;TZID="UTC+03:30":20261117T133000
-DTEND;TZID="UTC+03:30":20261117T143000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8101-9a55-e91545e7374e
-CATEGORIES:University
-DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
- میه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081019a55e91545e
- 7374e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 دیفرانسیل - یکشنبه ۱۰
-DTSTART;TZID="UTC+03:30":20261122T133000
-DTEND;TZID="UTC+03:30":20261122T153000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8107-be97-efc92e7d6a6a
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
- میه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908107be97efc92e7
- d6a6a
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261208T143000
 DTEND;TZID="UTC+03:30":20261208T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8108-a9d8-f1c8f73feb58
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
@@ -1996,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - شنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261128T093000
 DTEND;TZID="UTC+03:30":20261128T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-810d-bc14-c5a84cb16541
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -2006,7 +1901,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - دوشنبه ۱۰
 DTSTART;TZID="UTC+03:30":20261123T120000
 DTEND;TZID="UTC+03:30":20261123T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8118-8da1-ca5f7de73ff7
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -2016,7 +1911,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261130T173000
 DTEND;TZID="UTC+03:30":20261130T193000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8119-b8a8-c2d50b7522a2
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
@@ -2027,7 +1922,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261207T173000
 DTEND;TZID="UTC+03:30":20261207T193000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8121-a29e-eb1d77b96e0e
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
@@ -2035,41 +1930,20 @@ DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
  77b96e0e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 ساختمان داده - دوشنبه ۹
-DTSTART;TZID="UTC+03:30":20261116T093000
-DTEND;TZID="UTC+03:30":20261116T113000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8122-b63d-fcef37ab4eed
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
- 55w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908122b63dfcef37ab4eed
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - دوشنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261130T120000
 DTEND;TZID="UTC+03:30":20261130T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8123-985c-d599f7c98b8c
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
   | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908123985cd599f7c98b8c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۹
-DTSTART;TZID="UTC+03:30":20261117T143000
-DTEND;TZID="UTC+03:30":20261117T153000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8130-971b-cf336521d677
-CATEGORIES:University
-DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
- ده سمیه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908130971b
- cf336521d677
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 احتمال - یکشنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261206T153000
 DTEND;TZID="UTC+03:30":20261206T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8139-8516-ee974ec5bb63
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -2079,7 +1953,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - دوشنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261207T093000
 DTEND;TZID="UTC+03:30":20261207T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8140-a5da-d6ba08313551
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -2089,7 +1963,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۱۰
 DTSTART;TZID="UTC+03:30":20261123T173000
 DTEND;TZID="UTC+03:30":20261123T193000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8140-adf4-d8b38f0db14e
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
@@ -2100,27 +1974,17 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - شنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261205T093000
 DTEND;TZID="UTC+03:30":20261205T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8144-9963-d22bd9e79864
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
  55w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081449963d22bd9e79864
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 ریاضی ۲ - شنبه ۹
-DTSTART;TZID="UTC+03:30":20261114T120000
-DTEND;TZID="UTC+03:30":20261114T133000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-814a-8558-c8e8bc8ff85a
-CATEGORIES:University
-DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
-  | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90814a8558c8e8bc8ff85a
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۱۰
 DTSTART;TZID="UTC+03:30":20261124T143000
 DTEND;TZID="UTC+03:30":20261124T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8150-b91c-cc3111217002
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
@@ -2131,38 +1995,18 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - شنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261205T120000
 DTEND;TZID="UTC+03:30":20261205T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-815f-a0cb-f82f347657f8
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
   | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90815fa0cbf82f347657f8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 ساختمان داده - شنبه ۹
-DTSTART;TZID="UTC+03:30":20261114T093000
-DTEND;TZID="UTC+03:30":20261114T113000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8166-8dd7-c872d2a09ff9
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
- 55w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081668dd7c872d2a09ff9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 ساختمان داده - شنبه ۱۰
-DTSTART;TZID="UTC+03:30":20261121T093000
-DTEND;TZID="UTC+03:30":20261121T113000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8173-b023-d4465fc125b1
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
- 55w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908173b023d4465fc125b1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۱
  ۱
 DTSTART;TZID="UTC+03:30":20261202T093000
 DTEND;TZID="UTC+03:30":20261202T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-817c-a72b-cfa58a20deba
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
@@ -2170,20 +2014,10 @@ DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
  deba
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 ریاضی ۲ - دوشنبه ۹
-DTSTART;TZID="UTC+03:30":20261116T120000
-DTEND;TZID="UTC+03:30":20261116T133000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-817c-ac29-d671d06f446d
-CATEGORIES:University
-DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
-  | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90817cac29d671d06f446d
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - یکشنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261129T133000
 DTEND;TZID="UTC+03:30":20261129T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-817d-8d4c-c4b971679ae2
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
@@ -2191,21 +2025,10 @@ DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
  79ae2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 دیفرانسیل - یکشنبه ۹
-DTSTART;TZID="UTC+03:30":20261115T133000
-DTEND;TZID="UTC+03:30":20261115T153000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8194-b9ca-dbec4794f4b3
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
- میه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908194b9cadbec479
- 4f4b3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - دوشنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261130T093000
 DTEND;TZID="UTC+03:30":20261130T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8196-a8fc-fbeebfba448d
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -2215,7 +2038,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۱۰
 DTSTART;TZID="UTC+03:30":20261124T133000
 DTEND;TZID="UTC+03:30":20261124T143000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-819b-8b25-fb1c48d9d88c
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
@@ -2223,21 +2046,11 @@ DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
  9d88c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 ریاضی ۲ - شنبه ۱۰
-DTSTART;TZID="UTC+03:30":20261121T120000
-DTEND;TZID="UTC+03:30":20261121T133000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-819b-95b4-e984d5c96b37
-CATEGORIES:University
-DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
-  | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90819b95b4e984d5c96b37
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۱
  ۰
 DTSTART;TZID="UTC+03:30":20261125T093000
 DTEND;TZID="UTC+03:30":20261125T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-819b-bb39-de650ee2f948
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
@@ -2245,20 +2058,10 @@ DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
  f948
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 احتمال - یکشنبه ۹
-DTSTART;TZID="UTC+03:30":20261115T153000
-DTEND;TZID="UTC+03:30":20261115T173000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81a6-af8c-ee19a585af9e
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
- 53w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081a6af8cee19a585af9e
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 احتمال - سه‌شنبه ۱۰
 DTSTART;TZID="UTC+03:30":20261124T153000
 DTEND;TZID="UTC+03:30":20261124T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81a9-97d2-ed316a20e867
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -2268,7 +2071,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261201T133000
 DTEND;TZID="UTC+03:30":20261201T143000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81af-aa70-c2317731a5e0
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
@@ -2279,28 +2082,17 @@ BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - دوشنبه ۱۰
 DTSTART;TZID="UTC+03:30":20261123T093000
 DTEND;TZID="UTC+03:30":20261123T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81b2-ac36-fecdb6b3cb03
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
  55w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081b2ac36fecdb6b3cb03
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۹
-DTSTART;TZID="UTC+03:30":20261116T173000
-DTEND;TZID="UTC+03:30":20261116T193000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81b5-a859-d8013688e982
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
- اعیل | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081b5a859d801
- 3688e982
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - دوشنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261207T120000
 DTEND;TZID="UTC+03:30":20261207T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81bd-8ad3-cc76c6e8d859
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -2310,7 +2102,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - شنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261128T120000
 DTEND;TZID="UTC+03:30":20261128T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c0-85f7-e3b204b29ef9
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
@@ -2320,7 +2112,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - سه‌شنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261208T153000
 DTEND;TZID="UTC+03:30":20261208T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c3-82ef-c9920a38aeec
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -2330,7 +2122,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - یکشنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261206T133000
 DTEND;TZID="UTC+03:30":20261206T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c5-95ea-e9caabcffa5f
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
@@ -2338,20 +2130,10 @@ DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
  ffa5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 احتمال - یکشنبه ۱۰
-DTSTART;TZID="UTC+03:30":20261122T153000
-DTEND;TZID="UTC+03:30":20261122T173000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81c9-bde8-cf3d30a97379
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
- 53w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081c9bde8cf3d30a97379
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۱۲
 DTSTART;TZID="UTC+03:30":20261208T133000
 DTEND;TZID="UTC+03:30":20261208T143000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81d4-b0ba-f1d1fbf7477a
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
@@ -2359,20 +2141,10 @@ DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
  7477a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 احتمال - سه‌شنبه ۹
-DTSTART;TZID="UTC+03:30":20261117T153000
-DTEND;TZID="UTC+03:30":20261117T173000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81dd-aaac-d2148db9816f
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
- 53w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081ddaaacd2148db9816f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 احتمال - سه‌شنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261201T153000
 DTEND;TZID="UTC+03:30":20261201T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81de-88af-c91c148cd553
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -2382,7 +2154,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261201T143000
 DTEND;TZID="UTC+03:30":20261201T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81e0-9987-f2f3f0398881
 CATEGORIES:University
 DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
@@ -2393,7 +2165,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 احتمال - یکشنبه ۱۱
 DTSTART;TZID="UTC+03:30":20261129T153000
 DTEND;TZID="UTC+03:30":20261129T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81e1-a81d-f8a28f8ec120
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
@@ -2404,7 +2176,7 @@ SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۱
  ۲
 DTSTART;TZID="UTC+03:30":20261209T093000
 DTEND;TZID="UTC+03:30":20261209T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81e4-9b70-df589b319bba
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
@@ -2412,62 +2184,10 @@ DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
  9bba
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۹
-DTSTART;TZID="UTC+03:30":20261118T093000
-DTEND;TZID="UTC+03:30":20261118T113000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81e9-b725-e7da1627c854
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
- مه | 155w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081e9b725e7da1627
- c854
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 احتمال - یکشنبه ۸
-DTSTART;TZID="UTC+03:30":20261108T153000
-DTEND;TZID="UTC+03:30":20261108T173000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-810d-98d9-e03c86f2618b
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
- 53w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90810d98d9e03c86f2618b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 ریاضی ۲ - دوشنبه ۸
-DTSTART;TZID="UTC+03:30":20261109T120000
-DTEND;TZID="UTC+03:30":20261109T133000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8110-87fa-f20b90f0ae4b
-CATEGORIES:University
-DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
-  | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90811087faf20b90f0ae4b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۷
-DTSTART;TZID="UTC+03:30":20261103T143000
-DTEND;TZID="UTC+03:30":20261103T153000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8110-b62b-e37b300bb011
-CATEGORIES:University
-DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
- ده سمیه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908110b62b
- e37b300bb011
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 ساختمان داده - شنبه ۸
-DTSTART;TZID="UTC+03:30":20261107T093000
-DTEND;TZID="UTC+03:30":20261107T113000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8112-848c-e665945b33ea
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
- 55w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908112848ce665945b33ea
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 دیفرانسیل - یکشنبه ۶
 DTSTART;TZID="UTC+03:30":20261025T133000
 DTEND;TZID="UTC+03:30":20261025T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-811e-87f8-d42675e170f7
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
@@ -2475,53 +2195,10 @@ DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
  170f7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 ساختمان داده - دوشنبه ۸
-DTSTART;TZID="UTC+03:30":20261109T093000
-DTEND;TZID="UTC+03:30":20261109T113000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8123-9abe-df80775f97da
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
- 55w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081239abedf80775f97da
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین دیفرانسیل - سه‌شنبه ۸
-DTSTART;TZID="UTC+03:30":20261110T143000
-DTEND;TZID="UTC+03:30":20261110T153000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8127-874e-e3e8992b92f5
-CATEGORIES:University
-DESCRIPTION:⏱ ۲ پومودورو | حل تمرین | زنکویی زا
- ده سمیه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908127874e
- e3e8992b92f5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۷
-DTSTART;TZID="UTC+03:30":20261104T093000
-DTEND;TZID="UTC+03:30":20261104T113000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8141-8175-feaf1a84699c
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
- مه | 155w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081418175feaf1a84
- 699c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۷
-DTSTART;TZID="UTC+03:30":20261103T133000
-DTEND;TZID="UTC+03:30":20261103T143000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-814f-9cbe-f17a8d39289f
-CATEGORIES:University
-DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
- میه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90814f9cbef17a8d3
- 9289f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 ساختمان داده - دوشنبه ۶
 DTSTART;TZID="UTC+03:30":20261026T093000
 DTEND;TZID="UTC+03:30":20261026T113000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8174-a989-fab31007d925
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
@@ -2531,115 +2208,30 @@ DESCRIPTION:⏱ ۴ پومودورو | کلاس | منصوری نجمه | 1
  8a908174a989fab31007d925
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 احتمال - سه‌شنبه ۷
-DTSTART;TZID="UTC+03:30":20261103T153000
-DTEND;TZID="UTC+03:30":20261103T173000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-817a-82e6-fe3b9dcdf2cf
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
- 53w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90817a82e6fe3b9dcdf2cf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 احتمال - یکشنبه ۷
-DTSTART;TZID="UTC+03:30":20261101T153000
-DTEND;TZID="UTC+03:30":20261101T173000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-818e-9313-d1ff0ca9b2ed
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
- 53w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90818e9313d1ff0ca9b2ed
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۷
-DTSTART;TZID="UTC+03:30":20261102T173000
-DTEND;TZID="UTC+03:30":20261102T193000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8195-8d04-d8383c77e377
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
- اعیل | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081958d04d838
- 3c77e377
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 ریاضی ۲ - شنبه ۸
-DTSTART;TZID="UTC+03:30":20261107T120000
-DTEND;TZID="UTC+03:30":20261107T133000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8196-800a-eb98eb8df597
-CATEGORIES:University
-DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
-  | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908196800aeb98eb8df597
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 دیفرانسیل - سه‌شنبه ۸
-DTSTART;TZID="UTC+03:30":20261110T133000
-DTEND;TZID="UTC+03:30":20261110T143000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-8198-91d3-f15f3e1ee5d4
-CATEGORIES:University
-DESCRIPTION:⏱ ۲ پومودورو | کلاس | زنکویی زاده س
- میه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90819891d3f15f3e1
- ee5d4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 احتمال - یکشنبه ۶
 DTSTART;TZID="UTC+03:30":20261025T153000
 DTEND;TZID="UTC+03:30":20261025T173000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8198-9e01-c2a03aeb7899
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
  53w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081989e01c2a03aeb7899
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 دیفرانسیل - یکشنبه ۷
-DTSTART;TZID="UTC+03:30":20261101T133000
-DTEND;TZID="UTC+03:30":20261101T153000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81b3-aba7-c021600b6ef5
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
- میه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081b3aba7c021600
- b6ef5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 ریاضی ۲ - شنبه ۶
 DTSTART;TZID="UTC+03:30":20261024T120000
 DTEND;TZID="UTC+03:30":20261024T133000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81b9-b5eb-e250d57cb576
 CATEGORIES:University
 DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
   | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081b9b5ebe250d57cb576
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین ساختمان داده - چهارشنبه ۸
-DTSTART;TZID="UTC+03:30":20261111T093000
-DTEND;TZID="UTC+03:30":20261111T113000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81be-b8d9-e92b8d39ec38
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | منصوری نج
- مه | 155w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081beb8d9e92b8d39
- ec38
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۸
-DTSTART;TZID="UTC+03:30":20261109T173000
-DTEND;TZID="UTC+03:30":20261109T193000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81d4-bdd7-ee5fe1d0f1a0
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
- اعیل | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081d4bdd7ee5f
- e1d0f1a0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 حل تمرین ریاضی ۲ - دوشنبه ۶
 DTSTART;TZID="UTC+03:30":20261026T173000
 DTEND;TZID="UTC+03:30":20261026T193000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81d7-8917-c84d5e8577ae
 CATEGORIES:University
 DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
@@ -2647,41 +2239,10 @@ DESCRIPTION:⏱ ۴ پومودورو | حل تمرین | رستمی اسم
  p.notion.com/p/3e1e1e4a8a9081d78917c84d5e8577ae
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎓 دیفرانسیل - یکشنبه ۸
-DTSTART;TZID="UTC+03:30":20261108T133000
-DTEND;TZID="UTC+03:30":20261108T153000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81e3-917d-f50213071f6f
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | زنکویی زاده س
- میه | M163\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081e3917df502130
- 71f6f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 احتمال - سه‌شنبه ۸
-DTSTART;TZID="UTC+03:30":20261110T153000
-DTEND;TZID="UTC+03:30":20261110T173000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81ed-a577-eaeefbb1cc67
-CATEGORIES:University
-DESCRIPTION:⏱ ۴ پومودورو | کلاس | رضایی مرضیه | 1
- 53w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081eda577eaeefbb1cc67
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎓 ریاضی ۲ - دوشنبه ۷
-DTSTART;TZID="UTC+03:30":20261102T120000
-DTEND;TZID="UTC+03:30":20261102T133000
-DTSTAMP:20261123T010505Z
-UID:3e1e1e4a-8a90-81f2-9511-d4aefc9c64f9
-CATEGORIES:University
-DESCRIPTION:⏱ ۳ پومودورو | کلاس | رستمی اسماعیل
-  | 151w1\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081f29511d4aefc9c64f9
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎓 امتحان ریاضی عمومی ۲
 DTSTART;TZID="UTC+03:30":20270112T080000
 DTEND;TZID="UTC+03:30":20270112T100000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8138-8ba5-cfcda24de0a4
 CATEGORIES:University
 DESCRIPTION:درس: ریاضی عمومی ۲ (۳ واحد)\nاستاد: ر
@@ -2693,7 +2254,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 امتحان معادلات دیفرانسیل
 DTSTART;TZID="UTC+03:30":20270120T133000
 DTEND;TZID="UTC+03:30":20270120T153000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8142-8e07-cde70b4f8996
 CATEGORIES:University
 DESCRIPTION:درس: معادلات دیفرانسیل (۳ واحد)\nاس
@@ -2705,7 +2266,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 امتحان مبانی احتمال
 DTSTART;TZID="UTC+03:30":20270110T160000
 DTEND;TZID="UTC+03:30":20270110T180000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81a6-b2b7-cf806f5cb60e
 CATEGORIES:University
 DESCRIPTION:درس: مبانی احتمال (۳ واحد)\nاستاد: ر
@@ -2717,7 +2278,7 @@ BEGIN:VEVENT
 SUMMARY:🎓 امتحان ساختمان داده ها و الگوریتم
 DTSTART;TZID="UTC+03:30":20270121T080000
 DTEND;TZID="UTC+03:30":20270121T100000
-DTSTAMP:20261123T010505Z
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81ac-8eb0-f624247b1be4
 CATEGORIES:University
 DESCRIPTION:درس: ساختمان داده ها و الگوریتم (۴ 
@@ -2728,601 +2289,332 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 امن‌کردن سیستم از طریق رمزنگاری: 
  رمزکردن اطلاعات با ابزار gpg
-DTSTART;TZID="UTC+03:30":20261105T103000
-DTEND;TZID="UTC+03:30":20261105T105500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261209T153000
+DTEND;TZID="UTC+03:30":20261209T155500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8105-a5d6-f0a47802610c
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۲۹ مهر ۱۴۰۵
-  (۱۵:۳۰). فصل ۱۱. ویدیو + درسنامه. پیش‌نیاز:
-  درس قبلی. 🔁 ۱۱ مهر: از ۱۵ مهر ۱۲:۰۰ به ۲۹ 
- مهر ۱۵:۳۰ منتقل شد (برنامه‌ی ۲۰ روزه‌ی ل
- ینوکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۸ مهر 
- ۱۰:۳۰ به ۳۰ مهر ۰۹:۳۰ منتقل شد (باشگاه روز
- های زوج + بازچینی لینوکس). 🔁 ۲۳ مهر: از ۳۰ 
- مهر ۱۰:۰۰ به ۳۰ مهر ۱۲:۰۰ منتقل شد (تا بعد 
- از میان‌ترم شنبه لینوکس نیست؛ پخش یکشنب
- ه تا پنجشنبه). 🔁 ۲۴ مهر: از ۳۰ مهر ۱۲:۰۰ به
-  ۱ آبان ۱۰:۰۰ منتقل شد (بازچینی ظرفیت؛ آخر
- ین درس تئوری، جمعه سبک). 🔁 ۲۵ مهر: از ۱ آب
- ان ۱۰:۰۰ به ۳۰ مهر ۱۱:۱۵ منتقل شد (بازچینی 
- هفته؛ LPIC تا ۳ آبان؛ آخرین درس تئوری). 🔁 ۲
- ۵ مهر (عصر): از ۳۰ مهر ۱۱:۱۵ به ۳۰ مهر ۱۱:۴۵ 
- منتقل شد (بازچینی: امتحان به ۴ آبان، باشگ
- اه روزهای فرد). 🔁 ۲۷ مهر: از ۳۰ مهر ۱۱:۴۵ ب
- ه ۳۰ مهر ۱۷:۳۰ منتقل شد (امتحان ساختمان دا
- ده ۲۵ پومودورو شد؛ سقف روزانه با تأیید عل
- یرضا رد شد). بعد از باشگاه؛ آخرین درس تئور
- ی LPIC.\n\n🔗 https://app.notion.com/p/gpg-3e1e1e4a8a908105a5d6f0a47802
- 610c
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۱. ویدیو + درسنا
+ مه. پیش‌نیاز: درس قبلی. آخرین درس تئوری LPI
+ C. 🔁 ۲ آذر: از ۱۴ آبان ۱۰:۳۰ به ۱۸ آذر ۱۵:۳۰
+  منتقل شد (پاکسازی عقب‌افتاده‌ها؛ ریتم 
+ سبک؛ ترتیب فصل حفظ شد؛ سابقه‌ی جابه‌جای
+ ی‌های قبلی خلاصه شد).\n\n🔗 https://app.notion.com/p/gp
+ g-3e1e1e4a8a908105a5d6f0a47802610c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: اقدامات مدیریتی 
  مربوط به کاربران
-DTSTART;TZID="UTC+03:30":20261110T093000
-DTEND;TZID="UTC+03:30":20261110T102500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261205T144500
+DTEND;TZID="UTC+03:30":20261205T154000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8129-ab29-ca6d8d11f914
 CATEGORIES:Linux
 DESCRIPTION:⏱ ۲ پومودورو. تمرین ۵۰۰ امتیازی؛ ت
  خمین حدود ۵۰ دقیقه. پیش‌نیاز: دو درس قبلی
- . ترمینال کوئرا باز باشد. 🔁 ۲۴ مهر: از ۲۷ 
- مهر ۱۴:۳۰ تا ۵ آبان ۰۹:۳۰ چند بار جابه‌جا 
- شد و آخر به ۳ آبان ۱۱:۱۵ آمد (مهلت لینوکس ت
- ا ۴ آبان؛ ظرفیت). 🔁 ۲۵ مهر: از ۳ آبان ۱۱:۱۵
-  به ۲ آبان ۱۷:۴۵ منتقل شد (بازچینی هفته؛ LPI
- C تا ۳ آبان؛ تمرین‌ها به ترتیب فصل؛ بعد ا
- ز باشگاه). 🔁 ۲۵ مهر (عصر): از ۲ آبان ۱۷:۴۵ ب
- ه ۲ آبان ۱۶:۱۵ منتقل شد (بازچینی: باشگاه ش
- نبه حذف شد). 🔁 ۲۷ مهر: از ۲ آبان ۱۶:۱۵ به ۲ 
- آبان ۱۵:۳۰ منتقل شد (تمرین DNS به جمعه رفت؛ 
- بلافاصله بعد از پومودورو ۲۳ امتحان). بعدش
-  ۲۰ دقیقه استراحت بلند.\n\n🔗 https://app.notion.com/p
- /3e1e1e4a8a908129ab29ca6d8d11f914
+ . ترمینال کوئرا باز باشد. 🔁 ۲ آذر: از ۱۹ آ
+ بان ۰۹:۳۰ به ۱۴ آذر ۱۴:۴۵ منتقل شد (پاکساز
+ ی عقب‌افتاده‌ها؛ ریتم سبک؛ ترتیب فصل حف
+ ظ شد؛ سابقه‌ی جابه‌جایی‌های قبلی خلاصه
+  شد).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908129ab29ca6d8d11f914
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اقدامات مدیریتی مربوط به کاربران:
   بررسی پورت‌های باز و اسکن شبکه
-DTSTART;TZID="UTC+03:30":20261104T140000
-DTEND;TZID="UTC+03:30":20261104T142500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261203T103000
+DTEND;TZID="UTC+03:30":20261203T105500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-813d-95e7-cdc12255fc1a
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۲۶ مهر ۱۴۰۵ (۱
- ۰:۰۰). فصل ۱۱. ویدیو + درسنامه. پیش‌نیاز: د
- رس قبلی. 🔁 ۱۱ مهر: از ۱۴ مهر ۱۰:۳۰ به ۲۶ مه
- ر ۱۰:۰۰ منتقل شد (برنامه‌ی ۲۰ روزه‌ی لین
- وکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۶ مهر ۱۱:
- ۳۰ به ۲۸ مهر ۱۰:۳۰ منتقل شد (باشگاه روزهای
-  زوج + بازچینی لینوکس). 🔁 ۲۳ مهر: از ۲۸ مهر
-  ۱۲:۳۰ به ۲۹ مهر ۱۳:۳۰ منتقل شد (تا بعد از م
- یان‌ترم شنبه لینوکس نیست؛ پخش یکشنبه تا 
- پنجشنبه). 🔁 ۲۴ مهر: از ۲۹ مهر ۱۳:۳۰ به ۳۰ م
- هر ۱۰:۴۵ منتقل شد (بازچینی ظرفیت؛ چهارشنب
- ه ظرفیت کم است). 🔁 ۲۵ مهر: از ۳۰ مهر ۱۰:۴۵ 
- به ۳۰ مهر ۰۹:۰۰ منتقل شد (بازچینی هفته؛ LPIC
-  تا ۳ آبان). 🔁 ۲۵ مهر (عصر): از ۳۰ مهر ۰۹:۰۰ 
- به ۲۹ مهر ۱۶:۰۰ منتقل شد (بازچینی: صبح پنج
- شنبه برای مطالعه‌ی امتحان رفت؛ عصر چهار
- شنبه آزاد شد). 🔁 ۲۷ مهر: از ۲۹ مهر ۱۶:۰۰ به
-  ۳۰ مهر ۱۱:۴۵ منتقل شد (امتحان ساختمان داد
- ه ۲۵ پومودورو شد؛ سقف روزانه با تأیید علی
- رضا رد شد).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90813d95e7cd
- c12255fc1a
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۱. ویدیو + درسنا
+ مه. پیش‌نیاز: درس قبلی. 🔁 ۲ آذر: از ۱۳ آبا
+ ن ۱۴:۰۰ به ۱۲ آذر ۱۰:۳۰ منتقل شد (پاکسازی ع
+ قب‌افتاده‌ها؛ ریتم سبک؛ ترتیب فصل حفظ ش
+ د؛ سابقه‌ی جابه‌جایی‌های قبلی خلاصه شد
+ ).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90813d95e7cdc12255fc1a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اهداف فصل ۱۱: امنیت
-DTSTART;TZID="UTC+03:30":20261103T100000
-DTEND;TZID="UTC+03:30":20261103T101000
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261202T153000
+DTEND;TZID="UTC+03:30":20261202T154000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8152-837e-cc92b3dab420
 CATEGORIES:Linux
 DESCRIPTION:⏱ کمتر از ۱ پومودورو (حدود ۵ دقیقه)
- . شنبه ۲۵ مهر ۱۴۰۵ (۱۵:۳۰). درس معرفی اهداف 
- فصل ۱۱. 🔁 ۱۱ مهر: از ۱۴ مهر ۰۹:۳۰ به ۲۵ مهر
-  ۱۵:۳۰ منتقل شد (برنامه‌ی ۲۰ روزه‌ی لینو
- کس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۶ مهر ۱۰:۳
- ۰ به ۲۸ مهر ۰۹:۳۰ منتقل شد (باشگاه روزهای 
- زوج + بازچینی لینوکس). 🔁 ۲۳ مهر: از ۲۸ مهر 
- ۱۱:۳۰ به ۲۹ مهر ۱۲:۰۰ منتقل شد (تا بعد از م
- یان‌ترم شنبه لینوکس نیست؛ پخش یکشنبه تا 
- پنجشنبه). 🔁 ۲۴ مهر: از ۲۹ مهر ۱۲:۰۰ به ۳۰ م
- هر ۱۰:۰۰ منتقل شد (بازچینی ظرفیت؛ چهارشنب
- ه ظرفیت کم است). 🔁 ۲۵ مهر: از ۳۰ مهر ۱۰:۰۰ 
- به ۲۹ مهر ۱۸:۱۵ منتقل شد (بازچینی هفته؛ LPIC
-  تا ۳ آبان). 🔁 ۲۵ مهر (عصر): از ۲۹ مهر ۱۸:۱۵ 
- به ۲۹ مهر ۱۵:۱۵ منتقل شد (بازچینی: باشگاه 
- چهارشنبه حذف شد). 🔁 ۲۷ مهر: از ۲۹ مهر ۱۵:۱
- ۵ به ۲۹ مهر ۱۸:۳۰ منتقل شد (امتحان ساختمان
-  داده ۲۵ پومودورو شد؛ سقف روزانه با تأیید
-  علیرضا رد شد). آخرین کار روز؛ بعدش شام و ز
- بان.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908152837ecc92b3dab420
+ . درس معرفی اهداف فصل ۱۱. 🔁 ۲ آذر: از ۱۲ آب
+ ان ۱۰:۰۰ به ۱۱ آذر ۱۵:۳۰ منتقل شد (پاکسازی 
+ عقب‌افتاده‌ها؛ ریتم سبک؛ ترتیب فصل حفظ 
+ شد؛ سابقه‌ی جابه‌جایی‌های قبلی خلاصه ش
+ د).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908152837ecc92b3dab420
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: اقدامات مدیریتی 
  مربوط به هاست
-DTSTART;TZID="UTC+03:30":20261111T140000
-DTEND;TZID="UTC+03:30":20261111T145500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261208T093000
+DTEND;TZID="UTC+03:30":20261208T102500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-815a-922a-e7772ae58d91
 CATEGORIES:Linux
 DESCRIPTION:⏱ ۲ پومودورو. تمرین ۲۶۰ امتیازی؛ ت
  خمین حدود ۴۰ دقیقه. پیش‌نیاز: درس مدیریت 
  ورود و سوپر سرورها. ترمینال کوئرا باز باش
- د. 🔁 ۲۴ مهر: از ۲۸ مهر ۰۹:۳۰ تا ۵ آبان ۱۰:۳
- ۰ چند بار جابه‌جا شد و آخر به ۱ آبان ۱۴:۰۰
-  آمد (مهلت لینوکس تا ۴ آبان؛ ظرفیت). 🔁 ۲۵ 
- مهر: از ۱ آبان ۱۴:۰۰ به ۳ آبان ۰۹:۰۰ منتقل 
- شد (بازچینی هفته؛ LPIC تا ۳ آبان؛ تمرین‌ها 
- به ترتیب فصل). 🔁 ۲۷ مهر: از ۳ آبان ۰۹:۰۰ به
-  ۲ آبان ۱۶:۴۵ منتقل شد (صبح یکشنبه برای آز
- مون شبیه‌سازی دوم امتحان ساختمان داده ر
- فت). بعدش مرور دیفرانسیل و احتمال.\n\n🔗 https
- ://app.notion.com/p/3e1e1e4a8a90815a922ae7772ae58d91
+ د. 🔁 ۲ آذر: از ۲۰ آبان ۱۴:۰۰ به ۱۷ آذر ۰۹:۳
+ ۰ منتقل شد (پاکسازی عقب‌افتاده‌ها؛ ریتم
+  سبک؛ ترتیب فصل حفظ شد؛ سابقه‌ی جابه‌جا
+ یی‌های قبلی خلاصه شد).\n\n🔗 https://app.notion.com/p/
+ 3e1e1e4a8a90815a922ae7772ae58d91
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 امن‌کردن سیستم از طریق رمزنگاری: 
  درک خوب از تونل‌های SSH
-DTSTART;TZID="UTC+03:30":20261105T100000
-DTEND;TZID="UTC+03:30":20261105T102500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261209T150000
+DTEND;TZID="UTC+03:30":20261209T152500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-815b-80e3-e84b17100a85
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۲۹ مهر ۱۴۰۵
-  (۱۵:۰۰). فصل ۱۱. ویدیو + درسنامه. پیش‌نیاز:
-  درس جفت‌کلید و SSH. 🔁 ۱۱ مهر: از ۱۵ مهر ۱۱:
- ۳۰ به ۲۹ مهر ۱۵:۰۰ منتقل شد (برنامه‌ی ۲۰ ر
- وزه‌ی لینوکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: از
-  ۲۸ مهر ۱۰:۰۰ به ۲۹ مهر ۱۳:۳۰ منتقل شد (باش
- گاه روزهای زوج + بازچینی لینوکس). 🔁 ۲۳ مه
- ر: از ۳۰ مهر ۰۹:۳۰ به ۳۰ مهر ۱۱:۳۰ منتقل شد 
- (تا بعد از میان‌ترم شنبه لینوکس نیست؛ پخ
- ش یکشنبه تا پنجشنبه). 🔁 ۲۴ مهر: از ۳۰ مهر 
- ۱۱:۳۰ به ۳۰ مهر ۱۴:۰۰ منتقل شد (بازچینی ظر
- فیت؛ بعد از ناهار). 🔁 ۲۵ مهر: از ۳۰ مهر ۱۴:
- ۰۰ به ۳۰ مهر ۱۰:۳۰ منتقل شد (بازچینی هفته؛
-  LPIC تا ۳ آبان). 🔁 ۲۵ مهر (عصر): از ۳۰ مهر ۱۰:
- ۳۰ به ۳۰ مهر ۱۱:۱۵ منتقل شد (بازچینی: امتح
- ان به ۴ آبان، باشگاه روزهای فرد؛ بعد از ا
- ستراحت بلند). 🔁 ۲۷ مهر: از ۳۰ مهر ۱۱:۱۵ به 
- ۳۰ مهر ۱۴:۰۰ منتقل شد (امتحان ساختمان داد
- ه ۲۵ پومودورو شد؛ سقف روزانه با تأیید علی
- رضا رد شد). ۱۴:۴۰ برای باشگاه راه بیفت.\n\n
- 🔗 https://app.notion.com/p/SSH-3e1e1e4a8a90815b80e3e84b17100a85
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۱. ویدیو + درسنا
+ مه. پیش‌نیاز: درس جفت‌کلید و SSH. 🔁 ۲ آذر: 
+ از ۱۴ آبان ۱۰:۰۰ به ۱۸ آذر ۱۵:۰۰ منتقل شد (
+ پاکسازی عقب‌افتاده‌ها؛ ریتم سبک؛ ترتیب
+  فصل حفظ شد؛ سابقه‌ی جابه‌جایی‌های قبل
+ ی خلاصه شد).\n\n🔗 https://app.notion.com/p/SSH-3e1e1e4a8a90815b
+ 80e3e84b17100a85
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 امن‌کردن سیستم از طریق رمزنگاری: 
  مفهوم جفت‌کلید و کاربرد در SSH
-DTSTART;TZID="UTC+03:30":20261104T181500
-DTEND;TZID="UTC+03:30":20261104T184000
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261209T143000
+DTEND;TZID="UTC+03:30":20261209T145500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-815c-8d25-ff5ccfb27e1e
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۲۹ مهر ۱۴۰۵
-  (۱۴:۳۰). فصل ۱۱. ویدیو + درسنامه. 🔁 ۱۱ مهر: 
- از ۱۵ مهر ۰۹:۰۰ به ۲۹ مهر ۱۴:۳۰ منتقل شد (ب
- رنامه‌ی ۲۰ روزه‌ی لینوکس؛ پایان ۳۰ مهر).
-  🔁 ۲۲ مهر: از ۲۸ مهر ۰۹:۳۰ به ۲۹ مهر ۱۲:۳۰ 
- منتقل شد (باشگاه روزهای زوج + بازچینی لین
- وکس). 🔁 ۲۳ مهر: از ۲۹ مهر ۱۴:۳۰ به ۳۰ مهر ۱
- ۱:۰۰ منتقل شد (تا بعد از میان‌ترم شنبه لی
- نوکس نیست؛ پخش یکشنبه تا پنجشنبه). 🔁 ۲۴ م
- هر: از ۳۰ مهر ۱۱:۰۰ به ۳۰ مهر ۱۲:۰۰ منتقل ش
- د (بازچینی ظرفیت). 🔁 ۲۵ مهر: از ۳۰ مهر ۱۲:۰
- ۰ به ۳۰ مهر ۱۰:۰۰ منتقل شد (بازچینی هفته؛ L
- PIC تا ۳ آبان). 🔁 ۲۵ مهر (عصر): از ۳۰ مهر ۱۰:۰
- ۰ به ۳۰ مهر ۱۰:۳۰ منتقل شد (بازچینی: امتحا
- ن به ۴ آبان، باشگاه روزهای فرد). 🔁 ۲۷ مهر:
-  از ۳۰ مهر ۱۰:۳۰ به ۳۰ مهر ۱۲:۴۵ منتقل شد (ا
- متحان ساختمان داده ۲۵ پومودورو شد؛ سقف ر
- وزانه با تأیید علیرضا رد شد). بعدش ناهار.\n
- \n🔗 https://app.notion.com/p/SSH-3e1e1e4a8a90815c8d25ff5ccfb27e1e
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۱. ویدیو + درسنا
+ مه. 🔁 ۲ آذر: از ۱۳ آبان ۱۸:۱۵ به ۱۸ آذر ۱۴:
+ ۳۰ منتقل شد (پاکسازی عقب‌افتاده‌ها؛ ریت
+ م سبک؛ ترتیب فصل حفظ شد؛ سابقه‌ی جابه‌ج
+ ایی‌های قبلی خلاصه شد).\n\n🔗 https://app.notion.com/
+ p/SSH-3e1e1e4a8a90815c8d25ff5ccfb27e1e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اقدامات مدیریتی مربوط به کاربران:
   sudo، su، پسورد و محدودیت‌ها
-DTSTART;TZID="UTC+03:30":20261103T101500
-DTEND;TZID="UTC+03:30":20261103T104000
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261203T100000
+DTEND;TZID="UTC+03:30":20261203T102500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-816d-97f3-e66bafdd8d8f
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۲۶ مهر ۱۴۰۵ (۰
- ۹:۳۰). فصل ۱۱ (مجموع ۶ ویدیوی فصل حدود ۱۳۰ 
- دقیقه؛ با سرعت ۱.۲۵ جا می‌شود) + درسنامه. 
- 🔁 ۱۱ مهر: از ۱۴ مهر ۱۰:۰۰ به ۲۶ مهر ۰۹:۳۰ م
- نتقل شد (برنامه‌ی ۲۰ روزه‌ی لینوکس؛ پای
- ان ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۶ مهر ۱۱:۰۰ به ۲۸ 
- مهر ۱۰:۰۰ منتقل شد (باشگاه روزهای زوج + با
- زچینی لینوکس). 🔁 ۲۳ مهر: از ۲۸ مهر ۱۲:۰۰ ب
- ه ۲۹ مهر ۱۲:۳۰ منتقل شد (تا بعد از میان‌تر
- م شنبه لینوکس نیست؛ پخش یکشنبه تا پنجشنب
- ه). 🔁 ۲۴ مهر: از ۲۹ مهر ۱۲:۳۰ به ۳۰ مهر ۱۰:۱
- ۵ منتقل شد (بازچینی ظرفیت؛ چهارشنبه ظرفی
- ت کم است). 🔁 ۲۵ مهر: از ۳۰ مهر ۱۰:۱۵ به ۲۹ م
- هر ۱۸:۳۰ منتقل شد (بازچینی هفته؛ LPIC تا ۳ آ
- بان). 🔁 ۲۵ مهر (عصر): از ۲۹ مهر ۱۸:۳۰ به ۲۹ 
- مهر ۱۵:۳۰ منتقل شد (بازچینی: باشگاه چهارش
- نبه حذف شد). 🔁 ۲۷ مهر: از ۲۹ مهر ۱۵:۳۰ به ۳
- ۰ مهر ۱۱:۱۵ منتقل شد (امتحان ساختمان داده 
- ۲۵ پومودورو شد؛ سقف روزانه با تأیید علیر
- ضا رد شد).\n\n🔗 https://app.notion.com/p/sudo-su-3e1e1e4a8a90816d
- 97f3e66bafdd8d8f
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۱ (مجموع ۶ ویدیو
+ ی فصل حدود ۱۳۰ دقیقه؛ با سرعت ۱.۲۵ جا می‌
+ شود) + درسنامه. 🔁 ۲ آذر: از ۱۲ آبان ۱۰:۱۵ ب
+ ه ۱۲ آذر ۱۰:۰۰ منتقل شد (پاکسازی عقب‌افتا
+ ده‌ها؛ ریتم سبک؛ ترتیب فصل حفظ شد؛ سابقه
+ ‌ی جابه‌جایی‌های قبلی خلاصه شد).\n\n🔗 http
+ s://app.notion.com/p/sudo-su-3e1e1e4a8a90816d97f3e66bafdd8d8f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اقدامات مدیریتی مربوط به هاست: مد
  یریت ورود، سوپر سرورها و مدیریت سرویس
-DTSTART;TZID="UTC+03:30":20261104T143000
-DTEND;TZID="UTC+03:30":20261104T145500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261206T093000
+DTEND;TZID="UTC+03:30":20261206T095500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-817e-acb8-e1d6db732edc
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۲۷ مهر ۱۴۰۵ (۱
- ۵:۳۰). فصل ۱۱. ویدیو + درسنامه. 🔁 ۱۱ مهر: از
-  ۱۴ مهر ۱۲:۱۵ به ۲۷ مهر ۱۵:۳۰ منتقل شد (برن
- امه‌ی ۲۰ روزه‌ی لینوکس؛ پایان ۳۰ مهر). 
- 🔁 ۲۲ مهر: از ۲۷ مهر ۱۴:۳۰ به ۲۸ مهر ۱۲:۰۰ م
- نتقل شد (باشگاه روزهای زوج + بازچینی لینو
- کس). 🔁 ۲۳ مهر: از ۲۹ مهر ۱۲:۳۰ به ۳۰ مهر ۰۹:
- ۳۰ منتقل شد (تا بعد از میان‌ترم شنبه لینو
- کس نیست؛ پخش یکشنبه تا پنجشنبه). 🔁 ۲۴ مهر
- : از ۳۰ مهر ۰۹:۳۰ به ۳۰ مهر ۱۱:۳۰ منتقل شد (
- بازچینی ظرفیت؛ بعد از استراحت بلند). 🔁 ۲
- ۵ مهر: از ۳۰ مهر ۱۱:۳۰ به ۳۰ مهر ۰۹:۳۰ منتق
- ل شد (بازچینی هفته؛ LPIC تا ۳ آبان). 🔁 ۲۵ مه
- ر (عصر): از ۳۰ مهر ۰۹:۳۰ به ۳۰ مهر ۱۰:۰۰ منت
- قل شد (بازچینی: دو پومودوروی اول صبح برای 
- مطالعه‌ی امتحان ساختمان داده). 🔁 ۲۷ مهر:
-  از ۳۰ مهر ۱۰:۰۰ به ۳۰ مهر ۱۲:۱۵ منتقل شد (ا
- متحان ساختمان داده ۲۵ پومودورو شد؛ صبح پ
- نجشنبه ۴ پومودورو مطالعهٔ امتحان است).\n\n
- 🔗 https://app.notion.com/p/3e1e1e4a8a90817eacb8e1d6db732edc
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۱. ویدیو + درسنا
+ مه. 🔁 ۲ آذر: از ۱۳ آبان ۱۴:۳۰ به ۱۵ آذر ۰۹:
+ ۳۰ منتقل شد (پاکسازی عقب‌افتاده‌ها؛ ریت
+ م سبک؛ ترتیب فصل حفظ شد؛ سابقه‌ی جابه‌ج
+ ایی‌های قبلی خلاصه شد).\n\n🔗 https://app.notion.com/
+ p/3e1e1e4a8a90817eacb8e1d6db732edc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: امن‌کردن سیستم 
  از طریق رمزنگاری
-DTSTART;TZID="UTC+03:30":20261112T100000
-DTEND;TZID="UTC+03:30":20261112T105500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261210T100000
+DTEND;TZID="UTC+03:30":20261210T105500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81c8-85ad-dc92b0d66a0b
 CATEGORIES:Linux
 DESCRIPTION:⏱ ۲ پومودورو. تمرین ۳۰۰ امتیازی؛ آ
  خرین کار دوره، تخمین حدود ۴۰ دقیقه. پیش‌
- نیاز: سه درس رمزنگاری. 🔁 ۲۴ مهر: از ۳۰ مهر
-  ۱۴:۰۰ تا ۶ آبان ۱۱:۴۵ چند بار جابه‌جا شد 
- و آخر به ۲ آبان ۱۸:۰۰ آمد (مهلت لینوکس تا ۴
-  آبان؛ ظرفیت). 🔁 ۲۵ مهر: از ۲ آبان ۱۸:۰۰ به
-  ۳ آبان ۱۰:۰۰ منتقل شد (بازچینی هفته؛ آخری
- ن کار LPIC، یک روز قبل از مهلت). بعدش ۲۰ دقیق
- ه استراحت بلند.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908
- 1c885addc92b0d66a0b
+ نیاز: سه درس رمزنگاری. 🔁 ۲ آذر: از ۲۱ آبان
+  ۱۰:۰۰ به ۱۹ آذر ۱۰:۰۰ منتقل شد (پاکسازی عق
+ ب‌افتاده‌ها؛ ریتم سبک؛ ترتیب فصل حفظ شد
+ ؛ سابقه‌ی جابه‌جایی‌های قبلی خلاصه شد).
+  بعدش ۲۰ دقیقه استراحت بلند.\n\n🔗 https://app.not
+ ion.com/p/3e1e1e4a8a9081c885addc92b0d66a0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: پیکربندی DNS سمت ک
  اربر
-DTSTART;TZID="UTC+03:30":20261109T143000
-DTEND;TZID="UTC+03:30":20261109T145500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261202T150000
+DTEND;TZID="UTC+03:30":20261202T152500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8122-9cae-c0b9a0fb8d5e
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. شنبه ۲۵ مهر ۱۴۰۵ (۱۵:
- ۰۰). تمرین ۲۰۰ امتیازی؛ آخرین کار فصل ۱۰، 
- تخمین حدود ۲۵ دقیقه. پیش‌نیاز: درس DNS سمت 
- کلاینت. 🔁 ۱۱ مهر: از ۱۴ مهر ۰۹:۰۰ به ۲۵ مه
- ر ۱۵:۰۰ منتقل شد (برنامه‌ی ۲۰ روزه‌ی لین
- وکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۶ مهر ۱۰:
- ۰۰ به ۲۷ مهر ۱۳:۳۰ منتقل شد (باشگاه روزهای
-  زوج + بازچینی لینوکس). 🔁 ۲۳ مهر: از ۲۸ مهر
-  ۱۱:۰۰ به ۲۹ مهر ۱۱:۳۰ منتقل شد (تا بعد از م
- یان‌ترم شنبه لینوکس نیست؛ پخش یکشنبه تا 
- پنجشنبه). 🔁 ۲۴ مهر: از ۲۹ مهر ۱۱:۳۰ به ۳ آب
- ان ۱۰:۳۰ منتقل شد (بازچینی ظرفیت؛ اول تئو
- ری، بعد تمرین‌ها). 🔁 ۲۵ مهر: از ۳ آبان ۱۰:
- ۳۰ به ۱ آبان ۱۱:۱۵ منتقل شد (بازچینی هفته؛
-  LPIC تا ۳ آبان؛ تمرین‌ها به ترتیب فصل). 🔁 
- ۲۵ مهر (عصر): از ۱ آبان ۱۱:۱۵ به ۲ آبان ۱۵:۳
- ۰ منتقل شد (بازچینی: شنبه عصر باشگاه ندار
- د؛ بعد از آزمون شبیه‌سازی). 🔁 ۲۷ مهر: از 
- ۲ آبان ۱۵:۳۰ به ۱ آبان ۱۲:۱۵ منتقل شد (امتح
- ان ساختمان داده ۲۵ پومودورو شد؛ دنباله‌
- ی تمرین‌های فصل ۱۰ جمعه). بعدش ناهار.\n\n🔗
-  https://app.notion.com/p/DNS-3e1e1e4a8a9081229caec0b9a0fb8d5e
+DESCRIPTION:⏱ ۱ پومودورو. تمرین ۲۰۰ امتیازی؛ آ
+ خرین کار فصل ۱۰، تخمین حدود ۲۵ دقیقه. پیش
+ ‌نیاز: درس DNS سمت کلاینت. 🔁 ۲ آذر: از ۱۸ آ
+ بان ۱۴:۳۰ به ۱۱ آذر ۱۵:۰۰ منتقل شد (پاکساز
+ ی عقب‌افتاده‌ها؛ ریتم سبک؛ ترتیب فصل حف
+ ظ شد؛ سابقه‌ی جابه‌جایی‌های قبلی خلاصه
+  شد).\n\n🔗 https://app.notion.com/p/DNS-3e1e1e4a8a9081229caec0b9a0fb8
+ d5e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: مقدمات شبکه
-DTSTART;TZID="UTC+03:30":20261105T115000
-DTEND;TZID="UTC+03:30":20261105T121500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261125T153000
+DTEND;TZID="UTC+03:30":20261125T155500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-814c-b468-fb1706a1191a
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. سه‌شنبه ۲۱ مهر ۱۴۰۵ 
- (۰۹:۳۰). تمرین ۲۰۰ امتیازی؛ تخمین حدود ۲۵ 
- دقیقه. پیش‌نیاز: سه درس مقدمات شبکه. ترمی
- نال کوئرا باز باشد. 🔁 ۱۱ مهر: از ۱۲ مهر ۱۲
- :۱۵ به ۲۱ مهر ۰۹:۳۰ منتقل شد (برنامه‌ی ۲۰ 
- روزه‌ی لینوکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: ا
- ز ۲۳ مهر ۱۰:۳۰ به ۲۵ مهر ۱۴:۰۰ منتقل شد (با
- شگاه روزهای زوج + بازچینی لینوکس). 🔁 ۲۳ م
- هر: از ۲۶ مهر ۱۰:۰۰ به ۲۶ مهر ۱۲:۳۰ منتقل ش
- د (تا بعد از میان‌ترم شنبه لینوکس نیست؛ پ
- خش یکشنبه تا پنجشنبه). 🔁 ۲۴ مهر: از ۲۶ مهر
-  ۱۲:۳۰ به ۲۷ مهر ۲۳:۰۰ منتقل شد (صبح یکشنبه
-  برای آزمون شبیه‌سازی خالی شد؛ ظرفیت یکش
- نبه پر است). 🔁 ۲۴ مهر: از ۲۷ مهر ۲۳:۰۰ به ۱ 
- آبان ۱۱:۰۰ منتقل شد (بازچینی ظرفیت؛ اول ت
- ئوری، بعد تمرین). 🔁 ۲۵ مهر: از ۱ آبان ۱۱:۰
- ۰ به ۳۰ مهر ۱۴:۰۰ منتقل شد (بازچینی هفته؛ L
- PIC تا ۳ آبان). 🔁 ۲۵ مهر (عصر): از ۳۰ مهر ۱۴:۰
- ۰ به ۱ آبان ۰۹:۳۰ منتقل شد (بازچینی: پنجشن
- به ۱۵ تا ۱۷ باشگاه).\n\n🔗 https://app.notion.com/p/3e1e1e
- 4a8a90814cb468fb1706a1191a
+DESCRIPTION:⏱ ۱ پومودورو. تمرین ۲۰۰ امتیازی؛ ت
+ خمین حدود ۲۵ دقیقه. پیش‌نیاز: سه درس مقدم
+ ات شبکه. ترمینال کوئرا باز باشد. 🔁 ۲ آذر: 
+ از ۱۴ آبان ۱۱:۵۰ به ۴ آذر ۱۵:۳۰ منتقل شد (پ
+ اکسازی عقب‌افتاده‌ها؛ ریتم سبک؛ ترتیب 
+ فصل حفظ شد؛ سابقه‌ی جابه‌جایی‌های قبلی
+  خلاصه شد).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90814cb468fb
+ 1706a1191a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: عیب‌یابی مقدمات
  ی شبکه
-DTSTART;TZID="UTC+03:30":20261108T093000
-DTEND;TZID="UTC+03:30":20261108T102500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261201T093000
+DTEND;TZID="UTC+03:30":20261201T102500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-817a-9b93-de720ec39458
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۲ پومودورو. پنجشنبه ۲۳ مهر ۱۴۰۵ (
- ۱۰:۰۰). تمرین ۴۰۰ امتیازی؛ تخمین حدود ۴۵ د
- قیقه. پیش‌نیاز: دو درس عیب‌یابی شبکه. تر
- مینال کوئرا باز باشد. 🔁 ۱۱ مهر: از ۱۳ مهر 
- ۱۵:۴۵ به ۲۳ مهر ۱۰:۰۰ منتقل شد (برنامه‌ی ۲
- ۰ روزه‌ی لینوکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر:
-  از ۲۵ مهر ۱۵:۳۰ به ۲۶ مهر ۱۱:۳۰ منتقل شد (ب
- اشگاه روزهای زوج + بازچینی لینوکس). 🔁 ۲۳ 
- مهر: از ۲۸ مهر ۰۹:۳۰ به ۲۸ مهر ۱۱:۳۰ منتقل 
- شد (تا بعد از میان‌ترم شنبه لینوکس نیست؛ 
- پخش یکشنبه تا پنجشنبه). 🔁 ۲۴ مهر: از ۲۸ مه
- ر ۱۱:۳۰ به ۳ آبان ۰۹:۳۰ منتقل شد (بازچینی ظ
- رفیت؛ اول تئوری، بعد تمرین‌ها). 🔁 ۲۵ مهر
- : از ۳ آبان ۰۹:۳۰ به ۱ آبان ۱۰:۰۰ منتقل شد (
- بازچینی هفته؛ LPIC تا ۳ آبان؛ تمرین‌ها به 
- ترتیب فصل). 🔁 ۲۵ مهر (عصر): از ۱ آبان ۱۰:۰۰ 
- به ۱ آبان ۱۱:۱۵ منتقل شد (حفظ ترتیب فصل؛ ب
- عد از استراحت بلند). بعدش ناهار؛ بقیه‌ی ج
- معه آزاد.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90817a9b93de72
- 0ec39458
+DESCRIPTION:⏱ ۲ پومودورو. تمرین ۴۰۰ امتیازی؛ ت
+ خمین حدود ۴۵ دقیقه. پیش‌نیاز: دو درس عیب
+ ‌یابی شبکه. ترمینال کوئرا باز باشد. 🔁 ۲ 
+ آذر: از ۱۷ آبان ۰۹:۳۰ به ۱۰ آذر ۰۹:۳۰ منتقل
+  شد (پاکسازی عقب‌افتاده‌ها؛ ریتم سبک؛ ت
+ رتیب فصل حفظ شد؛ سابقه‌ی جابه‌جایی‌های
+  قبلی خلاصه شد).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908
+ 17a9b93de720ec39458
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 عیب‌یابی مقدماتی شبکه: آیپی، مسی
  ریابی و پینگ
-DTSTART;TZID="UTC+03:30":20261101T100000
-DTEND;TZID="UTC+03:30":20261101T102500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261129T093000
+DTEND;TZID="UTC+03:30":20261129T095500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8183-a225-c9bb12d9d7de
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. چهارشنبه ۲۲ مهر ۱۴۰۵
-  (۱۵:۳۰). فصل ۱۰. ویدیو + درسنامه. 🔁 ۱۱ مهر: 
- از ۱۳ مهر ۱۴:۳۰ به ۲۲ مهر ۱۵:۳۰ منتقل شد (ب
- رنامه‌ی ۲۰ روزه‌ی لینوکس؛ پایان ۳۰ مهر).
-  🔁 ۲۲ مهر: از ۲۵ مهر ۱۴:۳۰ به ۲۶ مهر ۱۰:۳۰ 
- منتقل شد (باشگاه روزهای زوج + بازچینی لین
- وکس). 🔁 ۲۳ مهر: از ۲۷ مهر ۱۱:۳۰ به ۲۸ مهر ۱
- ۰:۳۰ منتقل شد (تا بعد از میان‌ترم شنبه لی
- نوکس نیست؛ پخش یکشنبه تا پنجشنبه). 🔁 ۲۴ م
- هر: از ۲۸ مهر ۱۰:۳۰ به ۲۹ مهر ۱۸:۳۰ منتقل ش
- د (بازچینی ظرفیت؛ سه‌شنبه سه کلاس دارد). 
- 🔁 ۲۵ مهر: از ۲۹ مهر ۱۸:۳۰ به ۲۹ مهر ۱۳:۳۰ م
- نتقل شد (بازچینی هفته؛ LPIC تا ۳ آبان). 🔁 ۲۵
-  مهر (عصر): از ۲۹ مهر ۱۳:۳۰ به ۲۸ مهر ۱۰:۳۰ م
- نتقل شد (بازچینی: امتحان به ۴ آبان، باشگا
- ه روزهای فرد؛ همه‌ی LPIC تا ۳ آبان). 🔁 ۲۷ م
- هر: از ۲۸ مهر ۱۰:۳۰ به ۲۹ مهر ۱۶:۴۵ منتقل ش
- د (امتحان ساختمان داده ۲۵ پومودورو شد؛ سق
- ف روزانه با تأیید علیرضا رد شد).\n\n🔗 https://a
- pp.notion.com/p/3e1e1e4a8a908183a225c9bb12d9d7de
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۰. ویدیو + درسنا
+ مه. 🔁 ۲ آذر: از ۱۰ آبان ۱۰:۰۰ به ۸ آذر ۰۹:۳
+ ۰ منتقل شد (پاکسازی عقب‌افتاده‌ها؛ ریتم
+  سبک؛ ترتیب فصل حفظ شد؛ سابقه‌ی جابه‌جا
+ یی‌های قبلی خلاصه شد).\n\n🔗 https://app.notion.com/p/
+ 3e1e1e4a8a908183a225c9bb12d9d7de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 تنظیمات پایدار شبکه: مقدمات، دستو
  رات و فایل‌های تنظیمات شبکه
-DTSTART;TZID="UTC+03:30":20261031T153000
-DTEND;TZID="UTC+03:30":20261031T155500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261126T100000
+DTEND;TZID="UTC+03:30":20261126T102500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-818b-8121-dded69e66583
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. سه‌شنبه ۲۱ مهر ۱۴۰۵ 
- (۱۰:۰۰). فصل ۱۰. ویدیو + درسنامه. 🔁 ۱۱ مهر: 
- از ۱۲ مهر ۱۲:۴۵ به ۲۱ مهر ۱۰:۰۰ منتقل شد (ب
- رنامه‌ی ۲۰ روزه‌ی لینوکس؛ پایان ۳۰ مهر).
-  🔁 ۲۲ مهر: از ۲۳ مهر ۱۱:۰۰ به ۲۵ مهر ۱۴:۳۰ 
- منتقل شد (باشگاه روزهای زوج + بازچینی لین
- وکس). 🔁 ۲۳ مهر: از ۲۶ مهر ۱۰:۳۰ به ۲۷ مهر ۱
- ۱:۳۰ منتقل شد (تا بعد از میان‌ترم شنبه لی
- نوکس نیست؛ پخش یکشنبه تا پنجشنبه). 🔁 ۲۴ م
- هر: از ۲۷ مهر ۱۱:۳۰ به ۲۷ مهر ۲۲:۰۰ منتقل ش
- د (۱۱:۳۰ وسط دو کلاس دوشنبه بود). 🔁 ۲۴ مهر:
-  از ۲۷ مهر ۲۲:۰۰ به ۲۹ مهر ۱۴:۰۰ منتقل شد (ب
- ازچینی ظرفیت؛ کار شبانه حذف شد). 🔁 ۲۵ مهر
- : از ۲۹ مهر ۱۴:۰۰ به ۲۸ مهر ۱۱:۳۰ منتقل شد (
- بازچینی هفته؛ LPIC تا ۳ آبان؛ بعد از استراح
- ت بلند). 🔁 ۲۵ مهر (عصر): از ۲۸ مهر ۱۱:۳۰ به 
- ۲۷ مهر ۱۶:۰۰ منتقل شد (بازچینی: امتحان به 
- ۴ آبان، باشگاه روزهای فرد). 🔁 ۲۷ مهر: از ۲
- ۷ مهر ۱۶:۰۰ به ۲۹ مهر ۱۵:۳۰ منتقل شد (امتحا
- ن ساختمان داده ۲۵ پومودورو شد؛ سقف روزان
- ه با تأیید علیرضا رد شد). بعدش ۲۰ دقیقه اس
- تراحت بلند.\n\n🔗 https://app.notion.com/p/3e1e1e4a8a90818b8121
- dded69e66583
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۰. ویدیو + درسنا
+ مه. 🔁 ۲ آذر: از ۹ آبان ۱۵:۳۰ به ۵ آذر ۱۰:۰۰ 
+ منتقل شد (پاکسازی عقب‌افتاده‌ها؛ ریتم س
+ بک؛ ترتیب فصل حفظ شد؛ سابقه‌ی جابه‌جایی
+ ‌های قبلی خلاصه شد).\n\n🔗 https://app.notion.com/p/3e1e
+ 1e4a8a90818b8121dded69e66583
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 سرویس DNS در سمت کلاینت
-DTSTART;TZID="UTC+03:30":20261103T093000
-DTEND;TZID="UTC+03:30":20261103T095500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261202T143000
+DTEND;TZID="UTC+03:30":20261202T145500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81a1-91cf-e95de3f63e0a
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. شنبه ۲۵ مهر ۱۴۰۵ (۱۴:
- ۳۰). فصل ۱۰. ویدیو + درسنامه. 🔁 ۱۱ مهر: از ۱
- ۳ مهر ۱۶:۴۵ به ۲۵ مهر ۱۴:۳۰ منتقل شد (برنام
- ه‌ی ۲۰ روزه‌ی لینوکس؛ پایان ۳۰ مهر). 🔁 ۲
- ۲ مهر: از ۲۶ مهر ۰۹:۳۰ به ۲۷ مهر ۱۱:۳۰ منتق
- ل شد (باشگاه روزهای زوج + بازچینی لینوکس). 
- 🔁 ۲۳ مهر: از ۲۸ مهر ۱۰:۳۰ به ۲۸ مهر ۱۲:۳۰ م
- نتقل شد (تا بعد از میان‌ترم شنبه لینوکس ن
- یست؛ پخش یکشنبه تا پنجشنبه). 🔁 ۲۴ مهر: از 
- ۲۸ مهر ۱۲:۳۰ به ۳۰ مهر ۰۹:۳۰ منتقل شد (بازچ
- ینی ظرفیت؛ سه‌شنبه سه کلاس دارد). 🔁 ۲۵ م
- هر: از ۳۰ مهر ۰۹:۳۰ به ۲۹ مهر ۱۷:۴۵ منتقل ش
- د (بازچینی هفته؛ LPIC تا ۳ آبان؛ بعد از باشگ
- اه). 🔁 ۲۵ مهر (عصر): از ۲۹ مهر ۱۷:۴۵ به ۲۹ م
- هر ۱۴:۳۰ منتقل شد (بازچینی: باشگاه چهارشن
- به حذف شد و عصر آزاد شد). 🔁 ۲۷ مهر: از ۲۹ م
- هر ۱۴:۳۰ به ۲۹ مهر ۱۷:۴۵ منتقل شد (امتحان س
- اختمان داده ۲۵ پومودورو شد؛ سقف روزانه ب
- ا تأیید علیرضا رد شد). بعدش ۲۰ دقیقه استرا
- حت بلند.\n\n🔗 https://app.notion.com/p/DNS-3e1e1e4a8a9081a191cfe9
- 5de3f63e0a
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۰. ویدیو + درسنا
+ مه. 🔁 ۲ آذر: از ۱۲ آبان ۰۹:۳۰ به ۱۱ آذر ۱۴:
+ ۳۰ منتقل شد (پاکسازی عقب‌افتاده‌ها؛ ریت
+ م سبک؛ ترتیب فصل حفظ شد؛ سابقه‌ی جابه‌ج
+ ایی‌های قبلی خلاصه شد).\n\n🔗 https://app.notion.com/
+ p/DNS-3e1e1e4a8a9081a191cfe95de3f63e0a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 عیب‌یابی مقدماتی شبکه: بررسی، ای
  جاد و تست اتصالات
-DTSTART;TZID="UTC+03:30":20261102T153000
-DTEND;TZID="UTC+03:30":20261102T155500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261129T100000
+DTEND;TZID="UTC+03:30":20261129T102500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81ab-9888-f7a053030bfc
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. پنجشنبه ۲۳ مهر ۱۴۰۵ (
- ۰۹:۳۰). فصل ۱۰. ویدیو + درسنامه. پیش‌نیاز: 
- درس قبلی. 🔁 ۱۱ مهر: از ۱۳ مهر ۱۵:۱۵ به ۲۳ م
- هر ۰۹:۳۰ منتقل شد (برنامه‌ی ۲۰ روزه‌ی لی
- نوکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۵ مهر ۱
- ۵:۰۰ به ۲۶ مهر ۱۱:۰۰ منتقل شد (باشگاه روزه
- ای زوج + بازچینی لینوکس). 🔁 ۲۳ مهر: از ۲۷ م
- هر ۱۳:۳۰ به ۲۸ مهر ۱۱:۰۰ منتقل شد (تا بعد ا
- ز میان‌ترم شنبه لینوکس نیست؛ پخش یکشنبه 
- تا پنجشنبه). 🔁 ۲۴ مهر: از ۲۸ مهر ۱۱:۰۰ به ۳
- ۰ مهر ۰۹:۰۰ منتقل شد (بازچینی ظرفیت؛ سه‌ش
- نبه سه کلاس دارد). 🔁 ۲۵ مهر: از ۳۰ مهر ۰۹:۰
- ۰ به ۲۹ مهر ۱۴:۰۰ منتقل شد (بازچینی هفته؛ L
- PIC تا ۳ آبان). 🔁 ۲۷ مهر: از ۲۹ مهر ۱۴:۰۰ به 
- ۲۹ مهر ۱۷:۱۵ منتقل شد (امتحان ساختمان داد
- ه ۲۵ پومودورو شد؛ سقف روزانه با تأیید علی
- رضا رد شد).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081ab9888f7
- a053030bfc
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۰. ویدیو + درسنا
+ مه. پیش‌نیاز: درس قبلی. 🔁 ۲ آذر: از ۱۱ آبا
+ ن ۱۵:۳۰ به ۸ آذر ۱۰:۰۰ منتقل شد (پاکسازی عق
+ ب‌افتاده‌ها؛ ریتم سبک؛ ترتیب فصل حفظ شد
+ ؛ سابقه‌ی جابه‌جایی‌های قبلی خلاصه شد).
+ \n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081ab9888f7a053030bfc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: تنظیمات پایدار ش
  بکه
-DTSTART;TZID="UTC+03:30":20261107T143000
-DTEND;TZID="UTC+03:30":20261107T152500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261128T144500
+DTEND;TZID="UTC+03:30":20261128T154000
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81ce-b8b7-f5937c5f3074
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۲ پومودورو. چهارشنبه ۲۲ مهر ۱۴۰۵
-  (۱۴:۳۰). تمرین ۳۰۰ امتیازی؛ تخمین حدود ۴۰ 
- دقیقه. پیش‌نیاز: دو درس تنظیمات پایدار. ت
- رمینال کوئرا باز باشد. 🔁 ۱۱ مهر: از ۱۳ مه
- ر ۱۳:۳۰ به ۲۲ مهر ۱۴:۳۰ منتقل شد (برنامه‌ی
-  ۲۰ روزه‌ی لینوکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مه
- ر: از ۲۵ مهر ۱۳:۳۰ به ۲۶ مهر ۰۹:۳۰ منتقل شد 
- (باشگاه روزهای زوج + بازچینی لینوکس). 🔁 ۲
- ۳ مهر: از ۲۶ مهر ۱۱:۳۰ به ۲۸ مهر ۰۹:۳۰ منتق
- ل شد (تا بعد از میان‌ترم شنبه لینوکس نیست
- ؛ پخش یکشنبه تا پنجشنبه). 🔁 ۲۴ مهر: از ۲۸ 
- مهر ۰۹:۳۰ به ۱ آبان ۱۱:۴۵ منتقل شد (بازچین
- ی ظرفیت؛ اول تئوری، بعد تمرین‌ها). 🔁 ۲۵ 
- مهر: از ۱ آبان ۱۱:۴۵ به ۱ آبان ۰۹:۰۰ منتقل 
- شد (بازچینی هفته؛ LPIC تا ۳ آبان؛ جمعه با تأ
- یید علیرضا). 🔁 ۲۵ مهر (عصر): از ۱ آبان ۰۹:۰
- ۰ به ۱ آبان ۱۰:۰۰ منتقل شد (حفظ ترتیب فصل؛ 
- دو تمرین قبلی از پنجشنبه به اینجا آمدند). 
- بعدش ۲۰ دقیقه استراحت بلند.\n\n🔗 https://app.noti
- on.com/p/3e1e1e4a8a9081ceb8b7f5937c5f3074
+DESCRIPTION:⏱ ۲ پومودورو. تمرین ۳۰۰ امتیازی؛ ت
+ خمین حدود ۴۰ دقیقه. پیش‌نیاز: دو درس تنظی
+ مات پایدار. ترمینال کوئرا باز باشد. 🔁 ۲ آ
+ ذر: از ۱۶ آبان ۱۴:۳۰ به ۷ آذر ۱۴:۴۵ منتقل ش
+ د (پاکسازی عقب‌افتاده‌ها؛ ریتم سبک؛ ترت
+ یب فصل حفظ شد؛ سابقه‌ی جابه‌جایی‌های ق
+ بلی خلاصه شد).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a9081ce
+ b8b7f5937c5f3074
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 تنظیمات پایدار شبکه: تنظیمات اسم 
  هاست (Hostname)، DNS و ...
-DTSTART;TZID="UTC+03:30":20261101T093000
-DTEND;TZID="UTC+03:30":20261101T095500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261126T103000
+DTEND;TZID="UTC+03:30":20261126T105500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81f0-bffa-d97f7a68c6d8
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. سه‌شنبه ۲۱ مهر ۱۴۰۵ 
- (۱۰:۳۰). فصل ۱۰. ویدیو + درسنامه. پیش‌نیاز: 
- درس قبلی. 🔁 ۱۱ مهر: از ۱۳ مهر ۰۹:۰۰ به ۲۱ م
- هر ۱۰:۳۰ منتقل شد (برنامه‌ی ۲۰ روزه‌ی لی
- نوکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۳ مهر ۱
- ۱:۳۰ به ۲۵ مهر ۱۹:۰۰ منتقل شد (بعد از باشگا
- ه؛ بازچینی لینوکس). 🔁 ۲۳ مهر: از ۲۶ مهر ۱۱
- :۰۰ به ۲۷ مهر ۱۳:۳۰ منتقل شد (تا بعد از میا
- ن‌ترم شنبه لینوکس نیست؛ پخش یکشنبه تا پن
- جشنبه). 🔁 ۲۴ مهر: از ۲۷ مهر ۱۳:۳۰ به ۲۹ مهر
-  ۱۸:۰۰ منتقل شد (بازچینی ظرفیت؛ ۲۷ مهر امت
- حان و کلاس پشت‌سرهم است). 🔁 ۲۵ مهر: از ۲۹ 
- مهر ۱۸:۰۰ به ۲۹ مهر ۱۳:۰۰ منتقل شد (بازچین
- ی هفته؛ LPIC تا ۳ آبان؛ بعد از ناهار). 🔁 ۲۵ 
- مهر (عصر): از ۲۹ مهر ۱۳:۰۰ به ۲۸ مهر ۱۰:۰۰ م
- نتقل شد (بازچینی: امتحان به ۴ آبان، باشگا
- ه روزهای فرد؛ همه‌ی LPIC تا ۳ آبان). 🔁 ۲۷ م
- هر: از ۲۸ مهر ۱۰:۰۰ به ۲۹ مهر ۱۶:۱۵ منتقل ش
- د (امتحان ساختمان داده ۲۵ پومودورو شد؛ سق
- ف روزانه با تأیید علیرضا رد شد).\n\n🔗 https://a
- pp.notion.com/p/Hostname-DNS-3e1e1e4a8a9081f0bffad97f7a68c6d8
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۰. ویدیو + درسنا
+ مه. پیش‌نیاز: درس قبلی. 🔁 ۲ آذر: از ۱۰ آبا
+ ن ۰۹:۳۰ به ۵ آذر ۱۰:۳۰ منتقل شد (پاکسازی عق
+ ب‌افتاده‌ها؛ ریتم سبک؛ ترتیب فصل حفظ شد
+ ؛ سابقه‌ی جابه‌جایی‌های قبلی خلاصه شد).
+  بعدش ۲۰ دقیقه استراحت بلند.\n\n🔗 https://app.not
+ ion.com/p/Hostname-DNS-3e1e1e4a8a9081f0bffad97f7a68c6d8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 مقدمات شبکه: پروتکل‌های ارتباطی،
   ICMP، UDP، TCP و پورت‌ها و IPv6
-DTSTART;TZID="UTC+03:30":20261031T150000
-DTEND;TZID="UTC+03:30":20261031T152500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261125T150000
+DTEND;TZID="UTC+03:30":20261125T152500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-81f7-8394-c36e60dc5822
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. دوشنبه ۲۰ مهر ۱۴۰۵ (۱
- ۵:۳۰). فصل ۱۰. ویدیو + درسنامه. پیش‌نیاز: د
- رس قبلی. 🔁 ۱۱ مهر: از ۱۲ مهر ۱۱:۴۵ به ۲۰ مه
- ر ۱۵:۳۰ منتقل شد (برنامه‌ی ۲۰ روزه‌ی لین
- وکس؛ پایان ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۳ مهر ۱۰:
- ۰۰ به ۲۵ مهر ۱۳:۳۰ منتقل شد (باشگاه روزهای
-  زوج + بازچینی لینوکس). 🔁 ۲۳ مهر: از ۲۶ مهر
-  ۰۹:۳۰ به ۲۶ مهر ۱۲:۰۰ منتقل شد (تا بعد از م
- یان‌ترم شنبه لینوکس نیست؛ پخش یکشنبه تا 
- پنجشنبه). 🔁 ۲۴ مهر: از ۲۶ مهر ۱۲:۰۰ به ۲۷ م
- هر ۲۲:۳۰ منتقل شد (صبح یکشنبه برای آزمون ش
- بیه‌سازی خالی شد؛ ظرفیت یکشنبه پر است). 
- 🔁 ۲۴ مهر: از ۲۷ مهر ۲۲:۳۰ به ۲۹ مهر ۱۲:۱۵ م
- نتقل شد (بازچینی ظرفیت؛ کار شبانه حذف شد).
-  🔁 ۲۵ مهر: از ۲۹ مهر ۱۲:۱۵ به ۲۸ مهر ۱۰:۴۵ 
- منتقل شد (بازچینی هفته؛ LPIC تا ۳ آبان تمام 
- شود، طبق تأیید علیرضا). 🔁 ۲۵ مهر (عصر): از 
- ۲۸ مهر ۱۰:۴۵ به ۲۷ مهر ۱۵:۳۰ منتقل شد (بازچ
- ینی: امتحان به ۴ آبان، باشگاه روزهای فرد؛
-  دوشنبه عصر آزاد شد). 🔁 ۲۷ مهر: از ۲۷ مهر ۱
- ۵:۳۰ به ۲۹ مهر ۱۵:۰۰ منتقل شد (امتحان ساخت
- مان داده ۲۵ پومودورو شد؛ سقف روزانه با تأ
- یید علیرضا رد شد؛ LPIC همچنان تا ۴ آبان).\n\n
- 🔗 https://app.notion.com/p/ICMP-UDP-TCP-IPv6-3e1e1e4a8a9081f78394c36e60
- dc5822
+DESCRIPTION:⏱ ۱ پومودورو. فصل ۱۰. ویدیو + درسنا
+ مه. پیش‌نیاز: درس قبلی. 🔁 ۲ آذر: از ۹ آبان
+  ۱۵:۰۰ به ۴ آذر ۱۵:۰۰ منتقل شد (پاکسازی عقب
+ ‌افتاده‌ها؛ ریتم سبک؛ ترتیب فصل حفظ شد؛
+  سابقه‌ی جابه‌جایی‌های قبلی خلاصه شد).\n
+ \n🔗 https://app.notion.com/p/ICMP-UDP-TCP-IPv6-3e1e1e4a8a9081f78394c36e
+ 60dc5822
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📌 اِلپیک‌اُلمپیک: مدیریت پرینترها 
  و سیستم چاپ
-DTSTART;TZID="UTC+03:30":20261105T112000
-DTEND;TZID="UTC+03:30":20261105T114500
-DTSTAMP:20261123T010505Z
+DTSTART;TZID="UTC+03:30":20261125T143000
+DTEND;TZID="UTC+03:30":20261125T145500
+DTSTAMP:20261123T090519Z
 UID:3e1e1e4a-8a90-8180-a4a6-fd52dc8d1cc9
 CATEGORIES:Linux
-DESCRIPTION:⏱ ۱ پومودورو. یکشنبه ۱۹ مهر ۱۴۰۵ (۱
- ۰:۰۰). تمرین ۲۰۰ امتیازی؛ آخرین کار فصل ۹،
-  تخمین حدود ۲۵ دقیقه. پیش‌نیاز: درس CUPS. 🔁
-  ۱۱ مهر: از ۱۲ مهر ۰۹:۳۰ به ۱۹ مهر ۱۰:۰۰ منت
- قل شد (برنامه‌ی ۲۰ روزه‌ی لینوکس؛ پایان 
- ۳۰ مهر). 🔁 ۲۲ مهر: از ۲۲ مهر ۱۳:۰۰ به ۲۳ مه
- ر ۱۰:۰۰ منتقل شد (انجام نشد؛ باشگاه روزها
- ی زوج + بازچینی لینوکس). 🔁 ۲۳ مهر: از ۲۴ مه
- ر ۱۶:۳۰ به ۲۶ مهر ۱۰:۰۰ منتقل شد (تا بعد از 
- میان‌ترم شنبه لینوکس نیست؛ پخش یکشنبه ت
- ا پنجشنبه). 🔁 ۲۴ مهر: از ۲۶ مهر ۱۰:۰۰ به ۲۶
-  مهر ۱۱:۰۰ منتقل شد (امتحان به دوشنبه ۲۷ م
- هر رفت). 🔁 ۲۴ مهر: از ۲۶ مهر ۱۱:۰۰ به ۱ آبا
- ن ۱۰:۳۰ منتقل شد (بازچینی ظرفیت؛ اول تئور
- ی، بعد تمرین). 🔁 ۲۵ مهر: از ۱ آبان ۱۰:۳۰ به
-  ۳۰ مهر ۱۱:۴۵ منتقل شد (بازچینی هفته؛ LPIC ت
- ا ۳ آبان؛ تمرین‌ها به ترتیب فصل). 🔁 ۲۵ مه
- ر (عصر): از ۳۰ مهر ۱۱:۴۵ به ۱ آبان ۰۹:۰۰ منت
- قل شد (بازچینی: پنجشنبه باشگاه دارد؛ اولی
- ن کار جمعه).\n\n🔗 https://app.notion.com/p/3e1e1e4a8a908180a4a6
- fd52dc8d1cc9
+DESCRIPTION:⏱ ۱ پومودورو. تمرین ۲۰۰ امتیازی؛ آ
+ خرین کار فصل ۹، تخمین حدود ۲۵ دقیقه. پیش‌
+ نیاز: درس CUPS. 🔁 ۲ آذر: از ۱۴ آبان ۱۱:۲۰ به 
+ ۴ آذر ۱۴:۳۰ منتقل شد (پاکسازی عقب‌افتاده
+ ‌ها؛ ریتم سبک؛ ترتیب فصل حفظ شد؛ سابقه‌
+ ی جابه‌جایی‌های قبلی خلاصه شد).\n\n🔗 https:/
+ /app.notion.com/p/3e1e1e4a8a908180a4a6fd52dc8d1cc9
 END:VEVENT
 END:VCALENDAR
